@@ -233,7 +233,7 @@ def formatoUnidad(n,i):
     n=u"Unidad "+str(i).encode("utf-8")+u": "+n
     formato="""
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>"""+n+"""</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>"""+n+"""</span></p>
 """
     return formato
 
@@ -242,7 +242,7 @@ def formatoModulo(n,j,i):
     n=u"Módulo "+str(j).encode("utf-8")+u": "+n
     formato="""
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('"""+str(mid).encode("utf-8")+"""')"><strong>"""+n+"""</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('"""+str(mid).encode("utf-8")+"""')"><span>"""+n+"""</span></p>
 """
     return formato
 

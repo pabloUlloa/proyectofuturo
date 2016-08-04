@@ -51,7 +51,7 @@ function crearClases(){
 			opacity: 0.7;\
 			filter: Alpha(opacity=70); /* IE8 and earlier */\
 		}\
-		.modulo, .video{\
+		.modulo span, .video span{\
 			text-align: justify;\
 			font-size: 16px;\
 			font-family: tizaCursiva;\
@@ -61,14 +61,18 @@ function crearClases(){
 			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
 		.unidad{\
+			height: 100px;\
+			width: 550px;\
+			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/unidad.png) no-repeat;\
+			background-size:90%;\
+		}\
+		.unidad span{\
 			font-size:24px;\
 			text-align: justify;\
 			font-family: tizaImprenta;\
 			cursor: pointer;\
 			opacity: 0.8;\
-			height: 50px;\
-			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/unidad.png) no-repeat;\
-			background-size:90%;\
+			\
 		}\
 		.modulo{\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
