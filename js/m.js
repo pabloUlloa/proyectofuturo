@@ -66,7 +66,7 @@ function crearClases(){
 		.video{\
 			text-align: justify;\
 			font-family: tizaCursiva;\
-			\
+			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
 		}\
     ");
     x.appendChild(t);
