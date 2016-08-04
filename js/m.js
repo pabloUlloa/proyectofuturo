@@ -53,6 +53,7 @@ function crearClases(){
 			font-family: tizaCursiva;\
 			cursor: pointer;\
 			opacity: 0.8;\
+			height: 20px;\
 			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
 		.unidad{\
