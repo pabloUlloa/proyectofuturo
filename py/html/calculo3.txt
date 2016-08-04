@@ -2,14 +2,14 @@
 Series de Fourier
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 1: Series de Fourier</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Series de Fourier</span></p>
 
 
 -----------------------------------------------------------------------------
 	Series de Fourier
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Series de Fourier</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><span>Módulo 1: Series de Fourier</span></p>
 
 
 <div class="modulo1 1">
@@ -65,7 +65,7 @@ Series de Fourier
 	Convergencias
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><strong>Módulo 2: Convergencias</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><span>Módulo 2: Convergencias</span></p>
 
 
 
@@ -74,14 +74,14 @@ Series de Fourier
 Funciones Vectoriales de Variable Real
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 2: Funciones Vectoriales de Variable Real</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Funciones Vectoriales de Variable Real</span></p>
 
 
 -----------------------------------------------------------------------------
 	Diferenciación de funciones vectoriales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Diferenciación de funciones vectoriales</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><span>Módulo 1: Diferenciación de funciones vectoriales</span></p>
 
 
 <div class="modulo2 1">
@@ -116,7 +116,7 @@ Funciones Vectoriales de Variable Real
 	Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><span>Módulo 2: Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</span></p>
 
 
 <div class="modulo2 2">
@@ -132,56 +132,56 @@ Funciones Vectoriales de Variable Real
 Funciones de Varias Variables
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 3: Funciones de Varias Variables</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Funciones de Varias Variables</span></p>
 
 
 -----------------------------------------------------------------------------
 	Conceptos básicos: límite, continuidad, curvas y superficies de nivel
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Conceptos básicos: límite, continuidad, curvas y superficies de nivel</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><span>Módulo 1: Conceptos básicos: límite, continuidad, curvas y superficies de nivel</span></p>
 
 
 -----------------------------------------------------------------------------
 	Derivadas parciales, vector gradiente y derivada direcciónal
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 2')"><strong>Módulo 2: Derivadas parciales, vector gradiente y derivada direcciónal</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 2')"><span>Módulo 2: Derivadas parciales, vector gradiente y derivada direcciónal</span></p>
 
 
 -----------------------------------------------------------------------------
 	Diferenciabilidad y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 3')"><strong>Módulo 3: Diferenciabilidad y propiedades</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 3')"><span>Módulo 3: Diferenciabilidad y propiedades</span></p>
 
 
 -----------------------------------------------------------------------------
 	Derivación compuesta
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 4')"><strong>Módulo 4: Derivación compuesta</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 4')"><span>Módulo 4: Derivación compuesta</span></p>
 
 
 -----------------------------------------------------------------------------
 	Derivación implícita y derivación inversa
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 5')"><strong>Módulo 5: Derivación implícita y derivación inversa</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 5')"><span>Módulo 5: Derivación implícita y derivación inversa</span></p>
 
 
 -----------------------------------------------------------------------------
 	Valores extremos
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 6')"><strong>Módulo 6: Valores extremos</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 6')"><span>Módulo 6: Valores extremos</span></p>
 
 
 -----------------------------------------------------------------------------
 	Extremos condicionados
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 7')"><strong>Módulo 7: Extremos condicionados</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 7')"><span>Módulo 7: Extremos condicionados</span></p>
 
 
 
@@ -190,42 +190,42 @@ Funciones de Varias Variables
 Integrales dobles, triples, de línea y de superficie
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 4: Integrales dobles, triples, de línea y de superficie</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Integrales dobles, triples, de línea y de superficie</span></p>
 
 
 -----------------------------------------------------------------------------
 	Integrales dobles
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Integrales dobles</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><span>Módulo 1: Integrales dobles</span></p>
 
 
 -----------------------------------------------------------------------------
 	Integrales triples
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Integrales triples</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><span>Módulo 2: Integrales triples</span></p>
 
 
 -----------------------------------------------------------------------------
 	Integrales de línea (curvilínea)
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('4 3')"><strong>Módulo 3: Integrales de línea (curvilínea)</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 3')"><span>Módulo 3: Integrales de línea (curvilínea)</span></p>
 
 
 -----------------------------------------------------------------------------
 	Integrales de superficie
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('4 4')"><strong>Módulo 4: Integrales de superficie</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 4')"><span>Módulo 4: Integrales de superficie</span></p>
 
 
 -----------------------------------------------------------------------------
 	Teoremas de transformación de integrales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('4 5')"><strong>Módulo 5: Teoremas de transformación de integrales</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 5')"><span>Módulo 5: Teoremas de transformación de integrales</span></p>
 
 
 

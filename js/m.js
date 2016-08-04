@@ -52,7 +52,6 @@ function crearClases(){
 			filter: Alpha(opacity=70); /* IE8 and earlier */\
 		}\
 		.modulo span, .video span{\
-			text-align: justify;\
 			font-size: 16px;\
 			font-family: tizaCursiva;\
 			cursor: pointer;\
@@ -67,12 +66,12 @@ function crearClases(){
 			background-size:90%;\
 		}\
 		.unidad span{\
-			font-size:24px;\
-			text-align: justify;\
+			font-size:32px;\
 			font-family: tizaImprenta;\
 			cursor: pointer;\
 			opacity: 0.8;\
-			\
+			position: absolute;\
+			margin-left: 20%;\
 		}\
 		.modulo{\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\

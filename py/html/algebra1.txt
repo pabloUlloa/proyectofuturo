@@ -2,28 +2,28 @@
 Elementos de Lógica Matemática
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 1: Elementos de Lógica Matemática</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Elementos de Lógica Matemática</span></p>
 
 
 -----------------------------------------------------------------------------
 	Proposiciones, conectivos, tablas de verdad
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Proposiciones, conectivos, tablas de verdad</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><span>Módulo 1: Proposiciones, conectivos, tablas de verdad</span></p>
 
 
 -----------------------------------------------------------------------------
 	Reglas de inferencia
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><strong>Módulo 2: Reglas de inferencia</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><span>Módulo 2: Reglas de inferencia</span></p>
 
 
 -----------------------------------------------------------------------------
 	Cuantificadores, Leyes de cuantificación
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('1 3')"><strong>Módulo 3: Cuantificadores, Leyes de cuantificación</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 3')"><span>Módulo 3: Cuantificadores, Leyes de cuantificación</span></p>
 
 
 
@@ -32,14 +32,14 @@ Elementos de Lógica Matemática
 Inducción y Sumatoria
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 2: Inducción y Sumatoria</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Inducción y Sumatoria</span></p>
 
 
 -----------------------------------------------------------------------------
 	Primer y segundo teorema de inducción
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Primer y segundo teorema de inducción</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><span>Módulo 1: Primer y segundo teorema de inducción</span></p>
 
 
 <div class="modulo2 1">
@@ -74,7 +74,7 @@ Inducción y Sumatoria
 	Sumatoria simple, propiedades y sumas importantes
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Sumatoria simple, propiedades y sumas importantes</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><span>Módulo 2: Sumatoria simple, propiedades y sumas importantes</span></p>
 
 
 <div class="modulo2 2">
@@ -109,7 +109,7 @@ Inducción y Sumatoria
 	Sumatoria doble y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('2 3')"><strong>Módulo 3: Sumatoria doble y propiedades</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 3')"><span>Módulo 3: Sumatoria doble y propiedades</span></p>
 
 
 
@@ -118,14 +118,14 @@ Inducción y Sumatoria
 Progresiones y Análisis combinatorio
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 3: Progresiones y Análisis combinatorio</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Progresiones y Análisis combinatorio</span></p>
 
 
 -----------------------------------------------------------------------------
 	Progresiones Aritmética, Geométrica y Armónica, propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Progresiones Aritmética, Geométrica y Armónica, propiedades</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><span>Módulo 1: Progresiones Aritmética, Geométrica y Armónica, propiedades</span></p>
 
 
 <div class="modulo3 1">
@@ -181,14 +181,14 @@ Progresiones y Análisis combinatorio
 	Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 2')"><strong>Módulo 2: Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 2')"><span>Módulo 2: Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades</span></p>
 
 
 -----------------------------------------------------------------------------
 	Teorema del Binomio y sus propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 3')"><strong>Módulo 3: Teorema del Binomio y sus propiedades</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 3')"><span>Módulo 3: Teorema del Binomio y sus propiedades</span></p>
 
 
 <div class="modulo3 3">
@@ -232,14 +232,14 @@ Progresiones y Análisis combinatorio
 Relaciones
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 4: Relaciones</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Relaciones</span></p>
 
 
 -----------------------------------------------------------------------------
 	Dominio, recorrido, inversa, composición de relaciones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Dominio, recorrido, inversa, composición de relaciones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><span>Módulo 1: Dominio, recorrido, inversa, composición de relaciones</span></p>
 
 
 <div class="modulo4 1">
@@ -267,7 +267,7 @@ Relaciones
 	Relación de equivalencia, orden, congruencia, Zn
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Relación de equivalencia, orden, congruencia, Zn</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><span>Módulo 2: Relación de equivalencia, orden, congruencia, Zn</span></p>
 
 
 <div class="modulo4 2">
@@ -304,42 +304,42 @@ Relaciones
 Geometría Analitica
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 5: Geometría Analitica</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 5: Geometría Analitica</span></p>
 
 
 -----------------------------------------------------------------------------
 	Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('5 1')"><strong>Módulo 1: Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('5 1')"><span>Módulo 1: Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta</span></p>
 
 
 -----------------------------------------------------------------------------
 	Definición de la Línea Recta y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('5 2')"><strong>Módulo 2: Definición de la Línea Recta y sus diversas expresiones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('5 2')"><span>Módulo 2: Definición de la Línea Recta y sus diversas expresiones</span></p>
 
 
 -----------------------------------------------------------------------------
 	Definición de la Circunferencia y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('5 3')"><strong>Módulo 3: Definición de la Circunferencia y sus diversas expresiones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('5 3')"><span>Módulo 3: Definición de la Circunferencia y sus diversas expresiones</span></p>
 
 
 -----------------------------------------------------------------------------
 	Definición de la Parábola y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('5 4')"><strong>Módulo 4: Definición de la Parábola y sus diversas expresiones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('5 4')"><span>Módulo 4: Definición de la Parábola y sus diversas expresiones</span></p>
 
 
 -----------------------------------------------------------------------------
 	Definición de la Elipse y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('5 5')"><strong>Módulo 5: Definición de la Elipse y sus diversas expresiones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('5 5')"><span>Módulo 5: Definición de la Elipse y sus diversas expresiones</span></p>
 
 
 <div class="modulo5 5">
@@ -353,7 +353,7 @@ Geometría Analitica
 	Definición de la Hipérbola y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('5 6')"><strong>Módulo 6: Definición de la Hipérbola y sus diversas expresiones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('5 6')"><span>Módulo 6: Definición de la Hipérbola y sus diversas expresiones</span></p>
 
 
 <div class="modulo5 6">
@@ -369,28 +369,28 @@ Geometría Analitica
 Grupos, Anillos y Homomorfismos
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 6: Grupos, Anillos y Homomorfismos</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 6: Grupos, Anillos y Homomorfismos</span></p>
 
 
 -----------------------------------------------------------------------------
 	Definición de Grupos y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('6 1')"><strong>Módulo 1: Definición de Grupos y propiedades</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('6 1')"><span>Módulo 1: Definición de Grupos y propiedades</span></p>
 
 
 -----------------------------------------------------------------------------
 	Homomorfismo de Grupos
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('6 2')"><strong>Módulo 2: Homomorfismo de Grupos</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('6 2')"><span>Módulo 2: Homomorfismo de Grupos</span></p>
 
 
 -----------------------------------------------------------------------------
 	Definición de Anillo y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('6 3')"><strong>Módulo 3: Definición de Anillo y propiedades</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('6 3')"><span>Módulo 3: Definición de Anillo y propiedades</span></p>
 
 
 
@@ -399,28 +399,28 @@ Grupos, Anillos y Homomorfismos
 Complementos de Complejos
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 7: Complementos de Complejos</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 7: Complementos de Complejos</span></p>
 
 
 -----------------------------------------------------------------------------
 	Forma a+bi y operatoria
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('7 1')"><strong>Módulo 1: Forma a+bi y operatoria</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('7 1')"><span>Módulo 1: Forma a+bi y operatoria</span></p>
 
 
 -----------------------------------------------------------------------------
 	Forma trigonométrica y operatoria
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('7 2')"><strong>Módulo 2: Forma trigonométrica y operatoria</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('7 2')"><span>Módulo 2: Forma trigonométrica y operatoria</span></p>
 
 
 -----------------------------------------------------------------------------
 	Raices de un complejo
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('7 3')"><strong>Módulo 3: Raices de un complejo</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('7 3')"><span>Módulo 3: Raices de un complejo</span></p>
 
 
 
@@ -429,14 +429,14 @@ Complementos de Complejos
 Complementos de Polinomios
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 8: Complementos de Polinomios</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 8: Complementos de Polinomios</span></p>
 
 
 -----------------------------------------------------------------------------
 	Teorema del resto, división sintetica
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('8 1')"><strong>Módulo 1: Teorema del resto, división sintetica</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('8 1')"><span>Módulo 1: Teorema del resto, división sintetica</span></p>
 
 
 <div class="modulo8 1">
@@ -457,14 +457,14 @@ Complementos de Polinomios
 	Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('8 2')"><strong>Módulo 2: Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('8 2')"><span>Módulo 2: Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices</span></p>
 
 
 -----------------------------------------------------------------------------
 	Relaciones entre raices y coeficientes de una ecuación, fracciones parciales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('8 3')"><strong>Módulo 3: Relaciones entre raices y coeficientes de una ecuación, fracciones parciales</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('8 3')"><span>Módulo 3: Relaciones entre raices y coeficientes de una ecuación, fracciones parciales</span></p>
 
 
 <div class="modulo8 3">
@@ -480,35 +480,35 @@ Complementos de Polinomios
 Complementos de Matrices
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><strong>Unidad 9: Complementos de Matrices</strong></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 9: Complementos de Matrices</span></p>
 
 
 -----------------------------------------------------------------------------
 	M(n,m,R) con suma y multiplicación
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('9 1')"><strong>Módulo 1: M(n,m,R) con suma y multiplicación</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('9 1')"><span>Módulo 1: M(n,m,R) con suma y multiplicación</span></p>
 
 
 -----------------------------------------------------------------------------
 	M(n,R) con suma, multiplicación y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('9 2')"><strong>Módulo 2: M(n,R) con suma, multiplicación y propiedades</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('9 2')"><span>Módulo 2: M(n,R) con suma, multiplicación y propiedades</span></p>
 
 
 -----------------------------------------------------------------------------
 	Matrices especiales, traspuesta, simétrica, etc
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('9 3')"><strong>Módulo 3: Matrices especiales, traspuesta, simétrica, etc</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('9 3')"><span>Módulo 3: Matrices especiales, traspuesta, simétrica, etc</span></p>
 
 
 -----------------------------------------------------------------------------
 	Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('9 4')"><strong>Módulo 4: Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('9 4')"><span>Módulo 4: Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales</span></p>
 
 
 
