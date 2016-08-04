@@ -9,37 +9,61 @@ Integral de Riemann y Aplicaciones de la Integral
 	Sumas e integral de Riemann, propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 1')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 1')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Sumas e integral de Riemann, propiedades</span>
 </p>
 
+
+<div class="modulo1 1" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('33');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 2')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 2')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas</span>
 </p>
 
+
+<div class="modulo1 2" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('37');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Volumenes, Longitud de Arco y Areas de superficies de revolución
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 3')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 3')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Volumenes, Longitud de Arco y Areas de superficies de revolución</span>
 </p>
 
+
+<div class="modulo1 3" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('18');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Funciones Logaritmo Natural, Exponencial e Hiperbolicas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 4')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 4')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Funciones Logaritmo Natural, Exponencial e Hiperbolicas</span>
 </p>
 
+
+<div class="modulo1 4" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('68');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 
 
@@ -54,19 +78,31 @@ Aplicaciones Geométricas de la Integral
 	Ecuaciones Paramétricas y aplicaciones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 1')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 1')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Ecuaciones Paramétricas y aplicaciones</span>
 </p>
 
+
+<div class="modulo2 1" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('76');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Coordenadas Polares y aplicaciones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 2')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 2')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Coordenadas Polares y aplicaciones</span>
 </p>
 
+
+<div class="modulo2 2" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('76');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 
 
@@ -81,55 +117,91 @@ Integral Impropia y Series
 	Integrales impropias de primera especie
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 1')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 1')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales impropias de primera especie</span>
 </p>
 
+
+<div class="modulo3 1" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('94');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Integrales impropias de segunda y tercera especie
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 2')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 2')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales impropias de segunda y tercera especie</span>
 </p>
 
+
+<div class="modulo3 2" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('73');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Convergencia de integrales: Comparación y criterio del límite \(n^p\)
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 3')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 3')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Convergencia de integrales: Comparación y criterio del límite \(n^p\)</span>
 </p>
 
+
+<div class="modulo3 3" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('65');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Sucesiones y Series: Criterios de convergencia y divergencia
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 4')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 4')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Sucesiones y Series: Criterios de convergencia y divergencia</span>
 </p>
 
+
+<div class="modulo3 4" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('55');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Series de potencias
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 5')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 5')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Series de potencias</span>
 </p>
 
+
+<div class="modulo3 5" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('49');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Teorema de Taylor y de Mac Laurin, Serie Binomial
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 6')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 6')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Teorema de Taylor y de Mac Laurin, Serie Binomial</span>
 </p>
 
+
+<div class="modulo3 6" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('27');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 
 
@@ -144,28 +216,46 @@ Curvas en el plano y el espacio
 	Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 1')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 1')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)</span>
 </p>
 
+
+<div class="modulo4 1" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('68');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Diferenciación de funciones reales de varias variables
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 2')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 2')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Diferenciación de funciones reales de varias variables</span>
 </p>
 
+
+<div class="modulo4 2" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('83');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Derivación parcial
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 3')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 3')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivación parcial</span>
 </p>
 
+
+<div class="modulo4 3" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('60');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 
 

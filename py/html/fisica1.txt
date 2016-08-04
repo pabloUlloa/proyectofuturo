@@ -9,55 +9,91 @@ Introducción a la Física
 	Desarrollo de la Mecánica
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 1')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 1')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Desarrollo de la Mecánica</span>
 </p>
 
+
+<div class="modulo1 1" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('70');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Síntesis de Newton
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 2')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 2')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Síntesis de Newton</span>
 </p>
 
+
+<div class="modulo1 2" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('97');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	El método científico
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 3')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 3')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">El método científico</span>
 </p>
 
+
+<div class="modulo1 3" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('56');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Hitos de la Física
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 4')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 4')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Hitos de la Física</span>
 </p>
 
+
+<div class="modulo1 4" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('4');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Sistemas de Unidades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 5')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 5')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Sistemas de Unidades</span>
 </p>
 
+
+<div class="modulo1 5" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('96');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Problemas y Aplicaciones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 6')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 6')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Problemas y Aplicaciones</span>
 </p>
 
+
+<div class="modulo1 6" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('69');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 
 
@@ -72,55 +108,91 @@ Vectores
 	Espacio y sistemas de ejes ortogonales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 1')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 1')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Espacio y sistemas de ejes ortogonales</span>
 </p>
 
+
+<div class="modulo2 1" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('98');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Desplazamiento en el espacio
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 2')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 2')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Desplazamiento en el espacio</span>
 </p>
 
+
+<div class="modulo2 2" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('95');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Descomposición de vectores
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 3')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 3')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Descomposición de vectores</span>
 </p>
 
+
+<div class="modulo2 3" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('40');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Productos de vectores
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 4')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 4')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Productos de vectores</span>
 </p>
 
+
+<div class="modulo2 4" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('57');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Aplicaciones geométricas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 5')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 5')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Aplicaciones geométricas</span>
 </p>
 
+
+<div class="modulo2 5" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('58');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Problemas y aplicaciones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 6')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 6')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Problemas y aplicaciones</span>
 </p>
 
+
+<div class="modulo2 6" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('94');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 
 
@@ -135,46 +207,76 @@ Fuerza
 	Tipos de fuerza
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 1')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 1')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Tipos de fuerza</span>
 </p>
 
+
+<div class="modulo3 1" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('9');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Características de las fuerzas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 2')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 2')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Características de las fuerzas</span>
 </p>
 
+
+<div class="modulo3 2" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('48');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Reducción de sistemas de fuerzas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 3')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 3')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Reducción de sistemas de fuerzas</span>
 </p>
 
+
+<div class="modulo3 3" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('100');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Definiciones y conceptos de centros
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 4')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 4')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definiciones y conceptos de centros</span>
 </p>
 
+
+<div class="modulo3 4" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('14');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Problemas y aplicaciones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 5')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 5')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Problemas y aplicaciones</span>
 </p>
 
+
+<div class="modulo3 5" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('72');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 
 
@@ -189,37 +291,61 @@ Estática
 	Conceptos Básicos
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 1')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 1')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Conceptos Básicos</span>
 </p>
 
+
+<div class="modulo4 1" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('10');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Leyes de la estática
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 2')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 2')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Leyes de la estática</span>
 </p>
 
+
+<div class="modulo4 2" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('53');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Análisis de estructuras
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 3')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 3')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Análisis de estructuras</span>
 </p>
 
+
+<div class="modulo4 3" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('65');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Aplicaciones y problemas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 4')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 4')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Aplicaciones y problemas</span>
 </p>
 
+
+<div class="modulo4 4" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('32');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 
 
@@ -234,28 +360,46 @@ Hidrostática
 	Conceptos fundamentales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 1')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 1')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Conceptos fundamentales</span>
 </p>
 
+
+<div class="modulo5 1" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('59');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Principio de Arquímides
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 2')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 2')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Principio de Arquímides</span>
 </p>
 
+
+<div class="modulo5 2" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('92');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 -----------------------------------------------------------------------------
 	Problemas y aplicaciones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 3')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 3')" style="cursor:pointer;">
 <span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Problemas y aplicaciones</span>
 </p>
 
+
+<div class="modulo5 3" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('48');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+</p>
+</div>
 
 
 

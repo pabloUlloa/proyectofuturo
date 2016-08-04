@@ -4,6 +4,7 @@ import codecs
 import os
 import webbrowser
 import parser
+from random import randint
 
 RAMOS=["json/algebra1.json",
        "json/algebra2.json",
@@ -242,7 +243,7 @@ def formatoModulo(n,j,i):
     n1=u"Módulo "+str(j).encode("utf-8")+u": "
     formato="""
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo"""+str(mid).encode("utf-8")+"""')">
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo"""+str(mid).encode("utf-8")+"""')" style="cursor:pointer;">
 <span style="margin-left:15px">"""+n1+"""</span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">"""+n+"""</span>
 </p>
 """
@@ -253,9 +254,9 @@ def formatoVideo(n,u,i,j):
     embed=u.replace("watch?v=","embed/")
     vid=embed.replace("https","http").replace("http://www.youtube.com/embed/","")
     formato="""
-<div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:150px;display:none;">
-<p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');">
-<span style="">"""+n+"""</span>
+<div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('"""+vid+"""');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">"""+n+"""</span>
 </p>
 <div id=\""""+vid+"""" style="display: none;"><center>
 <iframe src=\""""+embed+"""?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -263,6 +264,20 @@ def formatoVideo(n,u,i,j):
 </div>
 """
     return formato
+
+def noVideo(i,j):
+    mid=str(i)+" "+str(j)
+    vid=str(randint(1,100))
+    n1=u"[Videos aún no disponibles]"
+    formato="""
+<div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('"""+vid.encode("utf-8")+"""');" style="cursor:pointer;margin-left:30px;width:328px;">
+<span style="margin-left: 50px;">"""+n1+"""</span>
+</p>
+</div>
+"""
+    return formato
+
 
 def generar():
     for ruta in RAMOS:        
@@ -276,6 +291,8 @@ def generar():
             for m in u[u'modulos']:
                 out+=u"-"*77+u"\n\t"+m[u'nombre']+u"\n"
                 out+=formatoModulo(m[u'nombre'],j,i)+u"\n"
+                if len(m[u'videos'])==0:
+                    out+=noVideo(i,j)
                 for v in m[u'videos']:
                     out+=formatoVideo(v[u'nombre'],v[u'url'],i,j)
                 out+=u"\n"
