@@ -1,36 +1,39 @@
 =============================================================================
 Sistemas Lineales y Matrices
 
-<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 1: Sistemas Lineales y Matrices</span></p>
 
 
 -----------------------------------------------------------------------------
 	Sistemas de Ecuaciones Lineales
 
-<hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><span>Módulo 1: Sistemas de Ecuaciones Lineales</span></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 1')">
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Sistemas de Ecuaciones Lineales</span>
+</p>
 
 
 -----------------------------------------------------------------------------
 	Ecuaciones y Matrices
 
-<hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><span>Módulo 2: Ecuaciones y Matrices</span></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 2')">
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Ecuaciones y Matrices</span>
+</p>
 
 
 -----------------------------------------------------------------------------
 	Matrices
 
-<hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('1 3')"><span>Módulo 3: Matrices</span></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 3')">
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Matrices</span>
+</p>
 
 
 -----------------------------------------------------------------------------
 	Soluciones de ecuaciones
 
-<hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('1 4')"><span>Módulo 4: Soluciones de ecuaciones</span></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 4')">
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">Soluciones de ecuaciones</span>
+</p>
 
 
 
@@ -38,29 +41,31 @@ Sistemas Lineales y Matrices
 =============================================================================
 Espacios Vectoriales y Transformaciones Lineales
 
-<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 2: Espacios Vectoriales y Transformaciones Lineales</span></p>
 
 
 -----------------------------------------------------------------------------
 	Espacios Vectoriales
 
-<hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><span>Módulo 1: Espacios Vectoriales</span></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 1')">
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Espacios Vectoriales</span>
+</p>
 
 
 -----------------------------------------------------------------------------
 	Espacios con producto interno
 
-<hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><span>Módulo 2: Espacios con producto interno</span></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 2')">
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Espacios con producto interno</span>
+</p>
 
 
 -----------------------------------------------------------------------------
 	Transformaciones Lineales
 
-<hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('2 3')"><span>Módulo 3: Transformaciones Lineales</span></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 3')">
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Transformaciones Lineales</span>
+</p>
 
 
 
@@ -68,15 +73,15 @@ Espacios Vectoriales y Transformaciones Lineales
 =============================================================================
 Álgebra Discreta
 
-<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 3: Álgebra Discreta</span></p>
 
 
 -----------------------------------------------------------------------------
 	Los números enteros
 
-<hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><span>Módulo 1: Los números enteros</span></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 1')">
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Los números enteros</span>
+</p>
 
 
 

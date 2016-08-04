@@ -58,6 +58,8 @@ function crearClases(){
 			opacity: 0.8;\
 			height: 30px;\
 			filter: Alpha(opacity=80); /* IE8 and earlier */\
+			position: absolute;\
+			margin-top: 10px;\
 		}\
 		.unidad{\
 			height: 110px;\
@@ -75,12 +77,10 @@ function crearClases(){
 		}\
 		.modulo{\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
-			background-size:80%;\
 			height: 40px;\
 		}\
 		.video{\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/videoPostit.png) no-repeat;\
-			background-size:80%;\
 			height: 40px;\
 		}\
 		.modulo:hover, .video:hover, .boton:hover{\

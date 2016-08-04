@@ -232,17 +232,17 @@ def menu():
 def formatoUnidad(n,i):
     n=u"Unidad "+str(i).encode("utf-8")+u": "+n
     formato="""
-<hr />
 <p class="unidad" onclick="colapsID('')"><span>"""+n+"""</span></p>
 """
     return formato
 
 def formatoModulo(n,j,i):
     mid=str(i)+" "+str(j)
-    n=u"Módulo "+str(j).encode("utf-8")+u": "+n
+    n1=u"Módulo "+str(j).encode("utf-8")+u": "
     formato="""
-<hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('"""+str(mid).encode("utf-8")+"""')"><span>"""+n+"""</span></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('"""+str(mid).encode("utf-8")+"""')">
+<span style="margin-left:15px">"""+n1+"""</span><span style="margin-left:50px">"""+n+"""</span>
+</p>
 """
     return formato
 
@@ -252,7 +252,9 @@ def formatoVideo(n,u,i,j):
     vid=embed.replace("https","http").replace("http://www.youtube.com/embed/","")
     formato="""
 <div class="modulo"""+str(mid).encode("utf-8")+"""">
-<p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');"><span>"""+n+"""</span></p>
+<p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');">
+<span style="margin-left: 50px;">"""+n+"""</span>
+</p>
 <div id=\""""+vid+"""" style="display: none;"><center>
 <iframe src=\""""+embed+"""?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
