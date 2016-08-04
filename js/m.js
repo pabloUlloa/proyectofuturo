@@ -47,10 +47,6 @@ function crearClases(){
 			opacity: 0.7;\
 			filter: Alpha(opacity=70); /* IE8 and earlier */\
 		}\
-		.boton:hover{\
-			opacity: 1;\
-			filter: Alpha(opacity=100); /* IE8 and earlier */\
-		}\
 		.modulo{\
 			text-align: justify;\
 			font-size: 18px;\
@@ -60,16 +56,18 @@ function crearClases(){
 			opacity: 0.8;\
 			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
-		.modulo:hover{\
-			opacity: 1;\
-			filter: Alpha(opacity=100); /* IE8 and earlier */\
-		}\
 		.video{\
 			font-size: 18px;\
 			text-align: justify;\
 			font-family: tizaCursiva;\
 			cursor: pointer;\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
+			opacity: 0.8;\
+			filter: Alpha(opacity=80); /* IE8 and earlier */\
+		}\
+		.modulo:hover, .video:hover, .boton:hover{\
+			opacity: 1;\
+			filter: Alpha(opacity=100); /* IE8 and earlier */\
 		}\
 	");
     x.appendChild(t);
