@@ -40,22 +40,17 @@ function crearClases(){
 	var x = document.createElement("STYLE");
     var t = document.createTextNode("\
     	@font-face {\
-    font-family: tizaCursiva;\
-    src: url(http://rawgit.com/pabloUlloa/proyectofuturo/master/fonts/CoalhandLukeTRIAL.ttf);\
-}\
-		.unidad{\
-			text-align: justify;\
-			font-family: tizaCursiva;\
-			cursor: pointer;\
-		    opacity: 0.8;\
+		    font-family: tizaCursiva;\
+		    src: url(http://rawgit.com/pabloUlloa/proyectofuturo/master/fonts/CoalhandLukeTRIAL.ttf);\
+		}\
+		.boton{\
+			opacity: 0.8;\
 	    	filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
-\
-		.unidad:hover{\
+		.boton:hover{\
 		    opacity: 1;\
 	    	filter: Alpha(opacity=100); /* IE8 and earlier */\
 		}\
-\
 		.modulo{\
 			text-align: justify;\
 			font-family: tizaCursiva;\
@@ -63,10 +58,14 @@ function crearClases(){
 		    opacity: 0.8;\
 	    	filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
-\
 		.modulo:hover{\
 		    opacity: 1;\
 	    	filter: Alpha(opacity=100); /* IE8 and earlier */\
+		}\
+		.video{\
+			text-align: justify;\
+			font-family: tizaCursiva;\
+			\
 		}\
     ");
     x.appendChild(t);
