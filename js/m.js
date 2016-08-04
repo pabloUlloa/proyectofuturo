@@ -63,7 +63,6 @@ function crearClases(){
 			height: 100px;\
 			width: 550px;\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/unidad.png) no-repeat;\
-			background-size:90%;\
 		}\
 		.unidad span{\
 			font-size:32px;\
