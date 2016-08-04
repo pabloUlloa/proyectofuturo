@@ -253,7 +253,7 @@ def formatoVideo(n,u,i,j):
     formato="""
 <div class="modulo"""+str(mid).encode("utf-8")+"""">
 <p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" />"""+n+"""</strong></p>
+<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />"""+n+"""</strong></p>
 <div id=\""""+vid+"""" style="display: none;"><center>
 <iframe src=\""""+embed+"""?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
