@@ -1,38 +1,43 @@
 =============================================================================
 Cinemática de la partícula
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 1: Cinemática de la partícula</span></p>
 
 
 -----------------------------------------------------------------------------
 	Conceptos fundamentales
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Conceptos fundamentales</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Conceptos fundamentales</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Movimientos en una y dos dimensiones
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Movimientos en una y dos dimensiones</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Movimientos en una y dos dimensiones</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Movimiento relativo
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Movimiento relativo</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Movimiento relativo</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Problemas y aplicaciones
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Problemas y aplicaciones</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Problemas y aplicaciones</span>
 </p>
 
 
@@ -41,54 +46,61 @@ Cinemática de la partícula
 =============================================================================
 Dinámica de la partícula
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 2: Dinámica de la partícula</span></p>
 
 
 -----------------------------------------------------------------------------
 	Principios de Newton
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Principios de Newton</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Principios de Newton</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Tipos de fuerzas
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Tipos de fuerzas</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Tipos de fuerzas</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Trabajo y energía
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Trabajo y energía</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Trabajo y energía</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Cantidad de movimiento
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Cantidad de movimiento</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Cantidad de movimiento</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Movimiento armónico
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Movimiento armónico</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Movimiento armónico</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Problemas y aplicaciones
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Problemas y aplicaciones</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Problemas y aplicaciones</span>
 </p>
 
 
@@ -97,70 +109,79 @@ Dinámica de la partícula
 =============================================================================
 Dinámica de un sistema de partículas
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 3: Dinámica de un sistema de partículas</span></p>
 
 
 -----------------------------------------------------------------------------
 	Ecuación de movimiento del Centro de masa
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Ecuación de movimiento del Centro de masa</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Ecuación de movimiento del Centro de masa</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Cantidad de movimiento angular
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Cantidad de movimiento angular</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Cantidad de movimiento angular</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Teorema de Koenig
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Teorema de Koenig</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Teorema de Koenig</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Trabajo y energía de un sistema de partículas
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Trabajo y energía de un sistema de partículas</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Trabajo y energía de un sistema de partículas</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Choques
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Choques</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Choques</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Masa variable
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Masa variable</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Masa variable</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Problema de dos cuerpos
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 7')">
-<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px">Problema de dos cuerpos</span>
+<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Problema de dos cuerpos</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Problemas y aplicaciones
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 8')">
-<span style="margin-left:15px">Módulo 8: </span><span style="margin-left:130px">Problemas y aplicaciones</span>
+<span style="margin-left:15px">Módulo 8: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Problemas y aplicaciones</span>
 </p>
 
 
@@ -169,62 +190,70 @@ Dinámica de un sistema de partículas
 =============================================================================
 Cinemática y Dinámica del cuerpo rígido
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 4: Cinemática y Dinámica del cuerpo rígido</span></p>
 
 
 -----------------------------------------------------------------------------
 	Concepto de cuerpo rígido
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Concepto de cuerpo rígido</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Concepto de cuerpo rígido</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Cinemática del cuerpo rígido
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Cinemática del cuerpo rígido</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Cinemática del cuerpo rígido</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Momento de inercia
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Momento de inercia</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Momento de inercia</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Cantidad de movimiento angular y torque
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Cantidad de movimiento angular y torque</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Cantidad de movimiento angular y torque</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Energía cinética de un cuerpo rígido
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Energía cinética de un cuerpo rígido</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Energía cinética de un cuerpo rígido</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Dinámica de un cuerpo rígido en el plano
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Dinámica de un cuerpo rígido en el plano</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Dinámica de un cuerpo rígido en el plano</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Problemas y aplicaciones
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 7')">
-<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px">Problemas y aplicaciones</span>
+<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Problemas y aplicaciones</span>
 </p>
 
 

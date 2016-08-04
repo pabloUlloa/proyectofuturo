@@ -243,7 +243,7 @@ def formatoModulo(n,j,i):
     formato="""
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('"""+str(mid).encode("utf-8")+"""')">
-<span style="margin-left:15px">"""+n1+"""</span><span style="margin-left:130px">"""+n+"""</span>
+<span><span style="margin-left:15px">"""+n1+"""</span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">"""+n+"""</span></span>
 </p>
 """
     return formato
@@ -253,7 +253,7 @@ def formatoVideo(n,u,i,j):
     embed=u.replace("watch?v=","embed/")
     vid=embed.replace("https","http").replace("http://www.youtube.com/embed/","")
     formato="""
-<div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:150px;">
+<div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:150px;display:none;">
 <p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');">
 <span style="margin-left: 50px;">"""+n+"""</span>
 </p>

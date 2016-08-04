@@ -1,18 +1,20 @@
 =============================================================================
 Los Números Reales
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 1: Los Números Reales</span></p>
 
 
 -----------------------------------------------------------------------------
 	Axiomas
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Axiomas</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Axiomas</span>
 </p>
 
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('MsNjcUUjzCI');">
 <span style="margin-left: 50px;">Axiomas de orden - Concepto</span>
 </p>
@@ -21,7 +23,7 @@ Los Números Reales
 </center></div>
 </div>
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('yvHNMk8DSnw');">
 <span style="margin-left: 50px;">Axiomas de cuerpo - Concepto</span>
 </p>
@@ -30,7 +32,7 @@ Los Números Reales
 </center></div>
 </div>
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('qWxGOpJlUt8');">
 <span style="margin-left: 50px;">Axiomas de cuerpo - Ejercicio 1</span>
 </p>
@@ -42,20 +44,22 @@ Los Números Reales
 -----------------------------------------------------------------------------
 	Valor Absoluto
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Valor Absoluto</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Valor Absoluto</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Desigualdades
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Desigualdades</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Desigualdades</span>
 </p>
 
 
-<div class="modulo1 3">
+<div class="modulo1 3" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 3" onclick="colapsID('CTpCscd8DZU');">
 <span style="margin-left: 50px;">Inecuaciones - Concepto</span>
 </p>
@@ -64,7 +68,7 @@ Los Números Reales
 </center></div>
 </div>
 
-<div class="modulo1 3">
+<div class="modulo1 3" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 3" onclick="colapsID('Ge3hji34xAw');">
 <span style="margin-left: 50px;">Inecuaciones - Como se genera el intervalo de soluciones</span>
 </p>
@@ -73,7 +77,7 @@ Los Números Reales
 </center></div>
 </div>
 
-<div class="modulo1 3">
+<div class="modulo1 3" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 3" onclick="colapsID('vJOKpqjNEqA');">
 <span style="margin-left: 50px;">Inecuaciones - Ejercicio 1</span>
 </p>
@@ -82,7 +86,7 @@ Los Números Reales
 </center></div>
 </div>
 
-<div class="modulo1 3">
+<div class="modulo1 3" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 3" onclick="colapsID('00jBCbrxw9s');">
 <span style="margin-left: 50px;">Inecuaciones - Ejercicio 2</span>
 </p>
@@ -94,8 +98,9 @@ Los Números Reales
 -----------------------------------------------------------------------------
 	Axioma del supremo
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Axioma del supremo</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Axioma del supremo</span>
 </p>
 
 
@@ -104,18 +109,20 @@ Los Números Reales
 =============================================================================
 Funciones de Variable Real
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 2: Funciones de Variable Real</span></p>
 
 
 -----------------------------------------------------------------------------
 	Estudio algebraico y estudio gráfico
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Estudio algebraico y estudio gráfico</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Estudio algebraico y estudio gráfico</span>
 </p>
 
 
-<div class="modulo2 1">
+<div class="modulo2 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 1" onclick="colapsID('5seDbgLKZ_s');">
 <span style="margin-left: 50px;">Funciones - Concepto</span>
 </p>
@@ -124,7 +131,7 @@ Funciones de Variable Real
 </center></div>
 </div>
 
-<div class="modulo2 1">
+<div class="modulo2 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 1" onclick="colapsID('Zr07j_ydaZs');">
 <span style="margin-left: 50px;">Funciones - Simetria, Dominio, Recorrido</span>
 </p>
@@ -133,7 +140,7 @@ Funciones de Variable Real
 </center></div>
 </div>
 
-<div class="modulo2 1">
+<div class="modulo2 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 1" onclick="colapsID('mnLvcz16D4E');">
 <span style="margin-left: 50px;">Funciones - Epiyectiva, Inyectiva y Sobreyectiva</span>
 </p>
@@ -142,7 +149,7 @@ Funciones de Variable Real
 </center></div>
 </div>
 
-<div class="modulo2 1">
+<div class="modulo2 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 1" onclick="colapsID('Tiugbcrbl-Y');">
 <span style="margin-left: 50px;">Funciones - Ejercicio 1</span>
 </p>
@@ -154,12 +161,13 @@ Funciones de Variable Real
 -----------------------------------------------------------------------------
 	El caso de las funciones trigonométricas
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">El caso de las funciones trigonométricas</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">El caso de las funciones trigonométricas</span>
 </p>
 
 
-<div class="modulo2 2">
+<div class="modulo2 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 2" onclick="colapsID('kCG03rrBd24');">
 <span style="margin-left: 50px;">Funciones trigonométricas - función seno</span>
 </p>
@@ -168,7 +176,7 @@ Funciones de Variable Real
 </center></div>
 </div>
 
-<div class="modulo2 2">
+<div class="modulo2 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 2" onclick="colapsID('eycjrgKBfSc');">
 <span style="margin-left: 50px;">Funciones trigonométricas - función coseno</span>
 </p>
@@ -177,7 +185,7 @@ Funciones de Variable Real
 </center></div>
 </div>
 
-<div class="modulo2 2">
+<div class="modulo2 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 2" onclick="colapsID('5bilhMdkRnY');">
 <span style="margin-left: 50px;">Funciones trigonométricas - teorema del seno y coseno</span>
 </p>
@@ -189,16 +197,18 @@ Funciones de Variable Real
 -----------------------------------------------------------------------------
 	Aplicaciones de la trigonometría
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Aplicaciones de la trigonometría</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Aplicaciones de la trigonometría</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	El caso de las funciones logaritmo y exponencial
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">El caso de las funciones logaritmo y exponencial</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">El caso de las funciones logaritmo y exponencial</span>
 </p>
 
 
@@ -207,18 +217,20 @@ Funciones de Variable Real
 =============================================================================
 Límite de Funciones
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 3: Límite de Funciones</span></p>
 
 
 -----------------------------------------------------------------------------
 	El concepto y su operatoria
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">El concepto y su operatoria</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">El concepto y su operatoria</span>
 </p>
 
 
-<div class="modulo3 1">
+<div class="modulo3 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 1" onclick="colapsID('-lzkJPKjZnM');">
 <span style="margin-left: 50px;">Límites - Definición formal de límite</span>
 </p>
@@ -227,7 +239,7 @@ Límite de Funciones
 </center></div>
 </div>
 
-<div class="modulo3 1">
+<div class="modulo3 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 1" onclick="colapsID('iXHYPUiJKa4');">
 <span style="margin-left: 50px;">Límites - Ejercicio usando definición formal de límite</span>
 </p>
@@ -236,7 +248,7 @@ Límite de Funciones
 </center></div>
 </div>
 
-<div class="modulo3 1">
+<div class="modulo3 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 1" onclick="colapsID('aTumd9tndDQ');">
 <span style="margin-left: 50px;">Límites - Ejercicios de expresiones algebraicas, casos al infinito</span>
 </p>
@@ -245,7 +257,7 @@ Límite de Funciones
 </center></div>
 </div>
 
-<div class="modulo3 1">
+<div class="modulo3 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 1" onclick="colapsID('gdHCyEpBFnQ');">
 <span style="margin-left: 50px;">Límites - Ejercicios de expresiones algebraicas, casos al un punto</span>
 </p>
@@ -254,7 +266,7 @@ Límite de Funciones
 </center></div>
 </div>
 
-<div class="modulo3 1">
+<div class="modulo3 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 1" onclick="colapsID('6P30wS7A6V0');">
 <span style="margin-left: 50px;">Límites - Ejercicio 1 de límites exponenciales</span>
 </p>
@@ -263,7 +275,7 @@ Límite de Funciones
 </center></div>
 </div>
 
-<div class="modulo3 1">
+<div class="modulo3 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 1" onclick="colapsID('DptJF4Qa3rs');">
 <span style="margin-left: 50px;">Límites - Ejercicio 2 de límites exponenciales</span>
 </p>
@@ -275,12 +287,13 @@ Límite de Funciones
 -----------------------------------------------------------------------------
 	Límites laterales y asintotas
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Límites laterales y asintotas</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Límites laterales y asintotas</span>
 </p>
 
 
-<div class="modulo3 2">
+<div class="modulo3 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 2" onclick="colapsID('eB8PoFObSLg');">
 <span style="margin-left: 50px;">Límites - Límites laterales, concepto</span>
 </p>
@@ -289,7 +302,7 @@ Límite de Funciones
 </center></div>
 </div>
 
-<div class="modulo3 2">
+<div class="modulo3 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 2" onclick="colapsID('N0Gwr2Ko32w');">
 <span style="margin-left: 50px;">Límites - Límites laterales, ejercicio 1</span>
 </p>
@@ -298,7 +311,7 @@ Límite de Funciones
 </center></div>
 </div>
 
-<div class="modulo3 2">
+<div class="modulo3 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 2" onclick="colapsID('SuEQZ9-9ykQ');">
 <span style="margin-left: 50px;">Límites - Gráficas y Asíntotas</span>
 </p>
@@ -310,12 +323,13 @@ Límite de Funciones
 -----------------------------------------------------------------------------
 	Continuidad de funciones algebraicas y trigonométricas
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Continuidad de funciones algebraicas y trigonométricas</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Continuidad de funciones algebraicas y trigonométricas</span>
 </p>
 
 
-<div class="modulo3 3">
+<div class="modulo3 3" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 3" onclick="colapsID('5up4MqOhv84');">
 <span style="margin-left: 50px;">Continuidad - concepto</span>
 </p>
@@ -324,7 +338,7 @@ Límite de Funciones
 </center></div>
 </div>
 
-<div class="modulo3 3">
+<div class="modulo3 3" style="margin-left:150px;display:none;">
 <p class="video" moduloid="3 3" onclick="colapsID('L6i0bfZmvqU');">
 <span style="margin-left: 50px;">Continuidad - ejercicio 1</span>
 </p>
@@ -336,8 +350,9 @@ Límite de Funciones
 -----------------------------------------------------------------------------
 	Continuidad de la inversa y TVI
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Continuidad de la inversa y TVI</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Continuidad de la inversa y TVI</span>
 </p>
 
 
@@ -346,70 +361,79 @@ Límite de Funciones
 =============================================================================
 Derivada
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 4: Derivada</span></p>
 
 
 -----------------------------------------------------------------------------
 	Definición, operatoria y derivadas "comunes"
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Definición, operatoria y derivadas "comunes"</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definición, operatoria y derivadas "comunes"</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Regla de la cadena
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Regla de la cadena</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Regla de la cadena</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Derivada implícita
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Derivada implícita</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivada implícita</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Derivada de orden superior
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Derivada de orden superior</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivada de orden superior</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Continuidad y criterios de extremos locales
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Continuidad y criterios de extremos locales</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Continuidad y criterios de extremos locales</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Revisita al cálculo de límites, Regla de L'Hopital
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 7')">
-<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px">Revisita al cálculo de límites, Regla de L'Hopital</span>
+<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Revisita al cálculo de límites, Regla de L'Hopital</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Estudio gráfico de funciones
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 8')">
-<span style="margin-left:15px">Módulo 8: </span><span style="margin-left:130px">Estudio gráfico de funciones</span>
+<span style="margin-left:15px">Módulo 8: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Estudio gráfico de funciones</span>
 </p>
 
 
@@ -418,26 +442,29 @@ Derivada
 =============================================================================
 Aplicaciones de la derivada
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 5: Aplicaciones de la derivada</span></p>
 
 
 -----------------------------------------------------------------------------
 	Optimización
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Optimización</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Optimización</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Razón de cambio
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Razón de cambio</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Razón de cambio</span>
 </p>
 
 
-<div class="modulo5 2">
+<div class="modulo5 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="5 2" onclick="colapsID('GDNWQmQ4ecI');">
 <span style="margin-left: 50px;">Razón de cambio - Teoría</span>
 </p>
@@ -446,7 +473,7 @@ Aplicaciones de la derivada
 </center></div>
 </div>
 
-<div class="modulo5 2">
+<div class="modulo5 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="5 2" onclick="colapsID('ozi63YBP0I0');">
 <span style="margin-left: 50px;">Razón de cambio - Ejercicio 1</span>
 </p>
@@ -455,7 +482,7 @@ Aplicaciones de la derivada
 </center></div>
 </div>
 
-<div class="modulo5 2">
+<div class="modulo5 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="5 2" onclick="colapsID('YFFG5KNYGGw');">
 <span style="margin-left: 50px;">Razón de cambio - Ejercicio 5</span>
 </p>
@@ -467,8 +494,9 @@ Aplicaciones de la derivada
 -----------------------------------------------------------------------------
 	Ecuaciones paramétricas en el plano
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Ecuaciones paramétricas en el plano</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Ecuaciones paramétricas en el plano</span>
 </p>
 
 
@@ -477,26 +505,29 @@ Aplicaciones de la derivada
 =============================================================================
 Antiderivadas
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 6: Antiderivadas</span></p>
 
 
 -----------------------------------------------------------------------------
 	El concepto y principales ejemplos
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">El concepto y principales ejemplos</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">El concepto y principales ejemplos</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Método de integración por sustitución simple
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Método de integración por sustitución simple</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por sustitución simple</span>
 </p>
 
 
-<div class="modulo6 2">
+<div class="modulo6 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 2" onclick="colapsID('7DqACYJIxTk');">
 <span style="margin-left: 50px;">Integración por método de sustitución</span>
 </p>
@@ -508,20 +539,22 @@ Antiderivadas
 -----------------------------------------------------------------------------
 	Método de integración por sustitución trigonométrica
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Método de integración por sustitución trigonométrica</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por sustitución trigonométrica</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Método de integración por sustitución trigonométrica de funciones racionales
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Método de integración por sustitución trigonométrica de funciones racionales</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por sustitución trigonométrica de funciones racionales</span>
 </p>
 
 
-<div class="modulo6 4">
+<div class="modulo6 4" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 4" onclick="colapsID('RWPgijt1rVM');">
 <span style="margin-left: 50px;">integración por sustitución trigonométrica - Ejercicio 1</span>
 </p>
@@ -530,7 +563,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 4">
+<div class="modulo6 4" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 4" onclick="colapsID('lFOTATY3uIg');">
 <span style="margin-left: 50px;">integración por sustitución trigonométrica - Ejercicio 2</span>
 </p>
@@ -542,12 +575,13 @@ Antiderivadas
 -----------------------------------------------------------------------------
 	Método de integración por partes
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Método de integración por partes</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por partes</span>
 </p>
 
 
-<div class="modulo6 5">
+<div class="modulo6 5" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 5" onclick="colapsID('hx4hklSg8dk');">
 <span style="margin-left: 50px;">Integración por partes</span>
 </p>
@@ -556,7 +590,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 5">
+<div class="modulo6 5" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 5" onclick="colapsID('W58sZ6RgsGk');">
 <span style="margin-left: 50px;">Integración por partes - Teoría</span>
 </p>
@@ -565,7 +599,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 5">
+<div class="modulo6 5" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 5" onclick="colapsID('pvv9v8481cI');">
 <span style="margin-left: 50px;">Integración por partes - Formulas de Reducción</span>
 </p>
@@ -574,7 +608,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 5">
+<div class="modulo6 5" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 5" onclick="colapsID('_T0GjUCt0hs');">
 <span style="margin-left: 50px;">Integración por partes - Ejercicio 1</span>
 </p>
@@ -583,7 +617,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 5">
+<div class="modulo6 5" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 5" onclick="colapsID('5B1UlnMskAI');">
 <span style="margin-left: 50px;">Integración por partes - Ejercicio 3</span>
 </p>
@@ -592,7 +626,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 5">
+<div class="modulo6 5" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 5" onclick="colapsID('7vqIok-Aahk');">
 <span style="margin-left: 50px;">Integración por partes - Ejercicio 4</span>
 </p>
@@ -601,7 +635,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 5">
+<div class="modulo6 5" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 5" onclick="colapsID('BriqqkrK2dc');">
 <span style="margin-left: 50px;">Integración por partes - Ejercicio 5</span>
 </p>
@@ -610,7 +644,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 5">
+<div class="modulo6 5" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 5" onclick="colapsID('tarTGG6YFCA');">
 <span style="margin-left: 50px;">Integración por partes - Ejercicios</span>
 </p>
@@ -622,12 +656,13 @@ Antiderivadas
 -----------------------------------------------------------------------------
 	Método de integración por fracciones parciales
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Método de integración por fracciones parciales</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por fracciones parciales</span>
 </p>
 
 
-<div class="modulo6 6">
+<div class="modulo6 6" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 6" onclick="colapsID('XiqGH-odk4I');">
 <span style="margin-left: 50px;">Integración por fracciones parciales - Teoría</span>
 </p>
@@ -636,7 +671,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 6">
+<div class="modulo6 6" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 6" onclick="colapsID('09Mn48P0Nc0');">
 <span style="margin-left: 50px;">Integración por fracciones parciales - Ejercicio 1</span>
 </p>
@@ -645,7 +680,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 6">
+<div class="modulo6 6" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 6" onclick="colapsID('5qO7R-3475k');">
 <span style="margin-left: 50px;">Integración por fracciones parciales - Ejercicio 2</span>
 </p>
@@ -654,7 +689,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 6">
+<div class="modulo6 6" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 6" onclick="colapsID('sSnwk2YQ9IM');">
 <span style="margin-left: 50px;">Integración por fracciones parciales - Ejercicio 3</span>
 </p>
@@ -663,7 +698,7 @@ Antiderivadas
 </center></div>
 </div>
 
-<div class="modulo6 6">
+<div class="modulo6 6" style="margin-left:150px;display:none;">
 <p class="video" moduloid="6 6" onclick="colapsID('sUKAeTDKB9U');">
 <span style="margin-left: 50px;">Integración por fracciones parciales - Ejercicio 4</span>
 </p>

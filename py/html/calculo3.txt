@@ -1,18 +1,20 @@
 =============================================================================
 Series de Fourier
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 1: Series de Fourier</span></p>
 
 
 -----------------------------------------------------------------------------
 	Series de Fourier
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Series de Fourier</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Series de Fourier</span>
 </p>
 
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('_WQB_mM92pU');">
 <span style="margin-left: 50px;">Fourier - Definición y convergencia</span>
 </p>
@@ -21,7 +23,7 @@ Series de Fourier
 </center></div>
 </div>
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('rAAA5QxeCi8');">
 <span style="margin-left: 50px;">Fourier - Extensiones Par e Impar</span>
 </p>
@@ -30,7 +32,7 @@ Series de Fourier
 </center></div>
 </div>
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('NI3YfXjKrxA');">
 <span style="margin-left: 50px;">Fourier - Ejercicio 1</span>
 </p>
@@ -39,7 +41,7 @@ Series de Fourier
 </center></div>
 </div>
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('bOugXeLnHiY');">
 <span style="margin-left: 50px;">Fourier - Ejercicio 2a</span>
 </p>
@@ -48,7 +50,7 @@ Series de Fourier
 </center></div>
 </div>
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('bSM0py4hwZ8');">
 <span style="margin-left: 50px;">Fourier - Ejercicio 2b</span>
 </p>
@@ -57,7 +59,7 @@ Series de Fourier
 </center></div>
 </div>
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('3bW-7uWGQFE');">
 <span style="margin-left: 50px;">Fourier - Ejercicio 3</span>
 </p>
@@ -66,7 +68,7 @@ Series de Fourier
 </center></div>
 </div>
 
-<div class="modulo1 1">
+<div class="modulo1 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="1 1" onclick="colapsID('rfVUSMsyDYM');">
 <span style="margin-left: 50px;">Fourier - Ejercicio 4</span>
 </p>
@@ -78,8 +80,9 @@ Series de Fourier
 -----------------------------------------------------------------------------
 	Convergencias
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Convergencias</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Convergencias</span>
 </p>
 
 
@@ -88,18 +91,20 @@ Series de Fourier
 =============================================================================
 Funciones Vectoriales de Variable Real
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 2: Funciones Vectoriales de Variable Real</span></p>
 
 
 -----------------------------------------------------------------------------
 	Diferenciación de funciones vectoriales
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Diferenciación de funciones vectoriales</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Diferenciación de funciones vectoriales</span>
 </p>
 
 
-<div class="modulo2 1">
+<div class="modulo2 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 1" onclick="colapsID('XyiP2uL68qw');">
 <span style="margin-left: 50px;">Funciones Vectoriales - Conceptos</span>
 </p>
@@ -108,7 +113,7 @@ Funciones Vectoriales de Variable Real
 </center></div>
 </div>
 
-<div class="modulo2 1">
+<div class="modulo2 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 1" onclick="colapsID('jjsnyByROUk');">
 <span style="margin-left: 50px;">Funciones Vectoriales - Ejercicio 1</span>
 </p>
@@ -117,7 +122,7 @@ Funciones Vectoriales de Variable Real
 </center></div>
 </div>
 
-<div class="modulo2 1">
+<div class="modulo2 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 1" onclick="colapsID('c5xP7r-fEtU');">
 <span style="margin-left: 50px;">Funciones Vectoriales - Ejercicio 2</span>
 </p>
@@ -126,7 +131,7 @@ Funciones Vectoriales de Variable Real
 </center></div>
 </div>
 
-<div class="modulo2 1">
+<div class="modulo2 1" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 1" onclick="colapsID('uLThconGRB4');">
 <span style="margin-left: 50px;">Funciones Vectoriales - Parámetro longitud de arco</span>
 </p>
@@ -138,12 +143,13 @@ Funciones Vectoriales de Variable Real
 -----------------------------------------------------------------------------
 	Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</span>
 </p>
 
 
-<div class="modulo2 2">
+<div class="modulo2 2" style="margin-left:150px;display:none;">
 <p class="video" moduloid="2 2" onclick="colapsID('40aL1KBVBaw');">
 <span style="margin-left: 50px;">Funciones Vectoriales - Curvas</span>
 </p>
@@ -157,62 +163,70 @@ Funciones Vectoriales de Variable Real
 =============================================================================
 Funciones de Varias Variables
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 3: Funciones de Varias Variables</span></p>
 
 
 -----------------------------------------------------------------------------
 	Conceptos básicos: límite, continuidad, curvas y superficies de nivel
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Conceptos básicos: límite, continuidad, curvas y superficies de nivel</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Conceptos básicos: límite, continuidad, curvas y superficies de nivel</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Derivadas parciales, vector gradiente y derivada direcciónal
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Derivadas parciales, vector gradiente y derivada direcciónal</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivadas parciales, vector gradiente y derivada direcciónal</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Diferenciabilidad y propiedades
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Diferenciabilidad y propiedades</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Diferenciabilidad y propiedades</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Derivación compuesta
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Derivación compuesta</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivación compuesta</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Derivación implícita y derivación inversa
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Derivación implícita y derivación inversa</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivación implícita y derivación inversa</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Valores extremos
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Valores extremos</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Valores extremos</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Extremos condicionados
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 7')">
-<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px">Extremos condicionados</span>
+<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Extremos condicionados</span>
 </p>
 
 
@@ -221,46 +235,52 @@ Funciones de Varias Variables
 =============================================================================
 Integrales dobles, triples, de línea y de superficie
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 4: Integrales dobles, triples, de línea y de superficie</span></p>
 
 
 -----------------------------------------------------------------------------
 	Integrales dobles
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Integrales dobles</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales dobles</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Integrales triples
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Integrales triples</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales triples</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Integrales de línea (curvilínea)
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Integrales de línea (curvilínea)</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales de línea (curvilínea)</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Integrales de superficie
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Integrales de superficie</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales de superficie</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Teoremas de transformación de integrales
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Teoremas de transformación de integrales</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Teoremas de transformación de integrales</span>
 </p>
 
 

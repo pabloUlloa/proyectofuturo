@@ -2,7 +2,7 @@ function colapsarClase(c){
 	if(c.length>1){
 		var x = document.getElementsByClassName(c);
 		for(i=0;i<x.length;i++){
-			x[i].style.display=((x[i].style.display=='none')?'':'none');
+			x[i].style.display=((x[i].style.display=='none')?'inline':'none');
 		}
 	}
 }
@@ -10,7 +10,7 @@ function colapsarVideo(v){
 	if(v.length>1){
 		var x = document.querySelectorAll("[videoid='"+v+"']");
 		for(i=0;i<x.length;i++){
-			x[i].style.display=((x[i].style.display=='none')?'':'none');
+			x[i].style.display=((x[i].style.display=='none')?'inline':'none');
 		}
 	}
 }
@@ -18,7 +18,7 @@ function colapsarModulo(m){
 	if(m.length>1){
 		var x = document.querySelectorAll("[moduloid='"+m+"']");
 		for(i=0;i<x.length;i++){
-			x[i].style.display=((x[i].style.display=='none')?'':'none');
+			x[i].style.display=((x[i].style.display=='none')?'inline':'none');
 		}
 	}
 }
@@ -26,14 +26,14 @@ function colapsarUnidad(u){
 	if(u.length>1){
 		var x = document.querySelectorAll("[unidadid='"+u+"']");
 		for(i=0;i<x.length;i++){
-			x[i].style.display=((x[i].style.display=='none')?'':'none');
+			x[i].style.display=((x[i].style.display=='none')?'inline':'none');
 		}
 	}
 }
 function colapsID(e){
 	if(e.length>1){
 		var x=document.getElementById(e);
-		x.style.display=((x.style.display=='none')?'':'none');		
+		x.style.display=((x.style.display=='none')?'inline':'none');
 	}
 }
 function crearClases(){

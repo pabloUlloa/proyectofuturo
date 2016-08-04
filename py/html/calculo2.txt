@@ -1,38 +1,43 @@
 =============================================================================
 Integral de Riemann y Aplicaciones de la Integral
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 1: Integral de Riemann y Aplicaciones de la Integral</span></p>
 
 
 -----------------------------------------------------------------------------
 	Sumas e integral de Riemann, propiedades
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Sumas e integral de Riemann, propiedades</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Sumas e integral de Riemann, propiedades</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Volumenes, Longitud de Arco y Areas de superficies de revolución
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Volumenes, Longitud de Arco y Areas de superficies de revolución</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Volumenes, Longitud de Arco y Areas de superficies de revolución</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Funciones Logaritmo Natural, Exponencial e Hiperbolicas
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Funciones Logaritmo Natural, Exponencial e Hiperbolicas</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Funciones Logaritmo Natural, Exponencial e Hiperbolicas</span>
 </p>
 
 
@@ -41,22 +46,25 @@ Integral de Riemann y Aplicaciones de la Integral
 =============================================================================
 Aplicaciones Geométricas de la Integral
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 2: Aplicaciones Geométricas de la Integral</span></p>
 
 
 -----------------------------------------------------------------------------
 	Ecuaciones Paramétricas y aplicaciones
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Ecuaciones Paramétricas y aplicaciones</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Ecuaciones Paramétricas y aplicaciones</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Coordenadas Polares y aplicaciones
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Coordenadas Polares y aplicaciones</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Coordenadas Polares y aplicaciones</span>
 </p>
 
 
@@ -65,54 +73,61 @@ Aplicaciones Geométricas de la Integral
 =============================================================================
 Integral Impropia y Series
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 3: Integral Impropia y Series</span></p>
 
 
 -----------------------------------------------------------------------------
 	Integrales impropias de primera especie
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Integrales impropias de primera especie</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales impropias de primera especie</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Integrales impropias de segunda y tercera especie
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Integrales impropias de segunda y tercera especie</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales impropias de segunda y tercera especie</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Convergencia de integrales: Comparación y criterio del límite \(n^p\)
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Convergencia de integrales: Comparación y criterio del límite \(n^p\)</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Convergencia de integrales: Comparación y criterio del límite \(n^p\)</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Sucesiones y Series: Criterios de convergencia y divergencia
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Sucesiones y Series: Criterios de convergencia y divergencia</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Sucesiones y Series: Criterios de convergencia y divergencia</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Series de potencias
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Series de potencias</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Series de potencias</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Teorema de Taylor y de Mac Laurin, Serie Binomial
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Teorema de Taylor y de Mac Laurin, Serie Binomial</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Teorema de Taylor y de Mac Laurin, Serie Binomial</span>
 </p>
 
 
@@ -121,30 +136,34 @@ Integral Impropia y Series
 =============================================================================
 Curvas en el plano y el espacio
 
+<hr />
 <p class="unidad" onclick="colapsID('')"><span>Unidad 4: Curvas en el plano y el espacio</span></p>
 
 
 -----------------------------------------------------------------------------
 	Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Diferenciación de funciones reales de varias variables
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Diferenciación de funciones reales de varias variables</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Diferenciación de funciones reales de varias variables</span>
 </p>
 
 
 -----------------------------------------------------------------------------
 	Derivación parcial
 
+<hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Derivación parcial</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivación parcial</span>
 </p>
 
 
