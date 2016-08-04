@@ -12,8 +12,6 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Introducción a las Ecuaciones Diferenciales</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Ecuaciones de Variables Separables
 
@@ -21,17 +19,12 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><strong>Módulo 2: Ecuaciones de Variables Separables</strong></p>
 
 
-
-
-
 <div class="modulo1 2">
-<p class="video" moduloid="1 2" onclick="colapsID('TJjiqfnuwbQ');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Separación de Variables</p>
+<p class="video" moduloid="1 2" onclick="colapsID('TJjiqfnuwbQ');"><span style="padding-left:25px">Separación de Variables</span></p>
 <div id="TJjiqfnuwbQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/TJjiqfnuwbQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Ecuaciones Diferenciales Exactas
@@ -40,27 +33,19 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 3')"><strong>Módulo 3: Ecuaciones Diferenciales Exactas</strong></p>
 
 
-
-
-
 <div class="modulo1 3">
-<p class="video" moduloid="1 3" onclick="colapsID('ocSmZSKlN04');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ecuaciones Diferenciales Exactas - Concepto</p>
+<p class="video" moduloid="1 3" onclick="colapsID('ocSmZSKlN04');"><span style="padding-left:25px">Ecuaciones Diferenciales Exactas - Concepto</span></p>
 <div id="ocSmZSKlN04" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/ocSmZSKlN04?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo1 3">
-<p class="video" moduloid="1 3" onclick="colapsID('mGZE0-nfvnU');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ecuaciones Diferenciales Exactas - Ejercicio 1</p>
+<p class="video" moduloid="1 3" onclick="colapsID('mGZE0-nfvnU');"><span style="padding-left:25px">Ecuaciones Diferenciales Exactas - Ejercicio 1</span></p>
 <div id="mGZE0-nfvnU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/mGZE0-nfvnU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Ecuaciones Lineales
@@ -69,15 +54,11 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 4')"><strong>Módulo 4: Ecuaciones Lineales</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Aplicaciones de las Ecuaciones Diferenciales de Primer Orden
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 5')"><strong>Módulo 5: Aplicaciones de las Ecuaciones Diferenciales de Primer Orden</strong></p>
-
-
 
 
 
@@ -96,15 +77,11 @@ Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingenier�
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Ecuaciones lineales de Segundo Orden</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Ecuaciones Lineales Homogeneas
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Ecuaciones Lineales Homogeneas</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -114,15 +91,11 @@ Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingenier�
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 3')"><strong>Módulo 3: Ecuaciones Lineales no Homogeneas</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Aplicaciones de ecuaciones de segundo orden
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 4')"><strong>Módulo 4: Aplicaciones de ecuaciones de segundo orden</strong></p>
-
-
 
 
 
@@ -141,15 +114,11 @@ Soluciones de Ecuaciones Diferenciales por series de Potencia
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Solución en torno a puntos ordinarios</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Solución en torno a puntos singulares regulares
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')"><strong>Módulo 2: Solución en torno a puntos singulares regulares</strong></p>
-
-
 
 
 
@@ -168,8 +137,6 @@ Transformada de Laplace y Aplicaciones de Ingeniería
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Definición y propiedades de la Transformada de Laplace</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Aplicación de la Transformada de Laplace en la resolución de ecuaciones diferenciales
 
@@ -177,15 +144,11 @@ Transformada de Laplace y Aplicaciones de Ingeniería
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Aplicación de la Transformada de Laplace en la resolución de ecuaciones diferenciales</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Convolución
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 3')"><strong>Módulo 3: Convolución</strong></p>
-
-
 
 
 
@@ -204,15 +167,11 @@ Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 1')"><strong>Módulo 1: Introducción</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Método de Separación de Variables
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 2')"><strong>Módulo 2: Método de Separación de Variables</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -222,8 +181,6 @@ Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 3')"><strong>Módulo 3: Ecuación de Onda</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Ecuación de Calor
 
@@ -231,15 +188,11 @@ Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 4')"><strong>Módulo 4: Ecuación de Calor</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Ecuación de Laplace
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 5')"><strong>Módulo 5: Ecuación de Laplace</strong></p>
-
-
 
 
 

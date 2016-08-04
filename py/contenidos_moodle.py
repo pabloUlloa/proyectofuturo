@@ -252,8 +252,7 @@ def formatoVideo(n,u,i,j):
     vid=embed.replace("https","http").replace("http://www.youtube.com/embed/","")
     formato="""
 <div class="modulo"""+str(mid).encode("utf-8")+"""">
-<p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />"""+n+"""</p>
+<p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');"><span style="padding-left:25px">"""+n+"""</span></p>
 <div id=\""""+vid+"""" style="display: none;"><center>
 <iframe src=\""""+embed+"""?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -272,10 +271,9 @@ def generar():
             j=1
             for m in u[u'modulos']:
                 out+=u"-"*77+u"\n\t"+m[u'nombre']+u"\n"
-                out+=formatoModulo(m[u'nombre'],j,i)+u"\n"+u"\n\n"
+                out+=formatoModulo(m[u'nombre'],j,i)+u"\n"
                 for v in m[u'videos']:
-                    out+=u"\n"+formatoVideo(v[u'nombre'],v[u'url'],i,j)
-                    out+=u"\n"
+                    out+=formatoVideo(v[u'nombre'],v[u'url'],i,j)
                 out+=u"\n"
                 j+=1
             out+=u"\n\n"

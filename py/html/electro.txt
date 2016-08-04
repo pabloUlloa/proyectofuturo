@@ -12,27 +12,19 @@ Introducción
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Ley de Coulomb</strong></p>
 
 
-
-
-
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('WkKbAx4GJj0');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Coulomb - Introducción y Ejercicio 1</p>
+<p class="video" moduloid="1 1" onclick="colapsID('WkKbAx4GJj0');"><span style="padding-left:25px">Ley de Coulomb - Introducción y Ejercicio 1</span></p>
 <div id="WkKbAx4GJj0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/WkKbAx4GJj0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('Sj6fKqu6vlw');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Coulomb - Ejercicio 3</p>
+<p class="video" moduloid="1 1" onclick="colapsID('Sj6fKqu6vlw');"><span style="padding-left:25px">Ley de Coulomb - Ejercicio 3</span></p>
 <div id="Sj6fKqu6vlw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Sj6fKqu6vlw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 
@@ -50,27 +42,19 @@ Campo Eléctrico
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Campo Eléctrico</strong></p>
 
 
-
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('zibJobhe69w');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Campo Eléctrico - Cargas Puntuales</p>
+<p class="video" moduloid="2 1" onclick="colapsID('zibJobhe69w');"><span style="padding-left:25px">Campo Eléctrico - Cargas Puntuales</span></p>
 <div id="zibJobhe69w" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/zibJobhe69w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('KscPInEUzVM');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Campo Eléctrico - Ejercicio 1</p>
+<p class="video" moduloid="2 1" onclick="colapsID('KscPInEUzVM');"><span style="padding-left:25px">Campo Eléctrico - Ejercicio 1</span></p>
 <div id="KscPInEUzVM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/KscPInEUzVM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Ley de Gauss
@@ -79,67 +63,47 @@ Campo Eléctrico
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Ley de Gauss</strong></p>
 
 
-
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('lk9jgHbcyYQ');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Gauss - Introducción</p>
+<p class="video" moduloid="2 2" onclick="colapsID('lk9jgHbcyYQ');"><span style="padding-left:25px">Ley de Gauss - Introducción</span></p>
 <div id="lk9jgHbcyYQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/lk9jgHbcyYQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('-Mwy7D2IlRg');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Gauss - Ejercicio 1</p>
+<p class="video" moduloid="2 2" onclick="colapsID('-Mwy7D2IlRg');"><span style="padding-left:25px">Ley de Gauss - Ejercicio 1</span></p>
 <div id="-Mwy7D2IlRg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-Mwy7D2IlRg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('WqYq2T-asXc');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Gauss - Ejercicio 2</p>
+<p class="video" moduloid="2 2" onclick="colapsID('WqYq2T-asXc');"><span style="padding-left:25px">Ley de Gauss - Ejercicio 2</span></p>
 <div id="WqYq2T-asXc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/WqYq2T-asXc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('kj5ZitRZRFk');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Gauss - Ejercicio 3</p>
+<p class="video" moduloid="2 2" onclick="colapsID('kj5ZitRZRFk');"><span style="padding-left:25px">Ley de Gauss - Ejercicio 3</span></p>
 <div id="kj5ZitRZRFk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/kj5ZitRZRFk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('KckOoaEbBXE');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Gauss - Ejercicio 4</p>
+<p class="video" moduloid="2 2" onclick="colapsID('KckOoaEbBXE');"><span style="padding-left:25px">Ley de Gauss - Ejercicio 4</span></p>
 <div id="KckOoaEbBXE" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/KckOoaEbBXE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('qkR-Xs5wuxI');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Gauss - Ejercicio 7</p>
+<p class="video" moduloid="2 2" onclick="colapsID('qkR-Xs5wuxI');"><span style="padding-left:25px">Ley de Gauss - Ejercicio 7</span></p>
 <div id="qkR-Xs5wuxI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/qkR-Xs5wuxI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Potencial Eléctrico
@@ -148,27 +112,19 @@ Campo Eléctrico
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 3')"><strong>Módulo 3: Potencial Eléctrico</strong></p>
 
 
-
-
-
 <div class="modulo2 3">
-<p class="video" moduloid="2 3" onclick="colapsID('ktSDEM1B_6U');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Potencial Eléctrico - Ejercicio 1</p>
+<p class="video" moduloid="2 3" onclick="colapsID('ktSDEM1B_6U');"><span style="padding-left:25px">Potencial Eléctrico - Ejercicio 1</span></p>
 <div id="ktSDEM1B_6U" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/ktSDEM1B_6U?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 3">
-<p class="video" moduloid="2 3" onclick="colapsID('aCsGTczcxs0');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Potencial Eléctrico - Ejercicio 4</p>
+<p class="video" moduloid="2 3" onclick="colapsID('aCsGTczcxs0');"><span style="padding-left:25px">Potencial Eléctrico - Ejercicio 4</span></p>
 <div id="aCsGTczcxs0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/aCsGTczcxs0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Condensadores
@@ -177,27 +133,19 @@ Campo Eléctrico
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 4')"><strong>Módulo 4: Condensadores</strong></p>
 
 
-
-
-
 <div class="modulo2 4">
-<p class="video" moduloid="2 4" onclick="colapsID('ZIBT7H7g1ew');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Condensadores - Ejercicio 1</p>
+<p class="video" moduloid="2 4" onclick="colapsID('ZIBT7H7g1ew');"><span style="padding-left:25px">Condensadores - Ejercicio 1</span></p>
 <div id="ZIBT7H7g1ew" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/ZIBT7H7g1ew?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 4">
-<p class="video" moduloid="2 4" onclick="colapsID('Clkqa7UqreA');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Condensadores - Ejercicio 4</p>
+<p class="video" moduloid="2 4" onclick="colapsID('Clkqa7UqreA');"><span style="padding-left:25px">Condensadores - Ejercicio 4</span></p>
 <div id="Clkqa7UqreA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Clkqa7UqreA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 
@@ -215,27 +163,19 @@ Circuitos de Corriente Continua
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Leyes de Kirchhoff</strong></p>
 
 
-
-
-
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('YxRzOyvTeQU');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Leyes de Kirchhoff - Ejercicio 2</p>
+<p class="video" moduloid="3 1" onclick="colapsID('YxRzOyvTeQU');"><span style="padding-left:25px">Leyes de Kirchhoff - Ejercicio 2</span></p>
 <div id="YxRzOyvTeQU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/YxRzOyvTeQU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('9tM1qj2mDJM');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Leyes de Kirchhoff - Ejercicio 4</p>
+<p class="video" moduloid="3 1" onclick="colapsID('9tM1qj2mDJM');"><span style="padding-left:25px">Leyes de Kirchhoff - Ejercicio 4</span></p>
 <div id="9tM1qj2mDJM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/9tM1qj2mDJM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 
@@ -253,37 +193,26 @@ Campo Magnético
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Fuerza Magnética y Ley de Biot-Savart</strong></p>
 
 
-
-
-
 <div class="modulo4 1">
-<p class="video" moduloid="4 1" onclick="colapsID('9AkxArLnz_s');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fuerza Magnética y Ley de Biot-Savart - Introducción</p>
+<p class="video" moduloid="4 1" onclick="colapsID('9AkxArLnz_s');"><span style="padding-left:25px">Fuerza Magnética y Ley de Biot-Savart - Introducción</span></p>
 <div id="9AkxArLnz_s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/9AkxArLnz_s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo4 1">
-<p class="video" moduloid="4 1" onclick="colapsID('H7rokJZo324');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fuerza magnética y Ley de Biot-Savart - Ejercicio 2</p>
+<p class="video" moduloid="4 1" onclick="colapsID('H7rokJZo324');"><span style="padding-left:25px">Fuerza magnética y Ley de Biot-Savart - Ejercicio 2</span></p>
 <div id="H7rokJZo324" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/H7rokJZo324?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo4 1">
-<p class="video" moduloid="4 1" onclick="colapsID('BrpcocmzNg4');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fuerza magnética y Ley de Biot-Savart - Ejercicio 3</p>
+<p class="video" moduloid="4 1" onclick="colapsID('BrpcocmzNg4');"><span style="padding-left:25px">Fuerza magnética y Ley de Biot-Savart - Ejercicio 3</span></p>
 <div id="BrpcocmzNg4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/BrpcocmzNg4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Ley de Ampere
@@ -292,37 +221,26 @@ Campo Magnético
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Ley de Ampere</strong></p>
 
 
-
-
-
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('DbsUULR4Wxc');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Ampere - Introducción</p>
+<p class="video" moduloid="4 2" onclick="colapsID('DbsUULR4Wxc');"><span style="padding-left:25px">Ley de Ampere - Introducción</span></p>
 <div id="DbsUULR4Wxc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/DbsUULR4Wxc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('oWaylxLuvy4');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Ampere - Ejercicio 1</p>
+<p class="video" moduloid="4 2" onclick="colapsID('oWaylxLuvy4');"><span style="padding-left:25px">Ley de Ampere - Ejercicio 1</span></p>
 <div id="oWaylxLuvy4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/oWaylxLuvy4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('zFebuGoDEwo');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ley de Ampere - Ejercicio 2</p>
+<p class="video" moduloid="4 2" onclick="colapsID('zFebuGoDEwo');"><span style="padding-left:25px">Ley de Ampere - Ejercicio 2</span></p>
 <div id="zFebuGoDEwo" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/zFebuGoDEwo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 
@@ -340,37 +258,26 @@ Inducción Electromagnética
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 1')"><strong>Módulo 1: Inducción Electromagnética</strong></p>
 
 
-
-
-
 <div class="modulo5 1">
-<p class="video" moduloid="5 1" onclick="colapsID('BIuISj4E0xQ');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inducción Electromagnética - Introducción</p>
+<p class="video" moduloid="5 1" onclick="colapsID('BIuISj4E0xQ');"><span style="padding-left:25px">Inducción Electromagnética - Introducción</span></p>
 <div id="BIuISj4E0xQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/BIuISj4E0xQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo5 1">
-<p class="video" moduloid="5 1" onclick="colapsID('wZFK3ejnyQg');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inducción Electromagnética - Ejercicio 1</p>
+<p class="video" moduloid="5 1" onclick="colapsID('wZFK3ejnyQg');"><span style="padding-left:25px">Inducción Electromagnética - Ejercicio 1</span></p>
 <div id="wZFK3ejnyQg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/wZFK3ejnyQg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo5 1">
-<p class="video" moduloid="5 1" onclick="colapsID('IC2iJ1xvJB8');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inducción Electromagnética - Ejercicio 2</p>
+<p class="video" moduloid="5 1" onclick="colapsID('IC2iJ1xvJB8');"><span style="padding-left:25px">Inducción Electromagnética - Ejercicio 2</span></p>
 <div id="IC2iJ1xvJB8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/IC2iJ1xvJB8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 

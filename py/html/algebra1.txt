@@ -12,8 +12,6 @@ Elementos de Lógica Matemática
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Proposiciones, conectivos, tablas de verdad</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Reglas de inferencia
 
@@ -21,15 +19,11 @@ Elementos de Lógica Matemática
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><strong>Módulo 2: Reglas de inferencia</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Cuantificadores, Leyes de cuantificación
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 3')"><strong>Módulo 3: Cuantificadores, Leyes de cuantificación</strong></p>
-
-
 
 
 
@@ -48,47 +42,33 @@ Inducción y Sumatoria
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Primer y segundo teorema de inducción</strong></p>
 
 
-
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('LdGj71yapqc');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inducción Matemática - Concepto</p>
+<p class="video" moduloid="2 1" onclick="colapsID('LdGj71yapqc');"><span style="padding-left:25px">Inducción Matemática - Concepto</span></p>
 <div id="LdGj71yapqc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/LdGj71yapqc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('H8c8PGEUDj0');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inducción Matemática - Ejemplo 1</p>
+<p class="video" moduloid="2 1" onclick="colapsID('H8c8PGEUDj0');"><span style="padding-left:25px">Inducción Matemática - Ejemplo 1</span></p>
 <div id="H8c8PGEUDj0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/H8c8PGEUDj0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('RK1EruboDHI');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inducción Matemática - Recursividad, ejercicio 1</p>
+<p class="video" moduloid="2 1" onclick="colapsID('RK1EruboDHI');"><span style="padding-left:25px">Inducción Matemática - Recursividad, ejercicio 1</span></p>
 <div id="RK1EruboDHI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/RK1EruboDHI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('8aBzOceYTiQ');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inducción Matemática - Recursividad, ejercicio 2</p>
+<p class="video" moduloid="2 1" onclick="colapsID('8aBzOceYTiQ');"><span style="padding-left:25px">Inducción Matemática - Recursividad, ejercicio 2</span></p>
 <div id="8aBzOceYTiQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/8aBzOceYTiQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Sumatoria simple, propiedades y sumas importantes
@@ -97,55 +77,39 @@ Inducción y Sumatoria
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Sumatoria simple, propiedades y sumas importantes</strong></p>
 
 
-
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('I_UpurOjv_0');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Sumatoria - Concepto</p>
+<p class="video" moduloid="2 2" onclick="colapsID('I_UpurOjv_0');"><span style="padding-left:25px">Sumatoria - Concepto</span></p>
 <div id="I_UpurOjv_0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/I_UpurOjv_0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('6EdCA8Inixw');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Sumatoria - Ejercicio 1</p>
+<p class="video" moduloid="2 2" onclick="colapsID('6EdCA8Inixw');"><span style="padding-left:25px">Sumatoria - Ejercicio 1</span></p>
 <div id="6EdCA8Inixw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/6EdCA8Inixw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('VkmC4BJzoMU');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Sumatoria - Propiedad Telescópica, ejercicio 1</p>
+<p class="video" moduloid="2 2" onclick="colapsID('VkmC4BJzoMU');"><span style="padding-left:25px">Sumatoria - Propiedad Telescópica, ejercicio 1</span></p>
 <div id="VkmC4BJzoMU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/VkmC4BJzoMU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('Dq-FbWws2Vw');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Sumatoria - Propiedad Telescópica, ejercicio 2</p>
+<p class="video" moduloid="2 2" onclick="colapsID('Dq-FbWws2Vw');"><span style="padding-left:25px">Sumatoria - Propiedad Telescópica, ejercicio 2</span></p>
 <div id="Dq-FbWws2Vw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Dq-FbWws2Vw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Sumatoria doble y propiedades
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 3')"><strong>Módulo 3: Sumatoria doble y propiedades</strong></p>
-
-
 
 
 
@@ -164,85 +128,60 @@ Progresiones y Análisis combinatorio
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Progresiones Aritmética, Geométrica y Armónica, propiedades</strong></p>
 
 
-
-
-
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('gFIwITuE1KY');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Progresión Aritmética - Concepto</p>
+<p class="video" moduloid="3 1" onclick="colapsID('gFIwITuE1KY');"><span style="padding-left:25px">Progresión Aritmética - Concepto</span></p>
 <div id="gFIwITuE1KY" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/gFIwITuE1KY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('a1GCnC1s3q4');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Progresión Aritmética - Ejemplo 1</p>
+<p class="video" moduloid="3 1" onclick="colapsID('a1GCnC1s3q4');"><span style="padding-left:25px">Progresión Aritmética - Ejemplo 1</span></p>
 <div id="a1GCnC1s3q4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/a1GCnC1s3q4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('OOT9NqCxVdE');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Progresión Aritmética - Ejemplo 2</p>
+<p class="video" moduloid="3 1" onclick="colapsID('OOT9NqCxVdE');"><span style="padding-left:25px">Progresión Aritmética - Ejemplo 2</span></p>
 <div id="OOT9NqCxVdE" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/OOT9NqCxVdE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('S4xKmuu5bfg');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Progresión Geométrica - Concepto</p>
+<p class="video" moduloid="3 1" onclick="colapsID('S4xKmuu5bfg');"><span style="padding-left:25px">Progresión Geométrica - Concepto</span></p>
 <div id="S4xKmuu5bfg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/S4xKmuu5bfg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('Yzn7yMDGmYI');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Progresión Geométrica - Ejemplo 1</p>
+<p class="video" moduloid="3 1" onclick="colapsID('Yzn7yMDGmYI');"><span style="padding-left:25px">Progresión Geométrica - Ejemplo 1</span></p>
 <div id="Yzn7yMDGmYI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Yzn7yMDGmYI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('6NxKB92JjFg');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Progresiones - Ejemplo 3</p>
+<p class="video" moduloid="3 1" onclick="colapsID('6NxKB92JjFg');"><span style="padding-left:25px">Progresiones - Ejemplo 3</span></p>
 <div id="6NxKB92JjFg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/6NxKB92JjFg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('Omr1h9oCjJ8');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Resumen Progresión Aritmética y Geométrica</p>
+<p class="video" moduloid="3 1" onclick="colapsID('Omr1h9oCjJ8');"><span style="padding-left:25px">Resumen Progresión Aritmética y Geométrica</span></p>
 <div id="Omr1h9oCjJ8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Omr1h9oCjJ8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')"><strong>Módulo 2: Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -252,57 +191,40 @@ Progresiones y Análisis combinatorio
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 3')"><strong>Módulo 3: Teorema del Binomio y sus propiedades</strong></p>
 
 
-
-
-
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('1rrIwk-s4HU');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Teorema del Binomio - Concepto</p>
+<p class="video" moduloid="3 3" onclick="colapsID('1rrIwk-s4HU');"><span style="padding-left:25px">Teorema del Binomio - Concepto</span></p>
 <div id="1rrIwk-s4HU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/1rrIwk-s4HU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('NGVMWPzC9fA');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Teorema del Binomio - Ejemplo 1</p>
+<p class="video" moduloid="3 3" onclick="colapsID('NGVMWPzC9fA');"><span style="padding-left:25px">Teorema del Binomio - Ejemplo 1</span></p>
 <div id="NGVMWPzC9fA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/NGVMWPzC9fA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('-2mXPYtVNCc');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Teorema del Binomio - Ejemplo 2</p>
+<p class="video" moduloid="3 3" onclick="colapsID('-2mXPYtVNCc');"><span style="padding-left:25px">Teorema del Binomio - Ejemplo 2</span></p>
 <div id="-2mXPYtVNCc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-2mXPYtVNCc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('-qNYBSKAq2s');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Teorema del Binomio - Ejemplo 3</p>
+<p class="video" moduloid="3 3" onclick="colapsID('-qNYBSKAq2s');"><span style="padding-left:25px">Teorema del Binomio - Ejemplo 3</span></p>
 <div id="-qNYBSKAq2s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-qNYBSKAq2s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('rUVTBIsC32c');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Teorema del Binomio - Ejemplo 4</p>
+<p class="video" moduloid="3 3" onclick="colapsID('rUVTBIsC32c');"><span style="padding-left:25px">Teorema del Binomio - Ejemplo 4</span></p>
 <div id="rUVTBIsC32c" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/rUVTBIsC32c?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 
@@ -320,37 +242,26 @@ Relaciones
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Dominio, recorrido, inversa, composición de relaciones</strong></p>
 
 
-
-
-
 <div class="modulo4 1">
-<p class="video" moduloid="4 1" onclick="colapsID('LcVc3T7fCoI');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Relaciones - Concepto</p>
+<p class="video" moduloid="4 1" onclick="colapsID('LcVc3T7fCoI');"><span style="padding-left:25px">Relaciones - Concepto</span></p>
 <div id="LcVc3T7fCoI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/LcVc3T7fCoI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo4 1">
-<p class="video" moduloid="4 1" onclick="colapsID('XX4ojNN8Sps');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Relaciones - Características de una relación</p>
+<p class="video" moduloid="4 1" onclick="colapsID('XX4ojNN8Sps');"><span style="padding-left:25px">Relaciones - Características de una relación</span></p>
 <div id="XX4ojNN8Sps" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/XX4ojNN8Sps?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo4 1">
-<p class="video" moduloid="4 1" onclick="colapsID('E6mhYMVWHWM');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Relaciones - Ejemplo 1</p>
+<p class="video" moduloid="4 1" onclick="colapsID('E6mhYMVWHWM');"><span style="padding-left:25px">Relaciones - Ejemplo 1</span></p>
 <div id="E6mhYMVWHWM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/E6mhYMVWHWM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Relación de equivalencia, orden, congruencia, Zn
@@ -359,47 +270,33 @@ Relaciones
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Relación de equivalencia, orden, congruencia, Zn</strong></p>
 
 
-
-
-
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('bfqJ1cDx-2Y');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Relaciones - Clase de equivalencia, concepto</p>
+<p class="video" moduloid="4 2" onclick="colapsID('bfqJ1cDx-2Y');"><span style="padding-left:25px">Relaciones - Clase de equivalencia, concepto</span></p>
 <div id="bfqJ1cDx-2Y" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/bfqJ1cDx-2Y?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('7ONiFWT-rFo');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Relaciones - Ejercicio de relaciones de equivalencia 1</p>
+<p class="video" moduloid="4 2" onclick="colapsID('7ONiFWT-rFo');"><span style="padding-left:25px">Relaciones - Ejercicio de relaciones de equivalencia 1</span></p>
 <div id="7ONiFWT-rFo" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/7ONiFWT-rFo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('JqtiDIL3XIM');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Relaciones - Ejercicio de relaciones 2</p>
+<p class="video" moduloid="4 2" onclick="colapsID('JqtiDIL3XIM');"><span style="padding-left:25px">Relaciones - Ejercicio de relaciones 2</span></p>
 <div id="JqtiDIL3XIM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/JqtiDIL3XIM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('fcYculM9VcU');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Relaciones - Congruencia de módulo n</p>
+<p class="video" moduloid="4 2" onclick="colapsID('fcYculM9VcU');"><span style="padding-left:25px">Relaciones - Congruencia de módulo n</span></p>
 <div id="fcYculM9VcU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/fcYculM9VcU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 
@@ -417,15 +314,11 @@ Geometría Analitica
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 1')"><strong>Módulo 1: Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Definición de la Línea Recta y sus diversas expresiones
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 2')"><strong>Módulo 2: Definición de la Línea Recta y sus diversas expresiones</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -435,15 +328,11 @@ Geometría Analitica
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 3')"><strong>Módulo 3: Definición de la Circunferencia y sus diversas expresiones</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Definición de la Parábola y sus diversas expresiones
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 4')"><strong>Módulo 4: Definición de la Parábola y sus diversas expresiones</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -453,17 +342,12 @@ Geometría Analitica
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 5')"><strong>Módulo 5: Definición de la Elipse y sus diversas expresiones</strong></p>
 
 
-
-
-
 <div class="modulo5 5">
-<p class="video" moduloid="5 5" onclick="colapsID('QgeoxZByIt4');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Geometría Analítica - Elipse</p>
+<p class="video" moduloid="5 5" onclick="colapsID('QgeoxZByIt4');"><span style="padding-left:25px">Geometría Analítica - Elipse</span></p>
 <div id="QgeoxZByIt4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/QgeoxZByIt4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Definición de la Hipérbola y sus diversas expresiones
@@ -472,17 +356,12 @@ Geometría Analitica
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 6')"><strong>Módulo 6: Definición de la Hipérbola y sus diversas expresiones</strong></p>
 
 
-
-
-
 <div class="modulo5 6">
-<p class="video" moduloid="5 6" onclick="colapsID('nIWYDWccbyI');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Geometría Analítica - Hipérbola</p>
+<p class="video" moduloid="5 6" onclick="colapsID('nIWYDWccbyI');"><span style="padding-left:25px">Geometría Analítica - Hipérbola</span></p>
 <div id="nIWYDWccbyI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/nIWYDWccbyI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 
@@ -500,8 +379,6 @@ Grupos, Anillos y Homomorfismos
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 1')"><strong>Módulo 1: Definición de Grupos y propiedades</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Homomorfismo de Grupos
 
@@ -509,15 +386,11 @@ Grupos, Anillos y Homomorfismos
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 2')"><strong>Módulo 2: Homomorfismo de Grupos</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Definición de Anillo y propiedades
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 3')"><strong>Módulo 3: Definición de Anillo y propiedades</strong></p>
-
-
 
 
 
@@ -536,8 +409,6 @@ Complementos de Complejos
 <p class="modulo" onclick="colapsID('');colapsarModulo('7 1')"><strong>Módulo 1: Forma a+bi y operatoria</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Forma trigonométrica y operatoria
 
@@ -545,15 +416,11 @@ Complementos de Complejos
 <p class="modulo" onclick="colapsID('');colapsarModulo('7 2')"><strong>Módulo 2: Forma trigonométrica y operatoria</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Raices de un complejo
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('7 3')"><strong>Módulo 3: Raices de un complejo</strong></p>
-
-
 
 
 
@@ -572,35 +439,25 @@ Complementos de Polinomios
 <p class="modulo" onclick="colapsID('');colapsarModulo('8 1')"><strong>Módulo 1: Teorema del resto, división sintetica</strong></p>
 
 
-
-
-
 <div class="modulo8 1">
-<p class="video" moduloid="8 1" onclick="colapsID('Do8GEpPJKJE');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Concepto de Polinomio</p>
+<p class="video" moduloid="8 1" onclick="colapsID('Do8GEpPJKJE');"><span style="padding-left:25px">Concepto de Polinomio</span></p>
 <div id="Do8GEpPJKJE" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Do8GEpPJKJE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo8 1">
-<p class="video" moduloid="8 1" onclick="colapsID('Di4PmUFuwTw');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Ejercicio 1</p>
+<p class="video" moduloid="8 1" onclick="colapsID('Di4PmUFuwTw');"><span style="padding-left:25px">Ejercicio 1</span></p>
 <div id="Di4PmUFuwTw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Di4PmUFuwTw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('8 2')"><strong>Módulo 2: Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -610,17 +467,12 @@ Complementos de Polinomios
 <p class="modulo" onclick="colapsID('');colapsarModulo('8 3')"><strong>Módulo 3: Relaciones entre raices y coeficientes de una ecuación, fracciones parciales</strong></p>
 
 
-
-
-
 <div class="modulo8 3">
-<p class="video" moduloid="8 3" onclick="colapsID('UEm1m5BwxZs');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Concepto de Fracciones Parciales</p>
+<p class="video" moduloid="8 3" onclick="colapsID('UEm1m5BwxZs');"><span style="padding-left:25px">Concepto de Fracciones Parciales</span></p>
 <div id="UEm1m5BwxZs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/UEm1m5BwxZs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 
@@ -638,15 +490,11 @@ Complementos de Matrices
 <p class="modulo" onclick="colapsID('');colapsarModulo('9 1')"><strong>Módulo 1: M(n,m,R) con suma y multiplicación</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	M(n,R) con suma, multiplicación y propiedades
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('9 2')"><strong>Módulo 2: M(n,R) con suma, multiplicación y propiedades</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -656,15 +504,11 @@ Complementos de Matrices
 <p class="modulo" onclick="colapsID('');colapsarModulo('9 3')"><strong>Módulo 3: Matrices especiales, traspuesta, simétrica, etc</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('9 4')"><strong>Módulo 4: Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales</strong></p>
-
-
 
 
 

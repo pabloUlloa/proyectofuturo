@@ -12,15 +12,11 @@ Integral de Riemann y Aplicaciones de la Integral
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Sumas e integral de Riemann, propiedades</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><strong>Módulo 2: Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -30,15 +26,11 @@ Integral de Riemann y Aplicaciones de la Integral
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 3')"><strong>Módulo 3: Volumenes, Longitud de Arco y Areas de superficies de revolución</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Funciones Logaritmo Natural, Exponencial e Hiperbolicas
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 4')"><strong>Módulo 4: Funciones Logaritmo Natural, Exponencial e Hiperbolicas</strong></p>
-
-
 
 
 
@@ -57,15 +49,11 @@ Aplicaciones Geométricas de la Integral
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Ecuaciones Paramétricas y aplicaciones</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Coordenadas Polares y aplicaciones
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Coordenadas Polares y aplicaciones</strong></p>
-
-
 
 
 
@@ -84,15 +72,11 @@ Integral Impropia y Series
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Integrales impropias de primera especie</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Integrales impropias de segunda y tercera especie
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')"><strong>Módulo 2: Integrales impropias de segunda y tercera especie</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -102,15 +86,11 @@ Integral Impropia y Series
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 3')"><strong>Módulo 3: Convergencia de integrales: Comparación y criterio del límite \(n^p\)</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Sucesiones y Series: Criterios de convergencia y divergencia
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 4')"><strong>Módulo 4: Sucesiones y Series: Criterios de convergencia y divergencia</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -120,15 +100,11 @@ Integral Impropia y Series
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 5')"><strong>Módulo 5: Series de potencias</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Teorema de Taylor y de Mac Laurin, Serie Binomial
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 6')"><strong>Módulo 6: Teorema de Taylor y de Mac Laurin, Serie Binomial</strong></p>
-
-
 
 
 
@@ -147,8 +123,6 @@ Curvas en el plano y el espacio
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Diferenciación de funciones reales de varias variables
 
@@ -156,15 +130,11 @@ Curvas en el plano y el espacio
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Diferenciación de funciones reales de varias variables</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Derivación parcial
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 3')"><strong>Módulo 3: Derivación parcial</strong></p>
-
-
 
 
 

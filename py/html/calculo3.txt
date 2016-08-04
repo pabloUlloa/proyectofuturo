@@ -12,85 +12,60 @@ Series de Fourier
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Series de Fourier</strong></p>
 
 
-
-
-
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('_WQB_mM92pU');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Definición y convergencia</p>
+<p class="video" moduloid="1 1" onclick="colapsID('_WQB_mM92pU');"><span style="padding-left:25px">Fourier - Definición y convergencia</span></p>
 <div id="_WQB_mM92pU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/_WQB_mM92pU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('rAAA5QxeCi8');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Extensiones Par e Impar</p>
+<p class="video" moduloid="1 1" onclick="colapsID('rAAA5QxeCi8');"><span style="padding-left:25px">Fourier - Extensiones Par e Impar</span></p>
 <div id="rAAA5QxeCi8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/rAAA5QxeCi8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('NI3YfXjKrxA');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 1</p>
+<p class="video" moduloid="1 1" onclick="colapsID('NI3YfXjKrxA');"><span style="padding-left:25px">Fourier - Ejercicio 1</span></p>
 <div id="NI3YfXjKrxA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/NI3YfXjKrxA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('bOugXeLnHiY');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 2a</p>
+<p class="video" moduloid="1 1" onclick="colapsID('bOugXeLnHiY');"><span style="padding-left:25px">Fourier - Ejercicio 2a</span></p>
 <div id="bOugXeLnHiY" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/bOugXeLnHiY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('bSM0py4hwZ8');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 2b</p>
+<p class="video" moduloid="1 1" onclick="colapsID('bSM0py4hwZ8');"><span style="padding-left:25px">Fourier - Ejercicio 2b</span></p>
 <div id="bSM0py4hwZ8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/bSM0py4hwZ8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('3bW-7uWGQFE');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 3</p>
+<p class="video" moduloid="1 1" onclick="colapsID('3bW-7uWGQFE');"><span style="padding-left:25px">Fourier - Ejercicio 3</span></p>
 <div id="3bW-7uWGQFE" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/3bW-7uWGQFE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('rfVUSMsyDYM');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 4</p>
+<p class="video" moduloid="1 1" onclick="colapsID('rfVUSMsyDYM');"><span style="padding-left:25px">Fourier - Ejercicio 4</span></p>
 <div id="rfVUSMsyDYM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/rfVUSMsyDYM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Convergencias
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><strong>Módulo 2: Convergencias</strong></p>
-
-
 
 
 
@@ -109,47 +84,33 @@ Funciones Vectoriales de Variable Real
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Diferenciación de funciones vectoriales</strong></p>
 
 
-
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('XyiP2uL68qw');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Conceptos</p>
+<p class="video" moduloid="2 1" onclick="colapsID('XyiP2uL68qw');"><span style="padding-left:25px">Funciones Vectoriales - Conceptos</span></p>
 <div id="XyiP2uL68qw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/XyiP2uL68qw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('jjsnyByROUk');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Ejercicio 1</p>
+<p class="video" moduloid="2 1" onclick="colapsID('jjsnyByROUk');"><span style="padding-left:25px">Funciones Vectoriales - Ejercicio 1</span></p>
 <div id="jjsnyByROUk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/jjsnyByROUk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('c5xP7r-fEtU');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Ejercicio 2</p>
+<p class="video" moduloid="2 1" onclick="colapsID('c5xP7r-fEtU');"><span style="padding-left:25px">Funciones Vectoriales - Ejercicio 2</span></p>
 <div id="c5xP7r-fEtU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/c5xP7r-fEtU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
-
-
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('uLThconGRB4');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Parámetro longitud de arco</p>
+<p class="video" moduloid="2 1" onclick="colapsID('uLThconGRB4');"><span style="padding-left:25px">Funciones Vectoriales - Parámetro longitud de arco</span></p>
 <div id="uLThconGRB4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/uLThconGRB4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 -----------------------------------------------------------------------------
 	Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)
@@ -158,17 +119,12 @@ Funciones Vectoriales de Variable Real
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</strong></p>
 
 
-
-
-
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('40aL1KBVBaw');">
-<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Curvas</p>
+<p class="video" moduloid="2 2" onclick="colapsID('40aL1KBVBaw');"><span style="padding-left:25px">Funciones Vectoriales - Curvas</span></p>
 <div id="40aL1KBVBaw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/40aL1KBVBaw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
-
 
 
 
@@ -186,15 +142,11 @@ Funciones de Varias Variables
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Conceptos básicos: límite, continuidad, curvas y superficies de nivel</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Derivadas parciales, vector gradiente y derivada direcciónal
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')"><strong>Módulo 2: Derivadas parciales, vector gradiente y derivada direcciónal</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -204,15 +156,11 @@ Funciones de Varias Variables
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 3')"><strong>Módulo 3: Diferenciabilidad y propiedades</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Derivación compuesta
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 4')"><strong>Módulo 4: Derivación compuesta</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -222,8 +170,6 @@ Funciones de Varias Variables
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 5')"><strong>Módulo 5: Derivación implícita y derivación inversa</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Valores extremos
 
@@ -231,15 +177,11 @@ Funciones de Varias Variables
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 6')"><strong>Módulo 6: Valores extremos</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Extremos condicionados
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 7')"><strong>Módulo 7: Extremos condicionados</strong></p>
-
-
 
 
 
@@ -258,15 +200,11 @@ Integrales dobles, triples, de línea y de superficie
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Integrales dobles</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Integrales triples
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Integrales triples</strong></p>
-
-
 
 
 -----------------------------------------------------------------------------
@@ -276,8 +214,6 @@ Integrales dobles, triples, de línea y de superficie
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 3')"><strong>Módulo 3: Integrales de línea (curvilínea)</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Integrales de superficie
 
@@ -285,15 +221,11 @@ Integrales dobles, triples, de línea y de superficie
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 4')"><strong>Módulo 4: Integrales de superficie</strong></p>
 
 
-
-
 -----------------------------------------------------------------------------
 	Teoremas de transformación de integrales
 
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 5')"><strong>Módulo 5: Teoremas de transformación de integrales</strong></p>
-
-
 
 
 
