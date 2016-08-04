@@ -39,8 +39,13 @@ function colapsID(e){
 function crearClases(){
 	var x = document.createElement("STYLE");
     var t = document.createTextNode("\
+    	@font-face {\
+    font-family: tizaCursiva;\
+    src: url(http://rawgit.com/pabloUlloa/proyectofuturo/master/fonts/CoalhandLukeTRIAL.ttf);\
+}\
 		.unidad{\
 			text-align: justify;\
+			font-family: tizaCursiva;\
 			cursor: pointer;\
 		    opacity: 0.8;\
 	    	filter: Alpha(opacity=80); /* IE8 and earlier */\
@@ -53,6 +58,7 @@ function crearClases(){
 \
 		.modulo{\
 			text-align: justify;\
+			font-family: tizaCursiva;\
 			cursor: pointer;\
 		    opacity: 0.8;\
 	    	filter: Alpha(opacity=80); /* IE8 and earlier */\
