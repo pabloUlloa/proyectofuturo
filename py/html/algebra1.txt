@@ -43,28 +43,28 @@ Inducción y Sumatoria
 
 
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('LdGj71yapqc');"><span style="padding-left:25px">Inducción Matemática - Concepto</span></p>
+<p class="video" moduloid="2 1" onclick="colapsID('LdGj71yapqc');"><span>Inducción Matemática - Concepto</span></p>
 <div id="LdGj71yapqc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/LdGj71yapqc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('H8c8PGEUDj0');"><span style="padding-left:25px">Inducción Matemática - Ejemplo 1</span></p>
+<p class="video" moduloid="2 1" onclick="colapsID('H8c8PGEUDj0');"><span>Inducción Matemática - Ejemplo 1</span></p>
 <div id="H8c8PGEUDj0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/H8c8PGEUDj0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('RK1EruboDHI');"><span style="padding-left:25px">Inducción Matemática - Recursividad, ejercicio 1</span></p>
+<p class="video" moduloid="2 1" onclick="colapsID('RK1EruboDHI');"><span>Inducción Matemática - Recursividad, ejercicio 1</span></p>
 <div id="RK1EruboDHI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/RK1EruboDHI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('8aBzOceYTiQ');"><span style="padding-left:25px">Inducción Matemática - Recursividad, ejercicio 2</span></p>
+<p class="video" moduloid="2 1" onclick="colapsID('8aBzOceYTiQ');"><span>Inducción Matemática - Recursividad, ejercicio 2</span></p>
 <div id="8aBzOceYTiQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/8aBzOceYTiQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -78,28 +78,28 @@ Inducción y Sumatoria
 
 
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('I_UpurOjv_0');"><span style="padding-left:25px">Sumatoria - Concepto</span></p>
+<p class="video" moduloid="2 2" onclick="colapsID('I_UpurOjv_0');"><span>Sumatoria - Concepto</span></p>
 <div id="I_UpurOjv_0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/I_UpurOjv_0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('6EdCA8Inixw');"><span style="padding-left:25px">Sumatoria - Ejercicio 1</span></p>
+<p class="video" moduloid="2 2" onclick="colapsID('6EdCA8Inixw');"><span>Sumatoria - Ejercicio 1</span></p>
 <div id="6EdCA8Inixw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/6EdCA8Inixw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('VkmC4BJzoMU');"><span style="padding-left:25px">Sumatoria - Propiedad Telescópica, ejercicio 1</span></p>
+<p class="video" moduloid="2 2" onclick="colapsID('VkmC4BJzoMU');"><span>Sumatoria - Propiedad Telescópica, ejercicio 1</span></p>
 <div id="VkmC4BJzoMU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/VkmC4BJzoMU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('Dq-FbWws2Vw');"><span style="padding-left:25px">Sumatoria - Propiedad Telescópica, ejercicio 2</span></p>
+<p class="video" moduloid="2 2" onclick="colapsID('Dq-FbWws2Vw');"><span>Sumatoria - Propiedad Telescópica, ejercicio 2</span></p>
 <div id="Dq-FbWws2Vw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Dq-FbWws2Vw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -129,49 +129,49 @@ Progresiones y Análisis combinatorio
 
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('gFIwITuE1KY');"><span style="padding-left:25px">Progresión Aritmética - Concepto</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('gFIwITuE1KY');"><span>Progresión Aritmética - Concepto</span></p>
 <div id="gFIwITuE1KY" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/gFIwITuE1KY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('a1GCnC1s3q4');"><span style="padding-left:25px">Progresión Aritmética - Ejemplo 1</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('a1GCnC1s3q4');"><span>Progresión Aritmética - Ejemplo 1</span></p>
 <div id="a1GCnC1s3q4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/a1GCnC1s3q4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('OOT9NqCxVdE');"><span style="padding-left:25px">Progresión Aritmética - Ejemplo 2</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('OOT9NqCxVdE');"><span>Progresión Aritmética - Ejemplo 2</span></p>
 <div id="OOT9NqCxVdE" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/OOT9NqCxVdE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('S4xKmuu5bfg');"><span style="padding-left:25px">Progresión Geométrica - Concepto</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('S4xKmuu5bfg');"><span>Progresión Geométrica - Concepto</span></p>
 <div id="S4xKmuu5bfg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/S4xKmuu5bfg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('Yzn7yMDGmYI');"><span style="padding-left:25px">Progresión Geométrica - Ejemplo 1</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('Yzn7yMDGmYI');"><span>Progresión Geométrica - Ejemplo 1</span></p>
 <div id="Yzn7yMDGmYI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Yzn7yMDGmYI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('6NxKB92JjFg');"><span style="padding-left:25px">Progresiones - Ejemplo 3</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('6NxKB92JjFg');"><span>Progresiones - Ejemplo 3</span></p>
 <div id="6NxKB92JjFg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/6NxKB92JjFg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('Omr1h9oCjJ8');"><span style="padding-left:25px">Resumen Progresión Aritmética y Geométrica</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('Omr1h9oCjJ8');"><span>Resumen Progresión Aritmética y Geométrica</span></p>
 <div id="Omr1h9oCjJ8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Omr1h9oCjJ8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -192,35 +192,35 @@ Progresiones y Análisis combinatorio
 
 
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('1rrIwk-s4HU');"><span style="padding-left:25px">Teorema del Binomio - Concepto</span></p>
+<p class="video" moduloid="3 3" onclick="colapsID('1rrIwk-s4HU');"><span>Teorema del Binomio - Concepto</span></p>
 <div id="1rrIwk-s4HU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/1rrIwk-s4HU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('NGVMWPzC9fA');"><span style="padding-left:25px">Teorema del Binomio - Ejemplo 1</span></p>
+<p class="video" moduloid="3 3" onclick="colapsID('NGVMWPzC9fA');"><span>Teorema del Binomio - Ejemplo 1</span></p>
 <div id="NGVMWPzC9fA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/NGVMWPzC9fA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('-2mXPYtVNCc');"><span style="padding-left:25px">Teorema del Binomio - Ejemplo 2</span></p>
+<p class="video" moduloid="3 3" onclick="colapsID('-2mXPYtVNCc');"><span>Teorema del Binomio - Ejemplo 2</span></p>
 <div id="-2mXPYtVNCc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-2mXPYtVNCc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('-qNYBSKAq2s');"><span style="padding-left:25px">Teorema del Binomio - Ejemplo 3</span></p>
+<p class="video" moduloid="3 3" onclick="colapsID('-qNYBSKAq2s');"><span>Teorema del Binomio - Ejemplo 3</span></p>
 <div id="-qNYBSKAq2s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-qNYBSKAq2s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('rUVTBIsC32c');"><span style="padding-left:25px">Teorema del Binomio - Ejemplo 4</span></p>
+<p class="video" moduloid="3 3" onclick="colapsID('rUVTBIsC32c');"><span>Teorema del Binomio - Ejemplo 4</span></p>
 <div id="rUVTBIsC32c" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/rUVTBIsC32c?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -243,21 +243,21 @@ Relaciones
 
 
 <div class="modulo4 1">
-<p class="video" moduloid="4 1" onclick="colapsID('LcVc3T7fCoI');"><span style="padding-left:25px">Relaciones - Concepto</span></p>
+<p class="video" moduloid="4 1" onclick="colapsID('LcVc3T7fCoI');"><span>Relaciones - Concepto</span></p>
 <div id="LcVc3T7fCoI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/LcVc3T7fCoI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo4 1">
-<p class="video" moduloid="4 1" onclick="colapsID('XX4ojNN8Sps');"><span style="padding-left:25px">Relaciones - Características de una relación</span></p>
+<p class="video" moduloid="4 1" onclick="colapsID('XX4ojNN8Sps');"><span>Relaciones - Características de una relación</span></p>
 <div id="XX4ojNN8Sps" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/XX4ojNN8Sps?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo4 1">
-<p class="video" moduloid="4 1" onclick="colapsID('E6mhYMVWHWM');"><span style="padding-left:25px">Relaciones - Ejemplo 1</span></p>
+<p class="video" moduloid="4 1" onclick="colapsID('E6mhYMVWHWM');"><span>Relaciones - Ejemplo 1</span></p>
 <div id="E6mhYMVWHWM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/E6mhYMVWHWM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -271,28 +271,28 @@ Relaciones
 
 
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('bfqJ1cDx-2Y');"><span style="padding-left:25px">Relaciones - Clase de equivalencia, concepto</span></p>
+<p class="video" moduloid="4 2" onclick="colapsID('bfqJ1cDx-2Y');"><span>Relaciones - Clase de equivalencia, concepto</span></p>
 <div id="bfqJ1cDx-2Y" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/bfqJ1cDx-2Y?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('7ONiFWT-rFo');"><span style="padding-left:25px">Relaciones - Ejercicio de relaciones de equivalencia 1</span></p>
+<p class="video" moduloid="4 2" onclick="colapsID('7ONiFWT-rFo');"><span>Relaciones - Ejercicio de relaciones de equivalencia 1</span></p>
 <div id="7ONiFWT-rFo" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/7ONiFWT-rFo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('JqtiDIL3XIM');"><span style="padding-left:25px">Relaciones - Ejercicio de relaciones 2</span></p>
+<p class="video" moduloid="4 2" onclick="colapsID('JqtiDIL3XIM');"><span>Relaciones - Ejercicio de relaciones 2</span></p>
 <div id="JqtiDIL3XIM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/JqtiDIL3XIM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo4 2">
-<p class="video" moduloid="4 2" onclick="colapsID('fcYculM9VcU');"><span style="padding-left:25px">Relaciones - Congruencia de módulo n</span></p>
+<p class="video" moduloid="4 2" onclick="colapsID('fcYculM9VcU');"><span>Relaciones - Congruencia de módulo n</span></p>
 <div id="fcYculM9VcU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/fcYculM9VcU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -343,7 +343,7 @@ Geometría Analitica
 
 
 <div class="modulo5 5">
-<p class="video" moduloid="5 5" onclick="colapsID('QgeoxZByIt4');"><span style="padding-left:25px">Geometría Analítica - Elipse</span></p>
+<p class="video" moduloid="5 5" onclick="colapsID('QgeoxZByIt4');"><span>Geometría Analítica - Elipse</span></p>
 <div id="QgeoxZByIt4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/QgeoxZByIt4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -357,7 +357,7 @@ Geometría Analitica
 
 
 <div class="modulo5 6">
-<p class="video" moduloid="5 6" onclick="colapsID('nIWYDWccbyI');"><span style="padding-left:25px">Geometría Analítica - Hipérbola</span></p>
+<p class="video" moduloid="5 6" onclick="colapsID('nIWYDWccbyI');"><span>Geometría Analítica - Hipérbola</span></p>
 <div id="nIWYDWccbyI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/nIWYDWccbyI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -440,14 +440,14 @@ Complementos de Polinomios
 
 
 <div class="modulo8 1">
-<p class="video" moduloid="8 1" onclick="colapsID('Do8GEpPJKJE');"><span style="padding-left:25px">Concepto de Polinomio</span></p>
+<p class="video" moduloid="8 1" onclick="colapsID('Do8GEpPJKJE');"><span>Concepto de Polinomio</span></p>
 <div id="Do8GEpPJKJE" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Do8GEpPJKJE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo8 1">
-<p class="video" moduloid="8 1" onclick="colapsID('Di4PmUFuwTw');"><span style="padding-left:25px">Ejercicio 1</span></p>
+<p class="video" moduloid="8 1" onclick="colapsID('Di4PmUFuwTw');"><span>Ejercicio 1</span></p>
 <div id="Di4PmUFuwTw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Di4PmUFuwTw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -468,7 +468,7 @@ Complementos de Polinomios
 
 
 <div class="modulo8 3">
-<p class="video" moduloid="8 3" onclick="colapsID('UEm1m5BwxZs');"><span style="padding-left:25px">Concepto de Fracciones Parciales</span></p>
+<p class="video" moduloid="8 3" onclick="colapsID('UEm1m5BwxZs');"><span>Concepto de Fracciones Parciales</span></p>
 <div id="UEm1m5BwxZs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/UEm1m5BwxZs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>

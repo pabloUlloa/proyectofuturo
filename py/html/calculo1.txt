@@ -13,21 +13,21 @@ Los Números Reales
 
 
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('MsNjcUUjzCI');"><span style="padding-left:25px">Axiomas de orden - Concepto</span></p>
+<p class="video" moduloid="1 1" onclick="colapsID('MsNjcUUjzCI');"><span>Axiomas de orden - Concepto</span></p>
 <div id="MsNjcUUjzCI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/MsNjcUUjzCI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('yvHNMk8DSnw');"><span style="padding-left:25px">Axiomas de cuerpo - Concepto</span></p>
+<p class="video" moduloid="1 1" onclick="colapsID('yvHNMk8DSnw');"><span>Axiomas de cuerpo - Concepto</span></p>
 <div id="yvHNMk8DSnw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/yvHNMk8DSnw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo1 1">
-<p class="video" moduloid="1 1" onclick="colapsID('qWxGOpJlUt8');"><span style="padding-left:25px">Axiomas de cuerpo - Ejercicio 1</span></p>
+<p class="video" moduloid="1 1" onclick="colapsID('qWxGOpJlUt8');"><span>Axiomas de cuerpo - Ejercicio 1</span></p>
 <div id="qWxGOpJlUt8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/qWxGOpJlUt8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -48,28 +48,28 @@ Los Números Reales
 
 
 <div class="modulo1 3">
-<p class="video" moduloid="1 3" onclick="colapsID('CTpCscd8DZU');"><span style="padding-left:25px">Inecuaciones - Concepto</span></p>
+<p class="video" moduloid="1 3" onclick="colapsID('CTpCscd8DZU');"><span>Inecuaciones - Concepto</span></p>
 <div id="CTpCscd8DZU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/CTpCscd8DZU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo1 3">
-<p class="video" moduloid="1 3" onclick="colapsID('Ge3hji34xAw');"><span style="padding-left:25px">Inecuaciones - Como se genera el intervalo de soluciones</span></p>
+<p class="video" moduloid="1 3" onclick="colapsID('Ge3hji34xAw');"><span>Inecuaciones - Como se genera el intervalo de soluciones</span></p>
 <div id="Ge3hji34xAw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Ge3hji34xAw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo1 3">
-<p class="video" moduloid="1 3" onclick="colapsID('vJOKpqjNEqA');"><span style="padding-left:25px">Inecuaciones - Ejercicio 1</span></p>
+<p class="video" moduloid="1 3" onclick="colapsID('vJOKpqjNEqA');"><span>Inecuaciones - Ejercicio 1</span></p>
 <div id="vJOKpqjNEqA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/vJOKpqjNEqA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo1 3">
-<p class="video" moduloid="1 3" onclick="colapsID('00jBCbrxw9s');"><span style="padding-left:25px">Inecuaciones - Ejercicio 2</span></p>
+<p class="video" moduloid="1 3" onclick="colapsID('00jBCbrxw9s');"><span>Inecuaciones - Ejercicio 2</span></p>
 <div id="00jBCbrxw9s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/00jBCbrxw9s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -99,28 +99,28 @@ Funciones de Variable Real
 
 
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('5seDbgLKZ_s');"><span style="padding-left:25px">Funciones - Concepto</span></p>
+<p class="video" moduloid="2 1" onclick="colapsID('5seDbgLKZ_s');"><span>Funciones - Concepto</span></p>
 <div id="5seDbgLKZ_s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5seDbgLKZ_s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('Zr07j_ydaZs');"><span style="padding-left:25px">Funciones - Simetria, Dominio, Recorrido</span></p>
+<p class="video" moduloid="2 1" onclick="colapsID('Zr07j_ydaZs');"><span>Funciones - Simetria, Dominio, Recorrido</span></p>
 <div id="Zr07j_ydaZs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Zr07j_ydaZs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('mnLvcz16D4E');"><span style="padding-left:25px">Funciones - Epiyectiva, Inyectiva y Sobreyectiva</span></p>
+<p class="video" moduloid="2 1" onclick="colapsID('mnLvcz16D4E');"><span>Funciones - Epiyectiva, Inyectiva y Sobreyectiva</span></p>
 <div id="mnLvcz16D4E" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/mnLvcz16D4E?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 1">
-<p class="video" moduloid="2 1" onclick="colapsID('Tiugbcrbl-Y');"><span style="padding-left:25px">Funciones - Ejercicio 1</span></p>
+<p class="video" moduloid="2 1" onclick="colapsID('Tiugbcrbl-Y');"><span>Funciones - Ejercicio 1</span></p>
 <div id="Tiugbcrbl-Y" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Tiugbcrbl-Y?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -134,21 +134,21 @@ Funciones de Variable Real
 
 
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('kCG03rrBd24');"><span style="padding-left:25px">Funciones trigonométricas - función seno</span></p>
+<p class="video" moduloid="2 2" onclick="colapsID('kCG03rrBd24');"><span>Funciones trigonométricas - función seno</span></p>
 <div id="kCG03rrBd24" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/kCG03rrBd24?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('eycjrgKBfSc');"><span style="padding-left:25px">Funciones trigonométricas - función coseno</span></p>
+<p class="video" moduloid="2 2" onclick="colapsID('eycjrgKBfSc');"><span>Funciones trigonométricas - función coseno</span></p>
 <div id="eycjrgKBfSc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/eycjrgKBfSc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo2 2">
-<p class="video" moduloid="2 2" onclick="colapsID('5bilhMdkRnY');"><span style="padding-left:25px">Funciones trigonométricas - teorema del seno y coseno</span></p>
+<p class="video" moduloid="2 2" onclick="colapsID('5bilhMdkRnY');"><span>Funciones trigonométricas - teorema del seno y coseno</span></p>
 <div id="5bilhMdkRnY" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5bilhMdkRnY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -185,42 +185,42 @@ Límite de Funciones
 
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('-lzkJPKjZnM');"><span style="padding-left:25px">Límites - Definición formal de límite</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('-lzkJPKjZnM');"><span>Límites - Definición formal de límite</span></p>
 <div id="-lzkJPKjZnM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-lzkJPKjZnM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('iXHYPUiJKa4');"><span style="padding-left:25px">Límites - Ejercicio usando definición formal de límite</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('iXHYPUiJKa4');"><span>Límites - Ejercicio usando definición formal de límite</span></p>
 <div id="iXHYPUiJKa4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/iXHYPUiJKa4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('aTumd9tndDQ');"><span style="padding-left:25px">Límites - Ejercicios de expresiones algebraicas, casos al infinito</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('aTumd9tndDQ');"><span>Límites - Ejercicios de expresiones algebraicas, casos al infinito</span></p>
 <div id="aTumd9tndDQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/aTumd9tndDQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('gdHCyEpBFnQ');"><span style="padding-left:25px">Límites - Ejercicios de expresiones algebraicas, casos al un punto</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('gdHCyEpBFnQ');"><span>Límites - Ejercicios de expresiones algebraicas, casos al un punto</span></p>
 <div id="gdHCyEpBFnQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/gdHCyEpBFnQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('6P30wS7A6V0');"><span style="padding-left:25px">Límites - Ejercicio 1 de límites exponenciales</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('6P30wS7A6V0');"><span>Límites - Ejercicio 1 de límites exponenciales</span></p>
 <div id="6P30wS7A6V0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/6P30wS7A6V0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 1">
-<p class="video" moduloid="3 1" onclick="colapsID('DptJF4Qa3rs');"><span style="padding-left:25px">Límites - Ejercicio 2 de límites exponenciales</span></p>
+<p class="video" moduloid="3 1" onclick="colapsID('DptJF4Qa3rs');"><span>Límites - Ejercicio 2 de límites exponenciales</span></p>
 <div id="DptJF4Qa3rs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/DptJF4Qa3rs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -234,21 +234,21 @@ Límite de Funciones
 
 
 <div class="modulo3 2">
-<p class="video" moduloid="3 2" onclick="colapsID('eB8PoFObSLg');"><span style="padding-left:25px">Límites - Límites laterales, concepto</span></p>
+<p class="video" moduloid="3 2" onclick="colapsID('eB8PoFObSLg');"><span>Límites - Límites laterales, concepto</span></p>
 <div id="eB8PoFObSLg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/eB8PoFObSLg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 2">
-<p class="video" moduloid="3 2" onclick="colapsID('N0Gwr2Ko32w');"><span style="padding-left:25px">Límites - Límites laterales, ejercicio 1</span></p>
+<p class="video" moduloid="3 2" onclick="colapsID('N0Gwr2Ko32w');"><span>Límites - Límites laterales, ejercicio 1</span></p>
 <div id="N0Gwr2Ko32w" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/N0Gwr2Ko32w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 2">
-<p class="video" moduloid="3 2" onclick="colapsID('SuEQZ9-9ykQ');"><span style="padding-left:25px">Límites - Gráficas y Asíntotas</span></p>
+<p class="video" moduloid="3 2" onclick="colapsID('SuEQZ9-9ykQ');"><span>Límites - Gráficas y Asíntotas</span></p>
 <div id="SuEQZ9-9ykQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/SuEQZ9-9ykQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -262,14 +262,14 @@ Límite de Funciones
 
 
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('5up4MqOhv84');"><span style="padding-left:25px">Continuidad - concepto</span></p>
+<p class="video" moduloid="3 3" onclick="colapsID('5up4MqOhv84');"><span>Continuidad - concepto</span></p>
 <div id="5up4MqOhv84" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5up4MqOhv84?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 3">
-<p class="video" moduloid="3 3" onclick="colapsID('L6i0bfZmvqU');"><span style="padding-left:25px">Continuidad - ejercicio 1</span></p>
+<p class="video" moduloid="3 3" onclick="colapsID('L6i0bfZmvqU');"><span>Continuidad - ejercicio 1</span></p>
 <div id="L6i0bfZmvqU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/L6i0bfZmvqU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -371,21 +371,21 @@ Aplicaciones de la derivada
 
 
 <div class="modulo5 2">
-<p class="video" moduloid="5 2" onclick="colapsID('GDNWQmQ4ecI');"><span style="padding-left:25px">Razón de cambio - Teoría</span></p>
+<p class="video" moduloid="5 2" onclick="colapsID('GDNWQmQ4ecI');"><span>Razón de cambio - Teoría</span></p>
 <div id="GDNWQmQ4ecI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/GDNWQmQ4ecI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo5 2">
-<p class="video" moduloid="5 2" onclick="colapsID('ozi63YBP0I0');"><span style="padding-left:25px">Razón de cambio - Ejercicio 1</span></p>
+<p class="video" moduloid="5 2" onclick="colapsID('ozi63YBP0I0');"><span>Razón de cambio - Ejercicio 1</span></p>
 <div id="ozi63YBP0I0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/ozi63YBP0I0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo5 2">
-<p class="video" moduloid="5 2" onclick="colapsID('YFFG5KNYGGw');"><span style="padding-left:25px">Razón de cambio - Ejercicio 5</span></p>
+<p class="video" moduloid="5 2" onclick="colapsID('YFFG5KNYGGw');"><span>Razón de cambio - Ejercicio 5</span></p>
 <div id="YFFG5KNYGGw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/YFFG5KNYGGw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -422,7 +422,7 @@ Antiderivadas
 
 
 <div class="modulo6 2">
-<p class="video" moduloid="6 2" onclick="colapsID('7DqACYJIxTk');"><span style="padding-left:25px">Integración por método de sustitución</span></p>
+<p class="video" moduloid="6 2" onclick="colapsID('7DqACYJIxTk');"><span>Integración por método de sustitución</span></p>
 <div id="7DqACYJIxTk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/7DqACYJIxTk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -443,14 +443,14 @@ Antiderivadas
 
 
 <div class="modulo6 4">
-<p class="video" moduloid="6 4" onclick="colapsID('RWPgijt1rVM');"><span style="padding-left:25px">integración por sustitución trigonométrica - Ejercicio 1</span></p>
+<p class="video" moduloid="6 4" onclick="colapsID('RWPgijt1rVM');"><span>integración por sustitución trigonométrica - Ejercicio 1</span></p>
 <div id="RWPgijt1rVM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/RWPgijt1rVM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 4">
-<p class="video" moduloid="6 4" onclick="colapsID('lFOTATY3uIg');"><span style="padding-left:25px">integración por sustitución trigonométrica - Ejercicio 2</span></p>
+<p class="video" moduloid="6 4" onclick="colapsID('lFOTATY3uIg');"><span>integración por sustitución trigonométrica - Ejercicio 2</span></p>
 <div id="lFOTATY3uIg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/lFOTATY3uIg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -464,56 +464,56 @@ Antiderivadas
 
 
 <div class="modulo6 5">
-<p class="video" moduloid="6 5" onclick="colapsID('hx4hklSg8dk');"><span style="padding-left:25px">Integración por partes</span></p>
+<p class="video" moduloid="6 5" onclick="colapsID('hx4hklSg8dk');"><span>Integración por partes</span></p>
 <div id="hx4hklSg8dk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/hx4hklSg8dk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 5">
-<p class="video" moduloid="6 5" onclick="colapsID('W58sZ6RgsGk');"><span style="padding-left:25px">Integración por partes - Teoría</span></p>
+<p class="video" moduloid="6 5" onclick="colapsID('W58sZ6RgsGk');"><span>Integración por partes - Teoría</span></p>
 <div id="W58sZ6RgsGk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/W58sZ6RgsGk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 5">
-<p class="video" moduloid="6 5" onclick="colapsID('pvv9v8481cI');"><span style="padding-left:25px">Integración por partes - Formulas de Reducción</span></p>
+<p class="video" moduloid="6 5" onclick="colapsID('pvv9v8481cI');"><span>Integración por partes - Formulas de Reducción</span></p>
 <div id="pvv9v8481cI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/pvv9v8481cI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 5">
-<p class="video" moduloid="6 5" onclick="colapsID('_T0GjUCt0hs');"><span style="padding-left:25px">Integración por partes - Ejercicio 1</span></p>
+<p class="video" moduloid="6 5" onclick="colapsID('_T0GjUCt0hs');"><span>Integración por partes - Ejercicio 1</span></p>
 <div id="_T0GjUCt0hs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/_T0GjUCt0hs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 5">
-<p class="video" moduloid="6 5" onclick="colapsID('5B1UlnMskAI');"><span style="padding-left:25px">Integración por partes - Ejercicio 3</span></p>
+<p class="video" moduloid="6 5" onclick="colapsID('5B1UlnMskAI');"><span>Integración por partes - Ejercicio 3</span></p>
 <div id="5B1UlnMskAI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5B1UlnMskAI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 5">
-<p class="video" moduloid="6 5" onclick="colapsID('7vqIok-Aahk');"><span style="padding-left:25px">Integración por partes - Ejercicio 4</span></p>
+<p class="video" moduloid="6 5" onclick="colapsID('7vqIok-Aahk');"><span>Integración por partes - Ejercicio 4</span></p>
 <div id="7vqIok-Aahk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/7vqIok-Aahk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 5">
-<p class="video" moduloid="6 5" onclick="colapsID('BriqqkrK2dc');"><span style="padding-left:25px">Integración por partes - Ejercicio 5</span></p>
+<p class="video" moduloid="6 5" onclick="colapsID('BriqqkrK2dc');"><span>Integración por partes - Ejercicio 5</span></p>
 <div id="BriqqkrK2dc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/BriqqkrK2dc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 5">
-<p class="video" moduloid="6 5" onclick="colapsID('tarTGG6YFCA');"><span style="padding-left:25px">Integración por partes - Ejercicios</span></p>
+<p class="video" moduloid="6 5" onclick="colapsID('tarTGG6YFCA');"><span>Integración por partes - Ejercicios</span></p>
 <div id="tarTGG6YFCA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/tarTGG6YFCA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -527,35 +527,35 @@ Antiderivadas
 
 
 <div class="modulo6 6">
-<p class="video" moduloid="6 6" onclick="colapsID('XiqGH-odk4I');"><span style="padding-left:25px">Integración por fracciones parciales - Teoría</span></p>
+<p class="video" moduloid="6 6" onclick="colapsID('XiqGH-odk4I');"><span>Integración por fracciones parciales - Teoría</span></p>
 <div id="XiqGH-odk4I" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/XiqGH-odk4I?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 6">
-<p class="video" moduloid="6 6" onclick="colapsID('09Mn48P0Nc0');"><span style="padding-left:25px">Integración por fracciones parciales - Ejercicio 1</span></p>
+<p class="video" moduloid="6 6" onclick="colapsID('09Mn48P0Nc0');"><span>Integración por fracciones parciales - Ejercicio 1</span></p>
 <div id="09Mn48P0Nc0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/09Mn48P0Nc0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 6">
-<p class="video" moduloid="6 6" onclick="colapsID('5qO7R-3475k');"><span style="padding-left:25px">Integración por fracciones parciales - Ejercicio 2</span></p>
+<p class="video" moduloid="6 6" onclick="colapsID('5qO7R-3475k');"><span>Integración por fracciones parciales - Ejercicio 2</span></p>
 <div id="5qO7R-3475k" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5qO7R-3475k?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 6">
-<p class="video" moduloid="6 6" onclick="colapsID('sSnwk2YQ9IM');"><span style="padding-left:25px">Integración por fracciones parciales - Ejercicio 3</span></p>
+<p class="video" moduloid="6 6" onclick="colapsID('sSnwk2YQ9IM');"><span>Integración por fracciones parciales - Ejercicio 3</span></p>
 <div id="sSnwk2YQ9IM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/sSnwk2YQ9IM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo6 6">
-<p class="video" moduloid="6 6" onclick="colapsID('sUKAeTDKB9U');"><span style="padding-left:25px">Integración por fracciones parciales - Ejercicio 4</span></p>
+<p class="video" moduloid="6 6" onclick="colapsID('sUKAeTDKB9U');"><span>Integración por fracciones parciales - Ejercicio 4</span></p>
 <div id="sUKAeTDKB9U" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/sUKAeTDKB9U?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>

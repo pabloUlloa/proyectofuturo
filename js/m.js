@@ -75,11 +75,13 @@ function crearClases(){
 		}\
 		.modulo{\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
-			background-size:90%;\
+			background-size:80%;\
+			height: 40px;\
 		}\
 		.video{\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/videoPostit.png) no-repeat;\
-			background-size:90%;\
+			background-size:80%;\
+			height: 40px;\
 		}\
 		.modulo:hover, .video:hover, .boton:hover{\
 			opacity: 1;\

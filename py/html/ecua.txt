@@ -20,7 +20,7 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 
 
 <div class="modulo1 2">
-<p class="video" moduloid="1 2" onclick="colapsID('TJjiqfnuwbQ');"><span style="padding-left:25px">Separación de Variables</span></p>
+<p class="video" moduloid="1 2" onclick="colapsID('TJjiqfnuwbQ');"><span>Separación de Variables</span></p>
 <div id="TJjiqfnuwbQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/TJjiqfnuwbQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -34,14 +34,14 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 
 
 <div class="modulo1 3">
-<p class="video" moduloid="1 3" onclick="colapsID('ocSmZSKlN04');"><span style="padding-left:25px">Ecuaciones Diferenciales Exactas - Concepto</span></p>
+<p class="video" moduloid="1 3" onclick="colapsID('ocSmZSKlN04');"><span>Ecuaciones Diferenciales Exactas - Concepto</span></p>
 <div id="ocSmZSKlN04" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/ocSmZSKlN04?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo1 3">
-<p class="video" moduloid="1 3" onclick="colapsID('mGZE0-nfvnU');"><span style="padding-left:25px">Ecuaciones Diferenciales Exactas - Ejercicio 1</span></p>
+<p class="video" moduloid="1 3" onclick="colapsID('mGZE0-nfvnU');"><span>Ecuaciones Diferenciales Exactas - Ejercicio 1</span></p>
 <div id="mGZE0-nfvnU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/mGZE0-nfvnU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
