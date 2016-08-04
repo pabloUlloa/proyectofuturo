@@ -44,8 +44,8 @@ function crearClases(){
 		    src: url(http://rawgit.com/pabloUlloa/proyectofuturo/master/fonts/CoalhandLukeTRIAL.ttf);\
 		}\
 		.boton{\
-			opacity: 0.8;\
-	    	filter: Alpha(opacity=80); /* IE8 and earlier */\
+			opacity: 0.7;\
+	    	filter: Alpha(opacity=70); /* IE8 and earlier */\
 		}\
 		.boton:hover{\
 		    opacity: 1;\
