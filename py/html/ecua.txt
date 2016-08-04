@@ -1,0 +1,246 @@
+=============================================================================
+Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 1: Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Introducción a las Ecuaciones Diferenciales
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Introducción a las Ecuaciones Diferenciales</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Ecuaciones de Variables Separables
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 2')"><strong>Módulo 2: Ecuaciones de Variables Separables</strong></p>
+
+
+
+
+
+<div class="modulo1 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="1 2" onclick="colapsID('TJjiqfnuwbQ');">
+<strong>[Video] Separación de Variables</strong></p>
+<div id="TJjiqfnuwbQ" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/TJjiqfnuwbQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+-----------------------------------------------------------------------------
+	Ecuaciones Diferenciales Exactas
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 3')"><strong>Módulo 3: Ecuaciones Diferenciales Exactas</strong></p>
+
+
+
+
+
+<div class="modulo1 3">
+<p style="text-align: justify; cursor: pointer;" moduloId="1 3" onclick="colapsID('ocSmZSKlN04');">
+<strong>[Video] Ecuaciones Diferenciales Exactas - Concepto</strong></p>
+<div id="ocSmZSKlN04" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/ocSmZSKlN04?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo1 3">
+<p style="text-align: justify; cursor: pointer;" moduloId="1 3" onclick="colapsID('mGZE0-nfvnU');">
+<strong>[Video] Ecuaciones Diferenciales Exactas - Ejercicio 1</strong></p>
+<div id="mGZE0-nfvnU" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/mGZE0-nfvnU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+-----------------------------------------------------------------------------
+	Ecuaciones Lineales
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 4')"><strong>Módulo 4: Ecuaciones Lineales</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Aplicaciones de las Ecuaciones Diferenciales de Primer Orden
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 5')"><strong>Módulo 5: Aplicaciones de las Ecuaciones Diferenciales de Primer Orden</strong></p>
+
+
+
+
+
+
+=============================================================================
+Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 2: Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Ecuaciones lineales de Segundo Orden
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Ecuaciones lineales de Segundo Orden</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Ecuaciones Lineales Homogeneas
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Ecuaciones Lineales Homogeneas</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Ecuaciones Lineales no Homogeneas
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 3')"><strong>Módulo 3: Ecuaciones Lineales no Homogeneas</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Aplicaciones de ecuaciones de segundo orden
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 4')"><strong>Módulo 4: Aplicaciones de ecuaciones de segundo orden</strong></p>
+
+
+
+
+
+
+=============================================================================
+Soluciones de Ecuaciones Diferenciales por series de Potencia
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 3: Soluciones de Ecuaciones Diferenciales por series de Potencia</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Solución en torno a puntos ordinarios
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Solución en torno a puntos ordinarios</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Solución en torno a puntos singulares regulares
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('3 2')"><strong>Módulo 2: Solución en torno a puntos singulares regulares</strong></p>
+
+
+
+
+
+
+=============================================================================
+Transformada de Laplace y Aplicaciones de Ingeniería
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 4: Transformada de Laplace y Aplicaciones de Ingeniería</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Definición y propiedades de la Transformada de Laplace
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Definición y propiedades de la Transformada de Laplace</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Aplicación de la Transformada de Laplace en la resolución de ecuaciones diferenciales
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Aplicación de la Transformada de Laplace en la resolución de ecuaciones diferenciales</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Convolución
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('4 3')"><strong>Módulo 3: Convolución</strong></p>
+
+
+
+
+
+
+=============================================================================
+Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 5: Soluciones de Ecuaciones en derivadas Parciales y aplicaciones</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Introducción
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('5 1')"><strong>Módulo 1: Introducción</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Método de Separación de Variables
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('5 2')"><strong>Módulo 2: Método de Separación de Variables</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Ecuación de Onda
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('5 3')"><strong>Módulo 3: Ecuación de Onda</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Ecuación de Calor
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('5 4')"><strong>Módulo 4: Ecuación de Calor</strong></p>
+
+
+
+
+-----------------------------------------------------------------------------
+	Ecuación de Laplace
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('5 5')"><strong>Módulo 5: Ecuación de Laplace</strong></p>
+
+
+
+
+
+

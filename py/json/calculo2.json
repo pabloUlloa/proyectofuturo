@@ -1,0 +1,119 @@
+{
+    "asignatura":"Cálculo II para Ingeniería",
+    "unidades":[
+        {
+            "nombre":"Integral de Riemann y Aplicaciones de la Integral",
+            "carpetaId":"module-104649",
+            "modulos":[
+                {
+                    "nombre":"Sumas e integral de Riemann, propiedades",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Volumenes, Longitud de Arco y Areas de superficies de revolución",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Funciones Logaritmo Natural, Exponencial e Hiperbolicas",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Aplicaciones Geométricas de la Integral",
+            "carpetaId":"module-104650",
+            "modulos":[
+                {
+                    "nombre":"Ecuaciones Paramétricas y aplicaciones",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Coordenadas Polares y aplicaciones",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Integral Impropia y Series",
+            "carpetaId":"module-104651",
+            "modulos":[
+                {
+                    "nombre":"Integrales impropias de primera especie",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Integrales impropias de segunda y tercera especie",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Convergencia de integrales: Comparación y criterio del límite \\(n^p\\)",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Sucesiones y Series: Criterios de convergencia y divergencia",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Series de potencias",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Teorema de Taylor y de Mac Laurin, Serie Binomial",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Curvas en el plano y el espacio",
+            "carpetaId":"module-104652",
+            "modulos":[
+                {
+                    "nombre":"Curvas en \\(\\mathbb{R}^2\\) y en \\(\\mathbb{R}^3\\)",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Diferenciación de funciones reales de varias variables",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Derivación parcial",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        }
+    ]
+}

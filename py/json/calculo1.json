@@ -1,0 +1,379 @@
+{
+    "asignatura":"Cálculo I para Ingeniería",
+    "unidades":[
+        {
+            "nombre":"Los Números Reales",
+            "carpetaId":"module-104642",
+            "modulos":[
+                {
+                    "nombre":"Axiomas",
+                    "videos":[
+                        {
+                            "nombre":"Axiomas de orden - Concepto",
+                            "url":"https://www.youtube.com/watch?v=MsNjcUUjzCI"
+                        },
+                        {
+                            "nombre":"Axiomas de cuerpo - Concepto",
+                            "url":"https://www.youtube.com/watch?v=yvHNMk8DSnw"
+                        },
+                        {
+                            "nombre":"Axiomas de cuerpo - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=qWxGOpJlUt8"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Valor Absoluto",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Desigualdades",
+                    "videos":[
+                        {
+                            "nombre":"Inecuaciones - Concepto",
+                            "url":"https://www.youtube.com/watch?v=CTpCscd8DZU"
+                        },
+                        {
+                            "nombre":"Inecuaciones - Como se genera el intervalo de soluciones",
+                            "url":"https://www.youtube.com/watch?v=Ge3hji34xAw"
+                        },
+                        {
+                            "nombre":"Inecuaciones - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=vJOKpqjNEqA"
+                        },
+                        {
+                            "nombre":"Inecuaciones - Ejercicio 2",
+                            "url":"https://www.youtube.com/watch?v=00jBCbrxw9s"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Axioma del supremo",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Funciones de Variable Real",
+            "carpetaId":"module-104643",
+            "modulos":[
+                {
+                    "nombre":"Estudio algebraico y estudio gráfico",
+                    "videos":[
+                        {
+                            "nombre":"Funciones - Concepto",
+                            "url":"https://www.youtube.com/watch?v=5seDbgLKZ_s"
+                        },
+                        {
+                            "nombre":"Funciones - Simetria, Dominio, Recorrido",
+                            "url":"https://www.youtube.com/watch?v=Zr07j_ydaZs"
+                        },
+                        {
+                            "nombre":"Funciones - Epiyectiva, Inyectiva y Sobreyectiva",
+                            "url":"https://www.youtube.com/watch?v=mnLvcz16D4E"
+                        },
+                        {
+                            "nombre":"Funciones - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=Tiugbcrbl-Y"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"El caso de las funciones trigonométricas",
+                    "videos":[
+                        {
+                            "nombre":"Funciones trigonométricas - función seno",
+                            "url":"https://www.youtube.com/watch?v=kCG03rrBd24"
+                        },
+                        {
+                            "nombre":"Funciones trigonométricas - función coseno",
+                            "url":"https://www.youtube.com/watch?v=eycjrgKBfSc"
+                        },
+                        {
+                            "nombre":"Funciones trigonométricas - teorema del seno y coseno",
+                            "url":"https://www.youtube.com/watch?v=5bilhMdkRnY"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Aplicaciones de la trigonometría",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"El caso de las funciones logaritmo y exponencial",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Límite de Funciones",
+            "carpetaId":"module-104644",
+            "modulos":[
+                {
+                    "nombre":"El concepto y su operatoria",
+                    "videos":[
+                        {
+                            "nombre":"Límites - Definición formal de límite",
+                            "url":"https://www.youtube.com/watch?v=-lzkJPKjZnM"
+                        },
+                        {
+                            "nombre":"Límites - Ejercicio usando definición formal de límite",
+                            "url":"https://www.youtube.com/watch?v=iXHYPUiJKa4"
+                        },
+                        {
+                            "nombre":"Límites - Ejercicios de expresiones algebraicas, casos al infinito",
+                            "url":"https://www.youtube.com/watch?v=aTumd9tndDQ"
+                        },
+                        {
+                            "nombre":"Límites - Ejercicios de expresiones algebraicas, casos al un punto",
+                            "url":"https://www.youtube.com/watch?v=gdHCyEpBFnQ"
+                        },
+                        {
+                            "nombre":"Límites - Ejercicio 1 de límites exponenciales",
+                            "url":"https://www.youtube.com/watch?v=6P30wS7A6V0"
+                        },
+                        {
+                            "nombre":"Límites - Ejercicio 2 de límites exponenciales",
+                            "url":"https://www.youtube.com/watch?v=DptJF4Qa3rs"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Límites laterales y asintotas",
+                    "videos":[
+                        {
+                            "nombre":"Límites - Límites laterales, concepto",
+                            "url":"https://www.youtube.com/watch?v=eB8PoFObSLg"
+                        },
+                        {
+                            "nombre":"Límites - Límites laterales, ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=N0Gwr2Ko32w"
+                        },
+                        {
+                            "nombre":"Límites - Gráficas y Asíntotas",
+                            "url":"https://www.youtube.com/watch?v=SuEQZ9-9ykQ"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Continuidad de funciones algebraicas y trigonométricas",
+                    "videos":[
+                        {
+                            "nombre":"Continuidad - concepto",
+                            "url":"https://www.youtube.com/watch?v=5up4MqOhv84"
+                        },
+                        {
+                            "nombre":"Continuidad - ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=L6i0bfZmvqU"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Continuidad de la inversa y TVI",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Derivada",
+            "carpetaId":"module-104645",
+            "modulos":[
+                {
+                    "nombre":"Definición, operatoria y derivadas \"comunes\"",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Regla de la cadena",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Derivada implícita",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Derivada de orden superior",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Continuidad y criterios de extremos locales",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Revisita al cálculo de límites, Regla de L'Hopital",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Estudio gráfico de funciones",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Aplicaciones de la derivada",
+            "carpetaId":"module-104646",
+            "modulos":[
+                {
+                    "nombre":"Optimización",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Razón de cambio",
+                    "videos":[
+                        {
+                            "nombre":"Razón de cambio - Teoría",
+                            "url":"https://www.youtube.com/watch?v=GDNWQmQ4ecI"
+                        },
+                        {
+                            "nombre":"Razón de cambio - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=ozi63YBP0I0"
+                        },
+                        {
+                            "nombre":"Razón de cambio - Ejercicio 5",
+                            "url":"https://www.youtube.com/watch?v=YFFG5KNYGGw"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Ecuaciones paramétricas en el plano",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Antiderivadas",
+            "carpetaId":"module-104647",
+            "modulos":[
+                {
+                    "nombre":"El concepto y principales ejemplos",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Método de integración por sustitución simple",
+                    "videos":[
+                        {
+                            "nombre":"Integración por método de sustitución",
+                            "url":"https://www.youtube.com/watch?v=7DqACYJIxTk"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Método de integración por sustitución trigonométrica",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Método de integración por sustitución trigonométrica de funciones racionales",
+                    "videos":[
+                        {
+                            "nombre":"integración por sustitución trigonométrica - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=RWPgijt1rVM"
+                        },
+                        {
+                            "nombre":"integración por sustitución trigonométrica - Ejercicio 2",
+                            "url":"https://www.youtube.com/watch?v=lFOTATY3uIg"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Método de integración por partes",
+                    "videos":[
+                        {
+                            "nombre":"Integración por partes",
+                            "url":"https://www.youtube.com/watch?v=hx4hklSg8dk"
+                        },
+                        {
+                            "nombre":"Integración por partes - Teoría",
+                            "url":"https://www.youtube.com/watch?v=W58sZ6RgsGk"
+                        },
+                        {
+                            "nombre":"Integración por partes - Formulas de Reducción",
+                            "url":"https://www.youtube.com/watch?v=pvv9v8481cI"
+                        },
+                        {
+                            "nombre":"Integración por partes - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=_T0GjUCt0hs"
+                        },
+                        {
+                            "nombre":"Integración por partes - Ejercicio 3",
+                            "url":"https://www.youtube.com/watch?v=5B1UlnMskAI"
+                        },
+                        {
+                            "nombre":"Integración por partes - Ejercicio 4",
+                            "url":"https://www.youtube.com/watch?v=7vqIok-Aahk"
+                        },
+                        {
+                            "nombre":"Integración por partes - Ejercicio 5",
+                            "url":"https://www.youtube.com/watch?v=BriqqkrK2dc"
+                        },
+                        {
+                            "nombre":"Integración por partes - Ejercicios",
+                            "url":"https://www.youtube.com/watch?v=tarTGG6YFCA"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Método de integración por fracciones parciales",
+                    "videos":[
+                        {
+                            "nombre":"Integración por fracciones parciales - Teoría",
+                            "url":"https://www.youtube.com/watch?v=XiqGH-odk4I"
+                        },
+                        {
+                            "nombre":"Integración por fracciones parciales - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=09Mn48P0Nc0"
+                        },
+                        {
+                            "nombre":"Integración por fracciones parciales - Ejercicio 2",
+                            "url":"https://www.youtube.com/watch?v=5qO7R-3475k"
+                        },
+                        {
+                            "nombre":"Integración por fracciones parciales - Ejercicio 3",
+                            "url":"https://www.youtube.com/watch?v=sSnwk2YQ9IM"
+                        },
+                        {
+                            "nombre":"Integración por fracciones parciales - Ejercicio 4",
+                            "url":"https://www.youtube.com/watch?v=sUKAeTDKB9U"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

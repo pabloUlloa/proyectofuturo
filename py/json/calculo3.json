@@ -1,0 +1,170 @@
+{
+    "asignatura":"Cálculo III para Ingeniería",
+    "unidades":[
+        {
+            "nombre":"Series de Fourier",
+            "carpetaId":"module-104629",
+            "modulos":[
+                {
+                    "nombre":"Series de Fourier",
+                    "videos":[
+                        {
+                            "nombre":"Fourier - Definición y convergencia",
+                            "url":"https://www.youtube.com/watch?v=_WQB_mM92pU"
+                        },
+                        {
+                            "nombre":"Fourier - Extensiones Par e Impar",
+                            "url":"https://www.youtube.com/watch?v=rAAA5QxeCi8"
+                        },
+                        {
+                            "nombre":"Fourier - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=NI3YfXjKrxA"
+                        },
+                        {
+                            "nombre":"Fourier - Ejercicio 2a",
+                            "url":"https://www.youtube.com/watch?v=bOugXeLnHiY"
+                        },
+                        {
+                            "nombre":"Fourier - Ejercicio 2b",
+                            "url":"https://www.youtube.com/watch?v=bSM0py4hwZ8"
+                        },
+                        {
+                            "nombre":"Fourier - Ejercicio 3",
+                            "url":"https://www.youtube.com/watch?v=3bW-7uWGQFE"
+                        },
+                        {
+                            "nombre":"Fourier - Ejercicio 4",
+                            "url":"https://www.youtube.com/watch?v=rfVUSMsyDYM"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Convergencias",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Funciones Vectoriales de Variable Real",
+            "carpetaId":"module-104630",
+            "modulos":[
+                {
+                    "nombre":"Diferenciación de funciones vectoriales",
+                    "videos":[
+                        {
+                            "nombre":"Funciones Vectoriales - Conceptos",
+                            "url":"https://www.youtube.com/watch?v=XyiP2uL68qw"
+                        },
+                        {
+                            "nombre":"Funciones Vectoriales - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=jjsnyByROUk"
+                        },
+                        {
+                            "nombre":"Funciones Vectoriales - Ejercicio 2",
+                            "url":"https://www.youtube.com/watch?v=c5xP7r-fEtU"
+                        },
+                        {
+                            "nombre":"Funciones Vectoriales - Parámetro longitud de arco",
+                            "url":"https://www.youtube.com/watch?v=uLThconGRB4"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Curvas en \\(\\mathbb{R}^2\\) y \\(\\mathbb{R}^3\\)",
+                    "videos":[
+                        {
+                            "nombre":"Funciones Vectoriales - Curvas",
+                            "url":"https://www.youtube.com/watch?v=40aL1KBVBaw"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Funciones de Varias Variables",
+            "carpetaId":"module-104631",
+            "modulos":[
+                {
+                    "nombre":"Conceptos básicos: límite, continuidad, curvas y superficies de nivel",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Derivadas parciales, vector gradiente y derivada direcciónal",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Diferenciabilidad y propiedades",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Derivación compuesta",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Derivación implícita y derivación inversa",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Valores extremos",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Extremos condicionados",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Integrales dobles, triples, de línea y de superficie",
+            "carpetaId":"module-104820",
+            "modulos":[
+                {
+                    "nombre":"Integrales dobles",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Integrales triples",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Integrales de línea (curvilínea)",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Integrales de superficie",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Teoremas de transformación de integrales",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        }
+    ]
+}

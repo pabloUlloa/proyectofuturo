@@ -1,0 +1,180 @@
+{
+    "asignatura":"Electricidad y Magnetismo para Ingeniería",
+    "unidades":[
+        {
+            "nombre":"Introducción",
+            "carpetaId":"module-92022",
+            "modulos":[
+                {
+                    "nombre":"Ley de Coulomb",
+                    "videos":[
+                        {
+                            "nombre":"Ley de Coulomb - Introducción y Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=WkKbAx4GJj0"
+                        },
+                        {
+                            "nombre":"Ley de Coulomb - Ejercicio 3",
+                            "url":"https://www.youtube.com/watch?v=Sj6fKqu6vlw"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Campo Eléctrico",
+            "carpetaId":"module-92587",
+            "modulos":[
+                {
+                    "nombre":"Campo Eléctrico",
+                    "videos":[
+                        {
+                            "nombre":"Campo Eléctrico - Cargas Puntuales",
+                            "url":"https://www.youtube.com/watch?v=zibJobhe69w"
+                        },
+                        {
+                            "nombre":"Campo Eléctrico - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=KscPInEUzVM"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Ley de Gauss",
+                    "videos":[
+                        {
+                            "nombre":"Ley de Gauss - Introducción",
+                            "url":"https://www.youtube.com/watch?v=lk9jgHbcyYQ"
+                        },
+                        {
+                            "nombre":"Ley de Gauss - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=-Mwy7D2IlRg"
+                        },
+                        {
+                            "nombre":"Ley de Gauss - Ejercicio 2",
+                            "url":"https://www.youtube.com/watch?v=WqYq2T-asXc"
+                        },
+                        {
+                            "nombre":"Ley de Gauss - Ejercicio 3",
+                            "url":"https://www.youtube.com/watch?v=kj5ZitRZRFk"
+                        },
+                        {
+                            "nombre":"Ley de Gauss - Ejercicio 4",
+                            "url":"https://www.youtube.com/watch?v=KckOoaEbBXE"
+                        },
+                        {
+                            "nombre":"Ley de Gauss - Ejercicio 7",
+                            "url":"https://www.youtube.com/watch?v=qkR-Xs5wuxI"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Potencial Eléctrico",
+                    "videos":[
+                        {
+                            "nombre":"Potencial Eléctrico - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=ktSDEM1B_6U"
+                        },
+                        {
+                            "nombre":"Potencial Eléctrico - Ejercicio 4",
+                            "url":"https://www.youtube.com/watch?v=aCsGTczcxs0"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Condensadores",
+                    "videos":[
+                        {
+                            "nombre":"Condensadores - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=ZIBT7H7g1ew"
+                        },
+                        {
+                            "nombre":"Condensadores - Ejercicio 4",
+                            "url":"https://www.youtube.com/watch?v=Clkqa7UqreA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Circuitos de Corriente Continua",
+            "carpetaId":"module-92599",
+            "modulos":[
+                {
+                    "nombre":"Leyes de Kirchhoff",
+                    "videos":[
+                        {
+                            "nombre":"Leyes de Kirchhoff - Ejercicio 2",
+                            "url":"https://www.youtube.com/watch?v=YxRzOyvTeQU"
+                        },
+                        {
+                            "nombre":"Leyes de Kirchhoff - Ejercicio 4",
+                            "url":"https://www.youtube.com/watch?v=9tM1qj2mDJM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Campo Magnético",
+            "carpetaId":"module-92032",
+            "modulos":[
+                {
+                    "nombre":"Fuerza Magnética y Ley de Biot-Savart",
+                    "videos":[
+                        {
+                            "nombre":"Fuerza Magnética y Ley de Biot-Savart - Introducción",
+                            "url":"https://www.youtube.com/watch?v=9AkxArLnz_s"
+                        },
+                        {
+                            "nombre":"Fuerza magnética y Ley de Biot-Savart - Ejercicio 2",
+                            "url":"https://www.youtube.com/watch?v=H7rokJZo324"
+                        },
+                        {
+                            "nombre":"Fuerza magnética y Ley de Biot-Savart - Ejercicio 3",
+                            "url":"https://www.youtube.com/watch?v=BrpcocmzNg4"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Ley de Ampere",
+                    "videos":[
+                        {
+                            "nombre":"Ley de Ampere - Introducción",
+                            "url":"https://www.youtube.com/watch?v=DbsUULR4Wxc"
+                        },
+                        {
+                            "nombre":"Ley de Ampere - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=oWaylxLuvy4"
+                        },
+                        {
+                            "nombre":"Ley de Ampere - Ejercicio 2",
+                            "url":"https://www.youtube.com/watch?v=zFebuGoDEwo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Inducción Electromagnética",
+            "carpetaId":"module-92038",
+            "modulos":[
+                {
+                    "nombre":"Inducción Electromagnética",
+                    "videos":[
+                        {
+                            "nombre":"Inducción Electromagnética - Introducción",
+                            "url":"https://www.youtube.com/watch?v=BIuISj4E0xQ"
+                        },
+                        {
+                            "nombre":"Inducción Electromagnética - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=wZFK3ejnyQg"
+                        },
+                        {
+                            "nombre":"Inducción Electromagnética - Ejercicio 2",
+                            "url":"https://www.youtube.com/watch?v=IC2iJ1xvJB8"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

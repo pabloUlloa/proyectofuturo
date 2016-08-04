@@ -1,0 +1,159 @@
+{
+    "asignatura":"Ecuaciones Diferenciales para Ingeniería",
+    "unidades":[
+        {
+            "nombre":"Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería",
+            "carpetaId":"module-104821",
+            "modulos":[
+                {
+                    "nombre":"Introducción a las Ecuaciones Diferenciales",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Ecuaciones de Variables Separables",
+                    "videos":[
+                        {
+                            "nombre":"Separación de Variables",
+                            "url":"https://www.youtube.com/watch?v=TJjiqfnuwbQ"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Ecuaciones Diferenciales Exactas",
+                    "videos":[
+                        {
+                            "nombre":"Ecuaciones Diferenciales Exactas - Concepto",
+                            "url":"https://www.youtube.com/watch?v=ocSmZSKlN04"
+                        },
+                        {
+                            "nombre":"Ecuaciones Diferenciales Exactas - Ejercicio 1",
+                            "url":"https://www.youtube.com/watch?v=mGZE0-nfvnU"
+                        }
+                    ]
+                },
+                {
+                    "nombre":"Ecuaciones Lineales",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Aplicaciones de las Ecuaciones Diferenciales de Primer Orden",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería",
+            "carpetaId":"module-104822",
+            "modulos":[
+                {
+                    "nombre":"Ecuaciones lineales de Segundo Orden",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Ecuaciones Lineales Homogeneas",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Ecuaciones Lineales no Homogeneas",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Aplicaciones de ecuaciones de segundo orden",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Soluciones de Ecuaciones Diferenciales por series de Potencia",
+            "carpetaId":"module-104824",
+            "modulos":[
+                {
+                    "nombre":"Solución en torno a puntos ordinarios",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Solución en torno a puntos singulares regulares",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Transformada de Laplace y Aplicaciones de Ingeniería",
+            "carpetaId":"module-104825",
+            "modulos":[
+                {
+                    "nombre":"Definición y propiedades de la Transformada de Laplace",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Aplicación de la Transformada de Laplace en la resolución de ecuaciones diferenciales",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Convolución",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Soluciones de Ecuaciones en derivadas Parciales y aplicaciones",
+            "carpetaId":"module-104826",
+            "modulos":[
+                {
+                    "nombre":"Introducción",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Método de Separación de Variables",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Ecuación de Onda",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Ecuación de Calor",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Ecuación de Laplace",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        }
+    ]
+}

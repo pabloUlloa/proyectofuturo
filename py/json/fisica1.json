@@ -1,0 +1,179 @@
+{
+    "asignatura":"Física I para Ingeniería",
+    "unidades":[
+        {
+            "nombre":"Introducción a la Física",
+            "carpetaId":"module-104844",
+            "modulos":[
+                {
+                    "nombre":"Desarrollo de la Mecánica",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Síntesis de Newton",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"El método científico",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Hitos de la Física",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Sistemas de Unidades",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Problemas y Aplicaciones",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Vectores",
+            "carpetaId":"module-104845",
+            "modulos":[
+                {
+                    "nombre":"Espacio y sistemas de ejes ortogonales",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Desplazamiento en el espacio",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Descomposición de vectores",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Productos de vectores",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Aplicaciones geométricas",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Problemas y aplicaciones",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Fuerza",
+            "carpetaId":"module-104846",
+            "modulos":[
+                {
+                    "nombre":"Tipos de fuerza",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Características de las fuerzas",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Reducción de sistemas de fuerzas",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Definiciones y conceptos de centros",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Problemas y aplicaciones",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Estática",
+            "carpetaId":"module-104847",
+            "modulos":[
+                {
+                    "nombre":"Conceptos Básicos",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Leyes de la estática",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Análisis de estructuras",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Aplicaciones y problemas",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Hidrostática",
+            "carpetaId":"module-104848",
+            "modulos":[
+                {
+                    "nombre":"Conceptos fundamentales",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Principio de Arquímides",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Problemas y aplicaciones",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+=============================================================================
+Introducción
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 1: Introducción</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Ley de Coulomb
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Ley de Coulomb</strong></p>
+
+
+
+
+
+<div class="modulo1 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="1 1" onclick="colapsID('WkKbAx4GJj0');">
+<strong>[Video] Ley de Coulomb - Introducción y Ejercicio 1</strong></p>
+<div id="WkKbAx4GJj0" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/WkKbAx4GJj0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo1 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="1 1" onclick="colapsID('Sj6fKqu6vlw');">
+<strong>[Video] Ley de Coulomb - Ejercicio 3</strong></p>
+<div id="Sj6fKqu6vlw" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/Sj6fKqu6vlw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+
+=============================================================================
+Campo Eléctrico
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 2: Campo Eléctrico</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Campo Eléctrico
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Campo Eléctrico</strong></p>
+
+
+
+
+
+<div class="modulo2 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 1" onclick="colapsID('zibJobhe69w');">
+<strong>[Video] Campo Eléctrico - Cargas Puntuales</strong></p>
+<div id="zibJobhe69w" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/zibJobhe69w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo2 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 1" onclick="colapsID('KscPInEUzVM');">
+<strong>[Video] Campo Eléctrico - Ejercicio 1</strong></p>
+<div id="KscPInEUzVM" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/KscPInEUzVM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+-----------------------------------------------------------------------------
+	Ley de Gauss
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Ley de Gauss</strong></p>
+
+
+
+
+
+<div class="modulo2 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 2" onclick="colapsID('lk9jgHbcyYQ');">
+<strong>[Video] Ley de Gauss - Introducción</strong></p>
+<div id="lk9jgHbcyYQ" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/lk9jgHbcyYQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo2 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 2" onclick="colapsID('-Mwy7D2IlRg');">
+<strong>[Video] Ley de Gauss - Ejercicio 1</strong></p>
+<div id="-Mwy7D2IlRg" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/-Mwy7D2IlRg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo2 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 2" onclick="colapsID('WqYq2T-asXc');">
+<strong>[Video] Ley de Gauss - Ejercicio 2</strong></p>
+<div id="WqYq2T-asXc" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/WqYq2T-asXc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo2 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 2" onclick="colapsID('kj5ZitRZRFk');">
+<strong>[Video] Ley de Gauss - Ejercicio 3</strong></p>
+<div id="kj5ZitRZRFk" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/kj5ZitRZRFk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo2 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 2" onclick="colapsID('KckOoaEbBXE');">
+<strong>[Video] Ley de Gauss - Ejercicio 4</strong></p>
+<div id="KckOoaEbBXE" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/KckOoaEbBXE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo2 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 2" onclick="colapsID('qkR-Xs5wuxI');">
+<strong>[Video] Ley de Gauss - Ejercicio 7</strong></p>
+<div id="qkR-Xs5wuxI" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/qkR-Xs5wuxI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+-----------------------------------------------------------------------------
+	Potencial Eléctrico
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 3')"><strong>Módulo 3: Potencial Eléctrico</strong></p>
+
+
+
+
+
+<div class="modulo2 3">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 3" onclick="colapsID('ktSDEM1B_6U');">
+<strong>[Video] Potencial Eléctrico - Ejercicio 1</strong></p>
+<div id="ktSDEM1B_6U" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/ktSDEM1B_6U?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo2 3">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 3" onclick="colapsID('aCsGTczcxs0');">
+<strong>[Video] Potencial Eléctrico - Ejercicio 4</strong></p>
+<div id="aCsGTczcxs0" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/aCsGTczcxs0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+-----------------------------------------------------------------------------
+	Condensadores
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 4')"><strong>Módulo 4: Condensadores</strong></p>
+
+
+
+
+
+<div class="modulo2 4">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 4" onclick="colapsID('ZIBT7H7g1ew');">
+<strong>[Video] Condensadores - Ejercicio 1</strong></p>
+<div id="ZIBT7H7g1ew" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/ZIBT7H7g1ew?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo2 4">
+<p style="text-align: justify; cursor: pointer;" moduloId="2 4" onclick="colapsID('Clkqa7UqreA');">
+<strong>[Video] Condensadores - Ejercicio 4</strong></p>
+<div id="Clkqa7UqreA" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/Clkqa7UqreA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+
+=============================================================================
+Circuitos de Corriente Continua
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 3: Circuitos de Corriente Continua</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Leyes de Kirchhoff
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Leyes de Kirchhoff</strong></p>
+
+
+
+
+
+<div class="modulo3 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="3 1" onclick="colapsID('YxRzOyvTeQU');">
+<strong>[Video] Leyes de Kirchhoff - Ejercicio 2</strong></p>
+<div id="YxRzOyvTeQU" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/YxRzOyvTeQU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo3 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="3 1" onclick="colapsID('9tM1qj2mDJM');">
+<strong>[Video] Leyes de Kirchhoff - Ejercicio 4</strong></p>
+<div id="9tM1qj2mDJM" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/9tM1qj2mDJM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+
+=============================================================================
+Campo Magnético
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 4: Campo Magnético</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Fuerza Magnética y Ley de Biot-Savart
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Fuerza Magnética y Ley de Biot-Savart</strong></p>
+
+
+
+
+
+<div class="modulo4 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="4 1" onclick="colapsID('9AkxArLnz_s');">
+<strong>[Video] Fuerza Magnética y Ley de Biot-Savart - Introducción</strong></p>
+<div id="9AkxArLnz_s" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/9AkxArLnz_s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo4 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="4 1" onclick="colapsID('H7rokJZo324');">
+<strong>[Video] Fuerza magnética y Ley de Biot-Savart - Ejercicio 2</strong></p>
+<div id="H7rokJZo324" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/H7rokJZo324?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo4 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="4 1" onclick="colapsID('BrpcocmzNg4');">
+<strong>[Video] Fuerza magnética y Ley de Biot-Savart - Ejercicio 3</strong></p>
+<div id="BrpcocmzNg4" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/BrpcocmzNg4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+-----------------------------------------------------------------------------
+	Ley de Ampere
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Ley de Ampere</strong></p>
+
+
+
+
+
+<div class="modulo4 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="4 2" onclick="colapsID('DbsUULR4Wxc');">
+<strong>[Video] Ley de Ampere - Introducción</strong></p>
+<div id="DbsUULR4Wxc" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/DbsUULR4Wxc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo4 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="4 2" onclick="colapsID('oWaylxLuvy4');">
+<strong>[Video] Ley de Ampere - Ejercicio 1</strong></p>
+<div id="oWaylxLuvy4" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/oWaylxLuvy4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo4 2">
+<p style="text-align: justify; cursor: pointer;" moduloId="4 2" onclick="colapsID('zFebuGoDEwo');">
+<strong>[Video] Ley de Ampere - Ejercicio 2</strong></p>
+<div id="zFebuGoDEwo" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/zFebuGoDEwo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+
+=============================================================================
+Inducción Electromagnética
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 5: Inducción Electromagnética</strong></p>
+
+
+-----------------------------------------------------------------------------
+	Inducción Electromagnética
+
+<hr />
+<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('5 1')"><strong>Módulo 1: Inducción Electromagnética</strong></p>
+
+
+
+
+
+<div class="modulo5 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="5 1" onclick="colapsID('BIuISj4E0xQ');">
+<strong>[Video] Inducción Electromagnética - Introducción</strong></p>
+<div id="BIuISj4E0xQ" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/BIuISj4E0xQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo5 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="5 1" onclick="colapsID('wZFK3ejnyQg');">
+<strong>[Video] Inducción Electromagnética - Ejercicio 1</strong></p>
+<div id="wZFK3ejnyQg" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/wZFK3ejnyQg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+<div class="modulo5 1">
+<p style="text-align: justify; cursor: pointer;" moduloId="5 1" onclick="colapsID('IC2iJ1xvJB8');">
+<strong>[Video] Inducción Electromagnética - Ejercicio 2</strong></p>
+<div id="IC2iJ1xvJB8" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/IC2iJ1xvJB8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+
+
+

@@ -1,0 +1,317 @@
+{
+    "unidades": [
+        {
+            "carpetaId": "module-104806", 
+            "nombre": "Elementos de Lógica Matemática", 
+            "modulos": [
+                {
+                    "nombre": "Proposiciones, conectivos, tablas de verdad", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Reglas de inferencia", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Cuantificadores, Leyes de cuantificación", 
+                    "videos": []
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104807", 
+            "nombre": "Inducción y Sumatoria", 
+            "modulos": [
+                {
+                    "nombre": "Primer y segundo teorema de inducción", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=LdGj71yapqc", 
+                            "nombre": "Inducción Matemática - Concepto"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=H8c8PGEUDj0", 
+                            "nombre": "Inducción Matemática - Ejemplo 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=RK1EruboDHI", 
+                            "nombre": "Inducción Matemática - Recursividad, ejercicio 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=8aBzOceYTiQ", 
+                            "nombre": "Inducción Matemática - Recursividad, ejercicio 2"
+                        }
+                    ]
+                }, 
+                {
+                    "nombre": "Sumatoria simple, propiedades y sumas importantes", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=I_UpurOjv_0", 
+                            "nombre": "Sumatoria - Concepto"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=6EdCA8Inixw", 
+                            "nombre": "Sumatoria - Ejercicio 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=VkmC4BJzoMU", 
+                            "nombre": "Sumatoria - Propiedad Telescópica, ejercicio 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=Dq-FbWws2Vw", 
+                            "nombre": "Sumatoria - Propiedad Telescópica, ejercicio 2"
+                        }
+                    ]
+                }, 
+                {
+                    "nombre": "Sumatoria doble y propiedades", 
+                    "videos": []
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104808", 
+            "nombre": "Progresiones y Análisis combinatorio", 
+            "modulos": [
+                {
+                    "nombre": "Progresiones Aritmética, Geométrica y Armónica, propiedades", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=gFIwITuE1KY", 
+                            "nombre": "Progresión Aritmética - Concepto"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=a1GCnC1s3q4", 
+                            "nombre": "Progresión Aritmética - Ejemplo 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=OOT9NqCxVdE", 
+                            "nombre": "Progresión Aritmética - Ejemplo 2"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=S4xKmuu5bfg", 
+                            "nombre": "Progresión Geométrica - Concepto"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=Yzn7yMDGmYI", 
+                            "nombre": "Progresión Geométrica - Ejemplo 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=6NxKB92JjFg", 
+                            "nombre": "Progresiones - Ejemplo 3"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=Omr1h9oCjJ8", 
+                            "nombre": "Resumen Progresión Aritmética y Geométrica"
+                        }
+                    ]
+                }, 
+                {
+                    "nombre": "Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Teorema del Binomio y sus propiedades", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=1rrIwk-s4HU", 
+                            "nombre": "Teorema del Binomio - Concepto"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=NGVMWPzC9fA", 
+                            "nombre": "Teorema del Binomio - Ejemplo 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=-2mXPYtVNCc", 
+                            "nombre": "Teorema del Binomio - Ejemplo 2"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=-qNYBSKAq2s", 
+                            "nombre": "Teorema del Binomio - Ejemplo 3"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=rUVTBIsC32c", 
+                            "nombre": "Teorema del Binomio - Ejemplo 4"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104809", 
+            "nombre": "Relaciones", 
+            "modulos": [
+                {
+                    "nombre": "Dominio, recorrido, inversa, composición de relaciones", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=LcVc3T7fCoI", 
+                            "nombre": "Relaciones - Concepto"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=XX4ojNN8Sps", 
+                            "nombre": "Relaciones - Características de una relación"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=E6mhYMVWHWM", 
+                            "nombre": "Relaciones - Ejemplo 1"
+                        }
+                    ]
+                }, 
+                {
+                    "nombre": "Relación de equivalencia, orden, congruencia, Zn", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=bfqJ1cDx-2Y", 
+                            "nombre": "Relaciones - Clase de equivalencia, concepto"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=7ONiFWT-rFo", 
+                            "nombre": "Relaciones - Ejercicio de relaciones de equivalencia 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=JqtiDIL3XIM", 
+                            "nombre": "Relaciones - Ejercicio de relaciones 2"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=fcYculM9VcU", 
+                            "nombre": "Relaciones - Congruencia de módulo n"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104810", 
+            "nombre": "Geometría Analitica", 
+            "modulos": [
+                {
+                    "nombre": "Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Definición de la Línea Recta y sus diversas expresiones", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Definición de la Circunferencia y sus diversas expresiones", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Definición de la Parábola y sus diversas expresiones", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Definición de la Elipse y sus diversas expresiones", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=QgeoxZByIt4", 
+                            "nombre": "Geometría Analítica - Elipse"
+                        }
+                    ]
+                }, 
+                {
+                    "nombre": "Definición de la Hipérbola y sus diversas expresiones", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=nIWYDWccbyI", 
+                            "nombre": "Geometría Analítica - Hipérbola"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104811", 
+            "nombre": "Grupos, Anillos y Homomorfismos", 
+            "modulos": [
+                {
+                    "nombre": "Definición de Grupos y propiedades", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Homomorfismo de Grupos", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Definición de Anillo y propiedades", 
+                    "videos": []
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104812", 
+            "nombre": "Complementos de Complejos", 
+            "modulos": [
+                {
+                    "nombre": "Forma a+bi y operatoria", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Forma trigonométrica y operatoria", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Raices de un complejo", 
+                    "videos": []
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104813", 
+            "nombre": "Complementos de Polinomios", 
+            "modulos": [
+                {
+                    "nombre": "Teorema del resto, división sintetica", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=Do8GEpPJKJE", 
+                            "nombre": "Concepto de Polinomio"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=Di4PmUFuwTw", 
+                            "nombre": "Ejercicio 1"
+                        }
+                    ]
+                }, 
+                {
+                    "nombre": "Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Relaciones entre raices y coeficientes de una ecuación, fracciones parciales", 
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=UEm1m5BwxZs", 
+                            "nombre": "Concepto de Fracciones Parciales"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104814", 
+            "nombre": "Complementos de Matrices", 
+            "modulos": [
+                {
+                    "nombre": "M(n,m,R) con suma y multiplicación", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "M(n,R) con suma, multiplicación y propiedades", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Matrices especiales, traspuesta, simétrica, etc", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales", 
+                    "videos": []
+                }
+            ]
+        }
+    ], 
+    "asignatura": "Álgebra I para Ingeniería"
+}

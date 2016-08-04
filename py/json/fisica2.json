@@ -1,0 +1,129 @@
+{
+    "asignatura": "Física II para Ingeniería",
+    "unidades": [
+        {
+            "carpetaId": "module-104855", 
+            "nombre": "Cinemática de la partícula", 
+            "modulos": [
+                {
+                    "nombre": "Conceptos fundamentales", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Movimientos en una y dos dimensiones", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Movimiento relativo", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Problemas y aplicaciones", 
+                    "videos": []
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104856", 
+            "nombre": "Dinámica de la partícula", 
+            "modulos": [
+                {
+                    "nombre": "Principios de Newton", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Tipos de fuerzas", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Trabajo y energía", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Cantidad de movimiento", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Movimiento armónico", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Problemas y aplicaciones", 
+                    "videos": []
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104857", 
+            "nombre": "Dinámica de un sistema de partículas", 
+            "modulos": [
+                {
+                    "nombre": "Ecuación de movimiento del Centro de masa", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Cantidad de movimiento angular", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Teorema de Koenig", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Trabajo y energía de un sistema de partículas", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Choques", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Masa variable", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Problema de dos cuerpos", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Problemas y aplicaciones", 
+                    "videos": []
+                }
+            ]
+        }, 
+        {
+            "carpetaId": "module-104858", 
+            "nombre": "Cinemática y Dinámica del cuerpo rígido", 
+            "modulos": [
+                {
+                    "nombre": "Concepto de cuerpo rígido", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Cinemática del cuerpo rígido", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Momento de inercia", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Cantidad de movimiento angular y torque", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Energía cinética de un cuerpo rígido", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Dinámica de un cuerpo rígido en el plano", 
+                    "videos": []
+                }, 
+                {
+                    "nombre": "Problemas y aplicaciones", 
+                    "videos": []
+                }
+            ]
+        }
+    ]
+}

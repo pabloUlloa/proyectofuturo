@@ -1,0 +1,71 @@
+{
+    "asignatura":"Álgebra II para Ingeniería",
+    "unidades":[
+        {
+            "nombre":"Sistemas Lineales y Matrices",
+            "carpetaId":"module-104816",
+            "modulos":[
+                {
+                    "nombre":"Sistemas de Ecuaciones Lineales",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Ecuaciones y Matrices",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Matrices",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Soluciones de ecuaciones",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Espacios Vectoriales y Transformaciones Lineales",
+            "carpetaId":"module-104817",
+            "modulos":[
+                {
+                    "nombre":"Espacios Vectoriales",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Espacios con producto interno",
+                    "videos":[
+
+                    ]
+                },
+                {
+                    "nombre":"Transformaciones Lineales",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre":"Álgebra Discreta",
+            "carpetaId":"module-104818",
+            "modulos":[
+                {
+                    "nombre":"Los números enteros",
+                    "videos":[
+
+                    ]
+                }
+            ]
+        }
+    ]
+}
