@@ -2,7 +2,7 @@
 Los Números Reales
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Los Números Reales</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 0: Los Números Reales</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -15,8 +15,8 @@ Los Números Reales
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('MsNjcUUjzCI');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Axiomas de orden - Concepto</span>
+<p class="video" onclick="colapsID('MsNjcUUjzCI');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto Axioma de Orden</span>
 </p>
 <div id="MsNjcUUjzCI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/MsNjcUUjzCI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -24,8 +24,8 @@ Los Números Reales
 </div>
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('yvHNMk8DSnw');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Axiomas de cuerpo - Concepto</span>
+<p class="video" onclick="colapsID('yvHNMk8DSnw');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto Axioma de Cuerpo</span>
 </p>
 <div id="yvHNMk8DSnw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/yvHNMk8DSnw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -33,8 +33,8 @@ Los Números Reales
 </div>
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('qWxGOpJlUt8');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Axiomas de cuerpo - Ejercicio 1</span>
+<p class="video" onclick="colapsID('qWxGOpJlUt8');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="qWxGOpJlUt8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/qWxGOpJlUt8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -51,7 +51,7 @@ Los Números Reales
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('50');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('7881');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -66,8 +66,8 @@ Los Números Reales
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('CTpCscd8DZU');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Inecuaciones - Concepto</span>
+<p class="video" onclick="colapsID('CTpCscd8DZU');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto de Inecuaciones</span>
 </p>
 <div id="CTpCscd8DZU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/CTpCscd8DZU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -75,8 +75,8 @@ Los Números Reales
 </div>
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('Ge3hji34xAw');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Inecuaciones - Como se genera el intervalo de soluciones</span>
+<p class="video" onclick="colapsID('Ge3hji34xAw');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Como se genera el intervalo de soluciones</span>
 </p>
 <div id="Ge3hji34xAw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Ge3hji34xAw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -84,8 +84,8 @@ Los Números Reales
 </div>
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('vJOKpqjNEqA');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Inecuaciones - Ejercicio 1</span>
+<p class="video" onclick="colapsID('vJOKpqjNEqA');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="vJOKpqjNEqA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/vJOKpqjNEqA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -93,8 +93,8 @@ Los Números Reales
 </div>
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('00jBCbrxw9s');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Inecuaciones - Ejercicio 2</span>
+<p class="video" onclick="colapsID('00jBCbrxw9s');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="00jBCbrxw9s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/00jBCbrxw9s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -111,7 +111,7 @@ Los Números Reales
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('43');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('3559');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -122,7 +122,7 @@ Los Números Reales
 Funciones de Variable Real
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Funciones de Variable Real</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Funciones de Variable Real</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -135,8 +135,8 @@ Funciones de Variable Real
 
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5seDbgLKZ_s');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Funciones - Concepto</span>
+<p class="video" onclick="colapsID('5seDbgLKZ_s');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto de Funciones</span>
 </p>
 <div id="5seDbgLKZ_s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5seDbgLKZ_s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -144,8 +144,8 @@ Funciones de Variable Real
 </div>
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('Zr07j_ydaZs');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Funciones - Simetria, Dominio, Recorrido</span>
+<p class="video" onclick="colapsID('Zr07j_ydaZs');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Simetria, Dominio, Recorrido</span>
 </p>
 <div id="Zr07j_ydaZs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Zr07j_ydaZs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -153,8 +153,8 @@ Funciones de Variable Real
 </div>
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('mnLvcz16D4E');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Funciones - Epiyectiva, Inyectiva y Sobreyectiva</span>
+<p class="video" onclick="colapsID('mnLvcz16D4E');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Epiyectiva, Inyectiva y Sobreyectiva</span>
 </p>
 <div id="mnLvcz16D4E" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/mnLvcz16D4E?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -162,8 +162,8 @@ Funciones de Variable Real
 </div>
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('Tiugbcrbl-Y');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Funciones - Ejercicio 1</span>
+<p class="video" onclick="colapsID('Tiugbcrbl-Y');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="Tiugbcrbl-Y" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Tiugbcrbl-Y?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -180,8 +180,8 @@ Funciones de Variable Real
 
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('kCG03rrBd24');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Funciones trigonométricas - función seno</span>
+<p class="video" onclick="colapsID('kCG03rrBd24');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Función seno</span>
 </p>
 <div id="kCG03rrBd24" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/kCG03rrBd24?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -189,8 +189,8 @@ Funciones de Variable Real
 </div>
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('eycjrgKBfSc');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Funciones trigonométricas - función coseno</span>
+<p class="video" onclick="colapsID('eycjrgKBfSc');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Función coseno</span>
 </p>
 <div id="eycjrgKBfSc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/eycjrgKBfSc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -198,8 +198,8 @@ Funciones de Variable Real
 </div>
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5bilhMdkRnY');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Funciones trigonométricas - teorema del seno y coseno</span>
+<p class="video" onclick="colapsID('5bilhMdkRnY');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Teorema del seno y coseno</span>
 </p>
 <div id="5bilhMdkRnY" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5bilhMdkRnY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -216,7 +216,7 @@ Funciones de Variable Real
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('96');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('9857');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -231,7 +231,7 @@ Funciones de Variable Real
 
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('65');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('6058');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -242,7 +242,7 @@ Funciones de Variable Real
 Límite de Funciones
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Límite de Funciones</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Límite de Funciones</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -255,8 +255,8 @@ Límite de Funciones
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('-lzkJPKjZnM');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Límites - Definición formal de límite</span>
+<p class="video" onclick="colapsID('-lzkJPKjZnM');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Definición formal de límite</span>
 </p>
 <div id="-lzkJPKjZnM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-lzkJPKjZnM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -264,8 +264,8 @@ Límite de Funciones
 </div>
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('iXHYPUiJKa4');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Límites - Ejercicio usando definición formal de límite</span>
+<p class="video" onclick="colapsID('iXHYPUiJKa4');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio usando definición formal de límite</span>
 </p>
 <div id="iXHYPUiJKa4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/iXHYPUiJKa4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -273,8 +273,8 @@ Límite de Funciones
 </div>
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('aTumd9tndDQ');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Límites - Ejercicios de expresiones algebraicas, casos al infinito</span>
+<p class="video" onclick="colapsID('aTumd9tndDQ');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicios de expresiones algebraicas, casos al infinito</span>
 </p>
 <div id="aTumd9tndDQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/aTumd9tndDQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -282,8 +282,8 @@ Límite de Funciones
 </div>
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('gdHCyEpBFnQ');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Límites - Ejercicios de expresiones algebraicas, casos al un punto</span>
+<p class="video" onclick="colapsID('gdHCyEpBFnQ');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicios de expresiones algebraicas, casos al un punto</span>
 </p>
 <div id="gdHCyEpBFnQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/gdHCyEpBFnQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -291,8 +291,8 @@ Límite de Funciones
 </div>
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6P30wS7A6V0');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Límites - Ejercicio 1 de límites exponenciales</span>
+<p class="video" onclick="colapsID('6P30wS7A6V0');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1 de límites exponenciales</span>
 </p>
 <div id="6P30wS7A6V0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/6P30wS7A6V0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -300,8 +300,8 @@ Límite de Funciones
 </div>
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('DptJF4Qa3rs');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Límites - Ejercicio 2 de límites exponenciales</span>
+<p class="video" onclick="colapsID('DptJF4Qa3rs');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 2 de límites exponenciales</span>
 </p>
 <div id="DptJF4Qa3rs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/DptJF4Qa3rs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -318,8 +318,8 @@ Límite de Funciones
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('eB8PoFObSLg');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Límites - Límites laterales, concepto</span>
+<p class="video" onclick="colapsID('eB8PoFObSLg');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto de Límites laterales</span>
 </p>
 <div id="eB8PoFObSLg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/eB8PoFObSLg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -327,20 +327,20 @@ Límite de Funciones
 </div>
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('N0Gwr2Ko32w');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Límites - Límites laterales, ejercicio 1</span>
+<p class="video" onclick="colapsID('SuEQZ9-9ykQ');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Gráficas y Asíntotas</span>
 </p>
-<div id="N0Gwr2Ko32w" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/N0Gwr2Ko32w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+<div id="SuEQZ9-9ykQ" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/SuEQZ9-9ykQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('SuEQZ9-9ykQ');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Límites - Gráficas y Asíntotas</span>
+<p class="video" onclick="colapsID('N0Gwr2Ko32w');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
-<div id="SuEQZ9-9ykQ" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/SuEQZ9-9ykQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+<div id="N0Gwr2Ko32w" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/N0Gwr2Ko32w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
 </div>
 
@@ -354,8 +354,8 @@ Límite de Funciones
 
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5up4MqOhv84');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Continuidad - concepto</span>
+<p class="video" onclick="colapsID('5up4MqOhv84');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto de Continuidad</span>
 </p>
 <div id="5up4MqOhv84" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5up4MqOhv84?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -363,8 +363,8 @@ Límite de Funciones
 </div>
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('L6i0bfZmvqU');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Continuidad - ejercicio 1</span>
+<p class="video" onclick="colapsID('L6i0bfZmvqU');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="L6i0bfZmvqU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/L6i0bfZmvqU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -381,7 +381,7 @@ Límite de Funciones
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('30');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('9707');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -392,7 +392,7 @@ Límite de Funciones
 Derivada
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Derivada</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Derivada</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -405,7 +405,7 @@ Derivada
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('45');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('8783');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -420,7 +420,7 @@ Derivada
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('49');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2208');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -435,7 +435,7 @@ Derivada
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('63');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('494');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -450,7 +450,7 @@ Derivada
 
 
 <div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('38');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('4350');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -465,7 +465,7 @@ Derivada
 
 
 <div class="modulo4 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('71');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('1504');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -480,7 +480,7 @@ Derivada
 
 
 <div class="modulo4 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('38');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2570');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -495,7 +495,7 @@ Derivada
 
 
 <div class="modulo4 7" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('52');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('8379');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -510,7 +510,7 @@ Derivada
 
 
 <div class="modulo4 8" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('8720');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -521,7 +521,7 @@ Derivada
 Aplicaciones de la derivada
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 5: Aplicaciones de la derivada</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Aplicaciones de la derivada</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -534,7 +534,7 @@ Aplicaciones de la derivada
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('97');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('85');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -549,8 +549,8 @@ Aplicaciones de la derivada
 
 
 <div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('GDNWQmQ4ecI');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Razón de cambio - Teoría</span>
+<p class="video" onclick="colapsID('GDNWQmQ4ecI');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto de Razón de cambio</span>
 </p>
 <div id="GDNWQmQ4ecI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/GDNWQmQ4ecI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -558,8 +558,8 @@ Aplicaciones de la derivada
 </div>
 
 <div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('ozi63YBP0I0');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Razón de cambio - Ejercicio 1</span>
+<p class="video" onclick="colapsID('ozi63YBP0I0');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="ozi63YBP0I0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/ozi63YBP0I0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -567,8 +567,8 @@ Aplicaciones de la derivada
 </div>
 
 <div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('YFFG5KNYGGw');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Razón de cambio - Ejercicio 5</span>
+<p class="video" onclick="colapsID('YFFG5KNYGGw');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="YFFG5KNYGGw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/YFFG5KNYGGw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -585,7 +585,7 @@ Aplicaciones de la derivada
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('42');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('9127');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -596,7 +596,7 @@ Aplicaciones de la derivada
 Antiderivadas
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 6: Antiderivadas</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 5: Antiderivadas</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -609,7 +609,7 @@ Antiderivadas
 
 
 <div class="modulo6 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('57');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2361');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -624,7 +624,7 @@ Antiderivadas
 
 
 <div class="modulo6 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7DqACYJIxTk');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('7DqACYJIxTk');" style="cursor:pointer;margin-left:30px;">
 <span style="margin-left: 50px;">Integración por método de sustitución</span>
 </p>
 <div id="7DqACYJIxTk" style="display: none;"><center>
@@ -642,7 +642,7 @@ Antiderivadas
 
 
 <div class="modulo6 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('70');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('8475');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -657,8 +657,8 @@ Antiderivadas
 
 
 <div class="modulo6 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('RWPgijt1rVM');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">integración por sustitución trigonométrica - Ejercicio 1</span>
+<p class="video" onclick="colapsID('RWPgijt1rVM');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="RWPgijt1rVM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/RWPgijt1rVM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -666,8 +666,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('lFOTATY3uIg');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">integración por sustitución trigonométrica - Ejercicio 2</span>
+<p class="video" onclick="colapsID('lFOTATY3uIg');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="lFOTATY3uIg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/lFOTATY3uIg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -684,17 +684,8 @@ Antiderivadas
 
 
 <div class="modulo6 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('hx4hklSg8dk');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por partes</span>
-</p>
-<div id="hx4hklSg8dk" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/hx4hklSg8dk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
-<div class="modulo6 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('W58sZ6RgsGk');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por partes - Teoría</span>
+<p class="video" onclick="colapsID('W58sZ6RgsGk');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto de Integración por partes</span>
 </p>
 <div id="W58sZ6RgsGk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/W58sZ6RgsGk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -702,8 +693,17 @@ Antiderivadas
 </div>
 
 <div class="modulo6 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('pvv9v8481cI');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por partes - Formulas de Reducción</span>
+<p class="video" onclick="colapsID('hx4hklSg8dk');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto de Integración por partes 2</span>
+</p>
+<div id="hx4hklSg8dk" style="display: none;"><center>
+<iframe src="https://www.youtube.com/embed/hx4hklSg8dk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+</center></div>
+</div>
+
+<div class="modulo6 5" style="margin-left:30px;display:none;">
+<p class="video" onclick="colapsID('pvv9v8481cI');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Formulas de Reducción</span>
 </p>
 <div id="pvv9v8481cI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/pvv9v8481cI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -711,8 +711,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('_T0GjUCt0hs');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por partes - Ejercicio 1</span>
+<p class="video" onclick="colapsID('_T0GjUCt0hs');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="_T0GjUCt0hs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/_T0GjUCt0hs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -720,8 +720,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5B1UlnMskAI');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por partes - Ejercicio 3</span>
+<p class="video" onclick="colapsID('5B1UlnMskAI');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="5B1UlnMskAI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5B1UlnMskAI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -729,8 +729,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7vqIok-Aahk');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por partes - Ejercicio 4</span>
+<p class="video" onclick="colapsID('7vqIok-Aahk');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 3</span>
 </p>
 <div id="7vqIok-Aahk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/7vqIok-Aahk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -738,8 +738,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('BriqqkrK2dc');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por partes - Ejercicio 5</span>
+<p class="video" onclick="colapsID('BriqqkrK2dc');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 4</span>
 </p>
 <div id="BriqqkrK2dc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/BriqqkrK2dc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -747,8 +747,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('tarTGG6YFCA');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por partes - Ejercicios</span>
+<p class="video" onclick="colapsID('tarTGG6YFCA');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Más Ejercicios</span>
 </p>
 <div id="tarTGG6YFCA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/tarTGG6YFCA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -765,8 +765,8 @@ Antiderivadas
 
 
 <div class="modulo6 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('XiqGH-odk4I');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por fracciones parciales - Teoría</span>
+<p class="video" onclick="colapsID('XiqGH-odk4I');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Concepto de Integración por fracciones parciales</span>
 </p>
 <div id="XiqGH-odk4I" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/XiqGH-odk4I?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -774,8 +774,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('09Mn48P0Nc0');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por fracciones parciales - Ejercicio 1</span>
+<p class="video" onclick="colapsID('09Mn48P0Nc0');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="09Mn48P0Nc0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/09Mn48P0Nc0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -783,8 +783,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5qO7R-3475k');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por fracciones parciales - Ejercicio 2</span>
+<p class="video" onclick="colapsID('5qO7R-3475k');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="5qO7R-3475k" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5qO7R-3475k?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -792,8 +792,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('sSnwk2YQ9IM');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por fracciones parciales - Ejercicio 3</span>
+<p class="video" onclick="colapsID('sSnwk2YQ9IM');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 3</span>
 </p>
 <div id="sSnwk2YQ9IM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/sSnwk2YQ9IM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -801,8 +801,8 @@ Antiderivadas
 </div>
 
 <div class="modulo6 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('sUKAeTDKB9U');" style="cursor:pointer;margin-left:30px;width:328px;">
-<span style="margin-left: 50px;">Integración por fracciones parciales - Ejercicio 4</span>
+<p class="video" onclick="colapsID('sUKAeTDKB9U');" style="cursor:pointer;margin-left:30px;">
+<span style="margin-left: 50px;">Ejercicio 4</span>
 </p>
 <div id="sUKAeTDKB9U" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/sUKAeTDKB9U?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>

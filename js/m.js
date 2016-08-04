@@ -63,6 +63,8 @@ function crearClases(){
 			height: 110px;\
 			width: 610px;\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/unidad.png) no-repeat;\
+			opacity: 0.8;\
+			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
 		.unidad span{\
 			font-size:32px;\
@@ -85,9 +87,17 @@ function crearClases(){
 			opacity: 0.8;\
 			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
-		.modulo:hover, .video:hover, .boton:hover{\
+		.modulo:hover, .video:hover, .boton:hover, .unidad:hover{\
 			opacity: 1;\
 			filter: Alpha(opacity=100); /* IE8 and earlier */\
+		}\
+		.nombreModulo{\
+			margin-left:130px;\
+			font-family:tizaImprenta;\
+			font-size:24px;\
+		}\
+		.numeroModulo{\
+			margin-left:15px;\
 		}\
 	");
     x.appendChild(t);

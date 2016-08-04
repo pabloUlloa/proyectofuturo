@@ -231,10 +231,10 @@ def menu():
 
 
 def formatoUnidad(n,i):
-    n=u"Unidad "+str(i).encode("utf-8")+u": "+n
+    n=u"Unidad "+str(i-1).encode("utf-8")+u": "+n
     formato="""
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>"""+n+"""</span></p>
+<p class="unidad" onclick="colapsID('')" style="cursor:pointer;"><span>"""+n+"""</span></p>
 """
     return formato
 
@@ -244,7 +244,7 @@ def formatoModulo(n,j,i):
     formato="""
 <hr />
 <p class="modulo" onclick="colapsID('');colapsarClase('modulo"""+str(mid).encode("utf-8")+"""')" style="cursor:pointer;">
-<span style="margin-left:15px">"""+n1+"""</span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">"""+n+"""</span>
+<span class="numeroModulo">"""+n1+"""</span><span class="nombreModulo">"""+n+"""</span>
 </p>
 """
     return formato
@@ -255,7 +255,7 @@ def formatoVideo(n,u,i,j):
     vid=embed.replace("https","http").replace("http://www.youtube.com/embed/","")
     formato="""
 <div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('"""+vid+"""');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('"""+vid+"""');" style="cursor:pointer;margin-left:30px;">
 <span style="margin-left: 50px;">"""+n+"""</span>
 </p>
 <div id=\""""+vid+"""" style="display: none;"><center>
@@ -267,11 +267,11 @@ def formatoVideo(n,u,i,j):
 
 def noVideo(i,j):
     mid=str(i)+" "+str(j)
-    vid=str(randint(1,100))
+    vid=str(randint(1,10000))
     n1=u"[Videos aún no disponibles]"
     formato="""
 <div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('"""+vid.encode("utf-8")+"""');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('"""+vid.encode("utf-8")+"""');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">"""+n1+"""</span>
 </p>
 </div>

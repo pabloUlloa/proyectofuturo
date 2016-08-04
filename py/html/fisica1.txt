@@ -2,7 +2,7 @@
 Introducción a la Física
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Introducción a la Física</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 0: Introducción a la Física</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -15,7 +15,7 @@ Introducción a la Física
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('70');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2700');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -30,7 +30,7 @@ Introducción a la Física
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('97');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('8262');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -45,7 +45,7 @@ Introducción a la Física
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('56');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('1107');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -60,7 +60,7 @@ Introducción a la Física
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('6793');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -75,7 +75,7 @@ Introducción a la Física
 
 
 <div class="modulo1 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('96');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('5312');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -90,7 +90,7 @@ Introducción a la Física
 
 
 <div class="modulo1 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('69');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('5883');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -101,7 +101,7 @@ Introducción a la Física
 Vectores
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Vectores</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Vectores</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -114,7 +114,7 @@ Vectores
 
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('98');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('1705');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -129,7 +129,7 @@ Vectores
 
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('95');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2738');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -144,7 +144,7 @@ Vectores
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('40');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('548');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -159,7 +159,7 @@ Vectores
 
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('57');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('5525');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -174,7 +174,7 @@ Vectores
 
 
 <div class="modulo2 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('58');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('9210');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -189,7 +189,7 @@ Vectores
 
 
 <div class="modulo2 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('94');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('4839');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -200,7 +200,7 @@ Vectores
 Fuerza
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Fuerza</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Fuerza</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -213,7 +213,7 @@ Fuerza
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('8395');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -228,7 +228,7 @@ Fuerza
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('48');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2954');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -243,7 +243,7 @@ Fuerza
 
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('100');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('985');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -258,7 +258,7 @@ Fuerza
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('14');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('1584');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -273,7 +273,7 @@ Fuerza
 
 
 <div class="modulo3 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('72');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('93');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -284,7 +284,7 @@ Fuerza
 Estática
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Estática</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Estática</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -297,7 +297,7 @@ Estática
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('10');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('999');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -312,7 +312,7 @@ Estática
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('53');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('5919');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -327,7 +327,7 @@ Estática
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('65');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2234');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -342,7 +342,7 @@ Estática
 
 
 <div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('32');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('7700');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -353,7 +353,7 @@ Estática
 Hidrostática
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 5: Hidrostática</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Hidrostática</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -366,7 +366,7 @@ Hidrostática
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('59');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('5927');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -381,7 +381,7 @@ Hidrostática
 
 
 <div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('92');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('3063');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -396,7 +396,7 @@ Hidrostática
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('48');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('5581');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>

@@ -2,7 +2,7 @@
 Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 0: Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -15,7 +15,7 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('11');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('9514');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -30,7 +30,7 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('TJjiqfnuwbQ');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('TJjiqfnuwbQ');" style="cursor:pointer;margin-left:30px;">
 <span style="margin-left: 50px;">Separación de Variables</span>
 </p>
 <div id="TJjiqfnuwbQ" style="display: none;"><center>
@@ -48,7 +48,7 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('ocSmZSKlN04');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('ocSmZSKlN04');" style="cursor:pointer;margin-left:30px;">
 <span style="margin-left: 50px;">Ecuaciones Diferenciales Exactas - Concepto</span>
 </p>
 <div id="ocSmZSKlN04" style="display: none;"><center>
@@ -57,7 +57,7 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 </div>
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('mGZE0-nfvnU');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('mGZE0-nfvnU');" style="cursor:pointer;margin-left:30px;">
 <span style="margin-left: 50px;">Ecuaciones Diferenciales Exactas - Ejercicio 1</span>
 </p>
 <div id="mGZE0-nfvnU" style="display: none;"><center>
@@ -75,7 +75,7 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('60');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('5501');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -90,7 +90,7 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 
 
 <div class="modulo1 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2588');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -101,7 +101,7 @@ Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingenierí
 Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -114,7 +114,7 @@ Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingenier�
 
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('41');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('9683');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -129,7 +129,7 @@ Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingenier�
 
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('27');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2482');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -144,7 +144,7 @@ Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingenier�
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('27');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('202');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -159,7 +159,7 @@ Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingenier�
 
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('17');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('7118');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -170,7 +170,7 @@ Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingenier�
 Soluciones de Ecuaciones Diferenciales por series de Potencia
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Soluciones de Ecuaciones Diferenciales por series de Potencia</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Soluciones de Ecuaciones Diferenciales por series de Potencia</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -183,7 +183,7 @@ Soluciones de Ecuaciones Diferenciales por series de Potencia
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('13');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('1947');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -198,7 +198,7 @@ Soluciones de Ecuaciones Diferenciales por series de Potencia
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('7276');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -209,7 +209,7 @@ Soluciones de Ecuaciones Diferenciales por series de Potencia
 Transformada de Laplace y Aplicaciones de Ingeniería
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Transformada de Laplace y Aplicaciones de Ingeniería</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Transformada de Laplace y Aplicaciones de Ingeniería</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -222,7 +222,7 @@ Transformada de Laplace y Aplicaciones de Ingeniería
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('90');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('955');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -237,7 +237,7 @@ Transformada de Laplace y Aplicaciones de Ingeniería
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('63');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('1234');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -252,7 +252,7 @@ Transformada de Laplace y Aplicaciones de Ingeniería
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('71');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2216');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -263,7 +263,7 @@ Transformada de Laplace y Aplicaciones de Ingeniería
 Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 5: Soluciones de Ecuaciones en derivadas Parciales y aplicaciones</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Soluciones de Ecuaciones en derivadas Parciales y aplicaciones</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -276,7 +276,7 @@ Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('12');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('667');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -291,7 +291,7 @@ Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
 
 
 <div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('38');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('3110');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -306,7 +306,7 @@ Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('88');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('4401');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -321,7 +321,7 @@ Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
 
 
 <div class="modulo5 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('13');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('7259');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -336,7 +336,7 @@ Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
 
 
 <div class="modulo5 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('96');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('3579');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>

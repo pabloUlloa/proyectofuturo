@@ -2,7 +2,7 @@
 Sistemas Lineales y Matrices
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Sistemas Lineales y Matrices</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 0: Sistemas Lineales y Matrices</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -15,7 +15,7 @@ Sistemas Lineales y Matrices
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('81');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('891');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -30,7 +30,7 @@ Sistemas Lineales y Matrices
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('100');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('6766');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -45,7 +45,7 @@ Sistemas Lineales y Matrices
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('75');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('9478');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -60,7 +60,7 @@ Sistemas Lineales y Matrices
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('80');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('8108');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -71,7 +71,7 @@ Sistemas Lineales y Matrices
 Espacios Vectoriales y Transformaciones Lineales
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Espacios Vectoriales y Transformaciones Lineales</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Espacios Vectoriales y Transformaciones Lineales</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -84,7 +84,7 @@ Espacios Vectoriales y Transformaciones Lineales
 
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('46');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('8063');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -99,7 +99,7 @@ Espacios Vectoriales y Transformaciones Lineales
 
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('37');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('9692');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -114,7 +114,7 @@ Espacios Vectoriales y Transformaciones Lineales
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('86');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('2916');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -125,7 +125,7 @@ Espacios Vectoriales y Transformaciones Lineales
 Álgebra Discreta
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Álgebra Discreta</span></p>
+<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Álgebra Discreta</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -138,7 +138,7 @@ Espacios Vectoriales y Transformaciones Lineales
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('65');" style="cursor:pointer;margin-left:30px;width:328px;">
+<p class="video" onclick="colapsID('9949');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
