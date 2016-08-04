@@ -2,14 +2,14 @@
 Introducción a la Física
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 1: Introducción a la Física</strong></p>
+<p class="unidad" onclick="colapsID('')"><strong>Unidad 1: Introducción a la Física</strong></p>
 
 
 -----------------------------------------------------------------------------
 	Desarrollo de la Mecánica
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Desarrollo de la Mecánica</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 1')"><strong>Módulo 1: Desarrollo de la Mecánica</strong></p>
 
 
 
@@ -18,7 +18,7 @@ Introducción a la Física
 	Síntesis de Newton
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 2')"><strong>Módulo 2: Síntesis de Newton</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 2')"><strong>Módulo 2: Síntesis de Newton</strong></p>
 
 
 
@@ -27,7 +27,7 @@ Introducción a la Física
 	El método científico
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 3')"><strong>Módulo 3: El método científico</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 3')"><strong>Módulo 3: El método científico</strong></p>
 
 
 
@@ -36,7 +36,7 @@ Introducción a la Física
 	Hitos de la Física
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 4')"><strong>Módulo 4: Hitos de la Física</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 4')"><strong>Módulo 4: Hitos de la Física</strong></p>
 
 
 
@@ -45,7 +45,7 @@ Introducción a la Física
 	Sistemas de Unidades
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 5')"><strong>Módulo 5: Sistemas de Unidades</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 5')"><strong>Módulo 5: Sistemas de Unidades</strong></p>
 
 
 
@@ -54,7 +54,7 @@ Introducción a la Física
 	Problemas y Aplicaciones
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('1 6')"><strong>Módulo 6: Problemas y Aplicaciones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('1 6')"><strong>Módulo 6: Problemas y Aplicaciones</strong></p>
 
 
 
@@ -65,14 +65,14 @@ Introducción a la Física
 Vectores
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 2: Vectores</strong></p>
+<p class="unidad" onclick="colapsID('')"><strong>Unidad 2: Vectores</strong></p>
 
 
 -----------------------------------------------------------------------------
 	Espacio y sistemas de ejes ortogonales
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Espacio y sistemas de ejes ortogonales</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 1')"><strong>Módulo 1: Espacio y sistemas de ejes ortogonales</strong></p>
 
 
 
@@ -81,7 +81,7 @@ Vectores
 	Desplazamiento en el espacio
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Desplazamiento en el espacio</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 2')"><strong>Módulo 2: Desplazamiento en el espacio</strong></p>
 
 
 
@@ -90,7 +90,7 @@ Vectores
 	Descomposición de vectores
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 3')"><strong>Módulo 3: Descomposición de vectores</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 3')"><strong>Módulo 3: Descomposición de vectores</strong></p>
 
 
 
@@ -99,7 +99,7 @@ Vectores
 	Productos de vectores
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 4')"><strong>Módulo 4: Productos de vectores</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 4')"><strong>Módulo 4: Productos de vectores</strong></p>
 
 
 
@@ -108,7 +108,7 @@ Vectores
 	Aplicaciones geométricas
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 5')"><strong>Módulo 5: Aplicaciones geométricas</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 5')"><strong>Módulo 5: Aplicaciones geométricas</strong></p>
 
 
 
@@ -117,7 +117,7 @@ Vectores
 	Problemas y aplicaciones
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('2 6')"><strong>Módulo 6: Problemas y aplicaciones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('2 6')"><strong>Módulo 6: Problemas y aplicaciones</strong></p>
 
 
 
@@ -128,14 +128,14 @@ Vectores
 Fuerza
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 3: Fuerza</strong></p>
+<p class="unidad" onclick="colapsID('')"><strong>Unidad 3: Fuerza</strong></p>
 
 
 -----------------------------------------------------------------------------
 	Tipos de fuerza
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Tipos de fuerza</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 1')"><strong>Módulo 1: Tipos de fuerza</strong></p>
 
 
 
@@ -144,7 +144,7 @@ Fuerza
 	Características de las fuerzas
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('3 2')"><strong>Módulo 2: Características de las fuerzas</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 2')"><strong>Módulo 2: Características de las fuerzas</strong></p>
 
 
 
@@ -153,7 +153,7 @@ Fuerza
 	Reducción de sistemas de fuerzas
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('3 3')"><strong>Módulo 3: Reducción de sistemas de fuerzas</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 3')"><strong>Módulo 3: Reducción de sistemas de fuerzas</strong></p>
 
 
 
@@ -162,7 +162,7 @@ Fuerza
 	Definiciones y conceptos de centros
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('3 4')"><strong>Módulo 4: Definiciones y conceptos de centros</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 4')"><strong>Módulo 4: Definiciones y conceptos de centros</strong></p>
 
 
 
@@ -171,7 +171,7 @@ Fuerza
 	Problemas y aplicaciones
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('3 5')"><strong>Módulo 5: Problemas y aplicaciones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('3 5')"><strong>Módulo 5: Problemas y aplicaciones</strong></p>
 
 
 
@@ -182,14 +182,14 @@ Fuerza
 Estática
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 4: Estática</strong></p>
+<p class="unidad" onclick="colapsID('')"><strong>Unidad 4: Estática</strong></p>
 
 
 -----------------------------------------------------------------------------
 	Conceptos Básicos
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Conceptos Básicos</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 1')"><strong>Módulo 1: Conceptos Básicos</strong></p>
 
 
 
@@ -198,7 +198,7 @@ Estática
 	Leyes de la estática
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Leyes de la estática</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 2')"><strong>Módulo 2: Leyes de la estática</strong></p>
 
 
 
@@ -207,7 +207,7 @@ Estática
 	Análisis de estructuras
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('4 3')"><strong>Módulo 3: Análisis de estructuras</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 3')"><strong>Módulo 3: Análisis de estructuras</strong></p>
 
 
 
@@ -216,7 +216,7 @@ Estática
 	Aplicaciones y problemas
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('4 4')"><strong>Módulo 4: Aplicaciones y problemas</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('4 4')"><strong>Módulo 4: Aplicaciones y problemas</strong></p>
 
 
 
@@ -227,14 +227,14 @@ Estática
 Hidrostática
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>Unidad 5: Hidrostática</strong></p>
+<p class="unidad" onclick="colapsID('')"><strong>Unidad 5: Hidrostática</strong></p>
 
 
 -----------------------------------------------------------------------------
 	Conceptos fundamentales
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('5 1')"><strong>Módulo 1: Conceptos fundamentales</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('5 1')"><strong>Módulo 1: Conceptos fundamentales</strong></p>
 
 
 
@@ -243,7 +243,7 @@ Hidrostática
 	Principio de Arquímides
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('5 2')"><strong>Módulo 2: Principio de Arquímides</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('5 2')"><strong>Módulo 2: Principio de Arquímides</strong></p>
 
 
 
@@ -252,7 +252,7 @@ Hidrostática
 	Problemas y aplicaciones
 
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('5 3')"><strong>Módulo 3: Problemas y aplicaciones</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('5 3')"><strong>Módulo 3: Problemas y aplicaciones</strong></p>
 
 
 

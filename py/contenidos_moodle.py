@@ -233,7 +233,7 @@ def formatoUnidad(n,i):
     n=u"Unidad "+str(i).encode("utf-8")+u": "+n
     formato="""
 <hr />
-<p class="unidad" style="text-align: justify; cursor: pointer;" onclick="colapsID('')"><strong>"""+n+"""</strong></p>
+<p class="unidad" onclick="colapsID('')"><strong>"""+n+"""</strong></p>
 """
     return formato
 
@@ -242,7 +242,7 @@ def formatoModulo(n,j,i):
     n=u"Módulo "+str(j).encode("utf-8")+u": "+n
     formato="""
 <hr />
-<p style="text-align: justify; cursor: pointer;" onclick="colapsID('');colapsarModulo('"""+str(mid).encode("utf-8")+"""')"><strong>"""+n+"""</strong></p>
+<p class="modulo" onclick="colapsID('');colapsarModulo('"""+str(mid).encode("utf-8")+"""')"><strong>"""+n+"""</strong></p>
 """
     return formato
 
@@ -252,8 +252,8 @@ def formatoVideo(n,u,i,j):
     vid=embed.replace("https","http").replace("http://www.youtube.com/embed/","")
     formato="""
 <div class="modulo"""+str(mid).encode("utf-8")+"""">
-<p style="text-align: justify; cursor: pointer;" moduloId=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');">
-<strong>[Video] """+n+"""</strong></p>
+<p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');">
+<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" />"""+n+"""</strong></p>
 <div id=\""""+vid+"""" style="display: none;"><center>
 <iframe src=\""""+embed+"""?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
