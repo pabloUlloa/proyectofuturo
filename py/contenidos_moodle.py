@@ -242,8 +242,8 @@ def formatoModulo(n,j,i):
     n1=u"Módulo "+str(j).encode("utf-8")+u": "
     formato="""
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarModulo('"""+str(mid).encode("utf-8")+"""')">
-<span><span style="margin-left:15px">"""+n1+"""</span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">"""+n+"""</span></span>
+<p class="modulo" onclick="colapsID('');colapsarClase('modulo"""+str(mid).encode("utf-8")+"""')">
+<span style="margin-left:15px">"""+n1+"""</span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">"""+n+"""</span>
 </p>
 """
     return formato
@@ -255,7 +255,7 @@ def formatoVideo(n,u,i,j):
     formato="""
 <div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:150px;display:none;">
 <p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');">
-<span style="margin-left: 50px;">"""+n+"""</span>
+<span style="">"""+n+"""</span>
 </p>
 <div id=\""""+vid+"""" style="display: none;"><center>
 <iframe src=\""""+embed+"""?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>

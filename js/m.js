@@ -78,6 +78,7 @@ function crearClases(){
 		.modulo{\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
 			height: 40px;\
+			cursor: pointer;\
 		}\
 		.video{\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/videoPostit.png) no-repeat;\
