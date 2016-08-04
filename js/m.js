@@ -49,15 +49,19 @@ function crearClases(){
 		}\
 		.modulo, .video{\
 			text-align: justify;\
-			font-size: 18px;\
+			font-size: 16px;\
 			font-family: tizaCursiva;\
-			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
-			background-size:90%\
 			cursor: pointer;\
 			opacity: 0.8;\
 			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
+		.modulo{\
+			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
+			background-size:90%\
+		}\
 		.video{\
+			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/videoPostit.png) no-repeat;\
+			background-size:90%\
 			background-position: -30px 50%\
 		}\
 		.modulo:hover, .video:hover, .boton:hover{\
