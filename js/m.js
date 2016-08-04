@@ -38,30 +38,30 @@ function colapsID(e){
 }
 function crearClases(){
 	var x = document.createElement("STYLE");
-    var t = document.createTextNode("
-		.unidad{
-			text-align: justify;
-			cursor: pointer;
-		    opacity: 0.8;
-	    	filter: Alpha(opacity=80); /* IE8 and earlier */
-		}
-
-		.unidad:hover{
-		    opacity: 1;
-	    	filter: Alpha(opacity=100); /* IE8 and earlier */
-		}
-
-		.modulo{
-			text-align: justify;
-			cursor: pointer;
-		    opacity: 0.8;
-	    	filter: Alpha(opacity=80); /* IE8 and earlier */
-		}
-
-		.modulo:hover{
-		    opacity: 1;
-	    	filter: Alpha(opacity=100); /* IE8 and earlier */
-		}
+    var t = document.createTextNode("\
+		.unidad{\
+			text-align: justify;\
+			cursor: pointer;\
+		    opacity: 0.8;\
+	    	filter: Alpha(opacity=80); /* IE8 and earlier */\
+		}\
+\
+		.unidad:hover{\
+		    opacity: 1;\
+	    	filter: Alpha(opacity=100); /* IE8 and earlier */\
+		}\
+\
+		.modulo{\
+			text-align: justify;\
+			cursor: pointer;\
+		    opacity: 0.8;\
+	    	filter: Alpha(opacity=80); /* IE8 and earlier */\
+		}\
+\
+		.modulo:hover{\
+		    opacity: 1;\
+	    	filter: Alpha(opacity=100); /* IE8 and earlier */\
+		}\
     ");
     x.appendChild(t);
     document.head.appendChild(x);
