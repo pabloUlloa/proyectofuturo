@@ -8,7 +8,7 @@ Series de Fourier
 	Series de Fourier
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Series de Fourier</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Series de Fourier</span>
 </p>
 
 
@@ -79,7 +79,7 @@ Series de Fourier
 	Convergencias
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Convergencias</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Convergencias</span>
 </p>
 
 
@@ -95,7 +95,7 @@ Funciones Vectoriales de Variable Real
 	Diferenciación de funciones vectoriales
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Diferenciación de funciones vectoriales</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Diferenciación de funciones vectoriales</span>
 </p>
 
 
@@ -139,7 +139,7 @@ Funciones Vectoriales de Variable Real
 	Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</span>
 </p>
 
 
@@ -164,7 +164,7 @@ Funciones de Varias Variables
 	Conceptos básicos: límite, continuidad, curvas y superficies de nivel
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Conceptos básicos: límite, continuidad, curvas y superficies de nivel</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Conceptos básicos: límite, continuidad, curvas y superficies de nivel</span>
 </p>
 
 
@@ -172,7 +172,7 @@ Funciones de Varias Variables
 	Derivadas parciales, vector gradiente y derivada direcciónal
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Derivadas parciales, vector gradiente y derivada direcciónal</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Derivadas parciales, vector gradiente y derivada direcciónal</span>
 </p>
 
 
@@ -180,7 +180,7 @@ Funciones de Varias Variables
 	Diferenciabilidad y propiedades
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Diferenciabilidad y propiedades</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Diferenciabilidad y propiedades</span>
 </p>
 
 
@@ -188,7 +188,7 @@ Funciones de Varias Variables
 	Derivación compuesta
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">Derivación compuesta</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Derivación compuesta</span>
 </p>
 
 
@@ -196,7 +196,7 @@ Funciones de Varias Variables
 	Derivación implícita y derivación inversa
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:50px">Derivación implícita y derivación inversa</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Derivación implícita y derivación inversa</span>
 </p>
 
 
@@ -204,7 +204,7 @@ Funciones de Varias Variables
 	Valores extremos
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:50px">Valores extremos</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Valores extremos</span>
 </p>
 
 
@@ -212,7 +212,7 @@ Funciones de Varias Variables
 	Extremos condicionados
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 7')">
-<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:50px">Extremos condicionados</span>
+<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px">Extremos condicionados</span>
 </p>
 
 
@@ -228,7 +228,7 @@ Integrales dobles, triples, de línea y de superficie
 	Integrales dobles
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Integrales dobles</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Integrales dobles</span>
 </p>
 
 
@@ -236,7 +236,7 @@ Integrales dobles, triples, de línea y de superficie
 	Integrales triples
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Integrales triples</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Integrales triples</span>
 </p>
 
 
@@ -244,7 +244,7 @@ Integrales dobles, triples, de línea y de superficie
 	Integrales de línea (curvilínea)
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Integrales de línea (curvilínea)</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Integrales de línea (curvilínea)</span>
 </p>
 
 
@@ -252,7 +252,7 @@ Integrales dobles, triples, de línea y de superficie
 	Integrales de superficie
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">Integrales de superficie</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Integrales de superficie</span>
 </p>
 
 
@@ -260,7 +260,7 @@ Integrales dobles, triples, de línea y de superficie
 	Teoremas de transformación de integrales
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:50px">Teoremas de transformación de integrales</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Teoremas de transformación de integrales</span>
 </p>
 
 

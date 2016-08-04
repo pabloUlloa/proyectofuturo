@@ -8,7 +8,7 @@ Los Números Reales
 	Axiomas
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Axiomas</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Axiomas</span>
 </p>
 
 
@@ -43,7 +43,7 @@ Los Números Reales
 	Valor Absoluto
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Valor Absoluto</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Valor Absoluto</span>
 </p>
 
 
@@ -51,7 +51,7 @@ Los Números Reales
 	Desigualdades
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Desigualdades</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Desigualdades</span>
 </p>
 
 
@@ -95,7 +95,7 @@ Los Números Reales
 	Axioma del supremo
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">Axioma del supremo</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Axioma del supremo</span>
 </p>
 
 
@@ -111,7 +111,7 @@ Funciones de Variable Real
 	Estudio algebraico y estudio gráfico
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Estudio algebraico y estudio gráfico</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Estudio algebraico y estudio gráfico</span>
 </p>
 
 
@@ -155,7 +155,7 @@ Funciones de Variable Real
 	El caso de las funciones trigonométricas
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">El caso de las funciones trigonométricas</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">El caso de las funciones trigonométricas</span>
 </p>
 
 
@@ -190,7 +190,7 @@ Funciones de Variable Real
 	Aplicaciones de la trigonometría
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Aplicaciones de la trigonometría</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Aplicaciones de la trigonometría</span>
 </p>
 
 
@@ -198,7 +198,7 @@ Funciones de Variable Real
 	El caso de las funciones logaritmo y exponencial
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">El caso de las funciones logaritmo y exponencial</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">El caso de las funciones logaritmo y exponencial</span>
 </p>
 
 
@@ -214,7 +214,7 @@ Límite de Funciones
 	El concepto y su operatoria
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">El concepto y su operatoria</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">El concepto y su operatoria</span>
 </p>
 
 
@@ -276,7 +276,7 @@ Límite de Funciones
 	Límites laterales y asintotas
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Límites laterales y asintotas</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Límites laterales y asintotas</span>
 </p>
 
 
@@ -311,7 +311,7 @@ Límite de Funciones
 	Continuidad de funciones algebraicas y trigonométricas
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Continuidad de funciones algebraicas y trigonométricas</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Continuidad de funciones algebraicas y trigonométricas</span>
 </p>
 
 
@@ -337,7 +337,7 @@ Límite de Funciones
 	Continuidad de la inversa y TVI
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">Continuidad de la inversa y TVI</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Continuidad de la inversa y TVI</span>
 </p>
 
 
@@ -353,7 +353,7 @@ Derivada
 	Definición, operatoria y derivadas "comunes"
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Definición, operatoria y derivadas "comunes"</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Definición, operatoria y derivadas "comunes"</span>
 </p>
 
 
@@ -361,7 +361,7 @@ Derivada
 	Regla de la cadena
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Regla de la cadena</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Regla de la cadena</span>
 </p>
 
 
@@ -369,7 +369,7 @@ Derivada
 	Derivada implícita
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Derivada implícita</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Derivada implícita</span>
 </p>
 
 
@@ -377,7 +377,7 @@ Derivada
 	Derivada de orden superior
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">Derivada de orden superior</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Derivada de orden superior</span>
 </p>
 
 
@@ -385,7 +385,7 @@ Derivada
 	Continuidad y criterios de extremos locales
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:50px">Continuidad y criterios de extremos locales</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Continuidad y criterios de extremos locales</span>
 </p>
 
 
@@ -393,7 +393,7 @@ Derivada
 	Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:50px">Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)</span>
 </p>
 
 
@@ -401,7 +401,7 @@ Derivada
 	Revisita al cálculo de límites, Regla de L'Hopital
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 7')">
-<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:50px">Revisita al cálculo de límites, Regla de L'Hopital</span>
+<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px">Revisita al cálculo de límites, Regla de L'Hopital</span>
 </p>
 
 
@@ -409,7 +409,7 @@ Derivada
 	Estudio gráfico de funciones
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 8')">
-<span style="margin-left:15px">Módulo 8: </span><span style="margin-left:50px">Estudio gráfico de funciones</span>
+<span style="margin-left:15px">Módulo 8: </span><span style="margin-left:130px">Estudio gráfico de funciones</span>
 </p>
 
 
@@ -425,7 +425,7 @@ Aplicaciones de la derivada
 	Optimización
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Optimización</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Optimización</span>
 </p>
 
 
@@ -433,7 +433,7 @@ Aplicaciones de la derivada
 	Razón de cambio
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Razón de cambio</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Razón de cambio</span>
 </p>
 
 
@@ -468,7 +468,7 @@ Aplicaciones de la derivada
 	Ecuaciones paramétricas en el plano
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Ecuaciones paramétricas en el plano</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Ecuaciones paramétricas en el plano</span>
 </p>
 
 
@@ -484,7 +484,7 @@ Antiderivadas
 	El concepto y principales ejemplos
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">El concepto y principales ejemplos</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">El concepto y principales ejemplos</span>
 </p>
 
 
@@ -492,7 +492,7 @@ Antiderivadas
 	Método de integración por sustitución simple
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Método de integración por sustitución simple</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Método de integración por sustitución simple</span>
 </p>
 
 
@@ -509,7 +509,7 @@ Antiderivadas
 	Método de integración por sustitución trigonométrica
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Método de integración por sustitución trigonométrica</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Método de integración por sustitución trigonométrica</span>
 </p>
 
 
@@ -517,7 +517,7 @@ Antiderivadas
 	Método de integración por sustitución trigonométrica de funciones racionales
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">Método de integración por sustitución trigonométrica de funciones racionales</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Método de integración por sustitución trigonométrica de funciones racionales</span>
 </p>
 
 
@@ -543,7 +543,7 @@ Antiderivadas
 	Método de integración por partes
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 5')">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:50px">Método de integración por partes</span>
+<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px">Método de integración por partes</span>
 </p>
 
 
@@ -623,7 +623,7 @@ Antiderivadas
 	Método de integración por fracciones parciales
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('6 6')">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:50px">Método de integración por fracciones parciales</span>
+<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px">Método de integración por fracciones parciales</span>
 </p>
 
 

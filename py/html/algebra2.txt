@@ -8,7 +8,7 @@ Sistemas Lineales y Matrices
 	Sistemas de Ecuaciones Lineales
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Sistemas de Ecuaciones Lineales</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Sistemas de Ecuaciones Lineales</span>
 </p>
 
 
@@ -16,7 +16,7 @@ Sistemas Lineales y Matrices
 	Ecuaciones y Matrices
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Ecuaciones y Matrices</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Ecuaciones y Matrices</span>
 </p>
 
 
@@ -24,7 +24,7 @@ Sistemas Lineales y Matrices
 	Matrices
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Matrices</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Matrices</span>
 </p>
 
 
@@ -32,7 +32,7 @@ Sistemas Lineales y Matrices
 	Soluciones de ecuaciones
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">Soluciones de ecuaciones</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Soluciones de ecuaciones</span>
 </p>
 
 
@@ -48,7 +48,7 @@ Espacios Vectoriales y Transformaciones Lineales
 	Espacios Vectoriales
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Espacios Vectoriales</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Espacios Vectoriales</span>
 </p>
 
 
@@ -56,7 +56,7 @@ Espacios Vectoriales y Transformaciones Lineales
 	Espacios con producto interno
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Espacios con producto interno</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Espacios con producto interno</span>
 </p>
 
 
@@ -64,7 +64,7 @@ Espacios Vectoriales y Transformaciones Lineales
 	Transformaciones Lineales
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Transformaciones Lineales</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Transformaciones Lineales</span>
 </p>
 
 
@@ -80,7 +80,7 @@ Espacios Vectoriales y Transformaciones Lineales
 	Los números enteros
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Los números enteros</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Los números enteros</span>
 </p>
 
 

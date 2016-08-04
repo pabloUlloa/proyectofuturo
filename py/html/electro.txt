@@ -8,7 +8,7 @@ Introducción
 	Ley de Coulomb
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('1 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Ley de Coulomb</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Ley de Coulomb</span>
 </p>
 
 
@@ -42,7 +42,7 @@ Campo Eléctrico
 	Campo Eléctrico
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Campo Eléctrico</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Campo Eléctrico</span>
 </p>
 
 
@@ -68,7 +68,7 @@ Campo Eléctrico
 	Ley de Gauss
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Ley de Gauss</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Ley de Gauss</span>
 </p>
 
 
@@ -130,7 +130,7 @@ Campo Eléctrico
 	Potencial Eléctrico
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 3')">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:50px">Potencial Eléctrico</span>
+<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px">Potencial Eléctrico</span>
 </p>
 
 
@@ -156,7 +156,7 @@ Campo Eléctrico
 	Condensadores
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('2 4')">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:50px">Condensadores</span>
+<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px">Condensadores</span>
 </p>
 
 
@@ -190,7 +190,7 @@ Circuitos de Corriente Continua
 	Leyes de Kirchhoff
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('3 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Leyes de Kirchhoff</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Leyes de Kirchhoff</span>
 </p>
 
 
@@ -224,7 +224,7 @@ Campo Magnético
 	Fuerza Magnética y Ley de Biot-Savart
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Fuerza Magnética y Ley de Biot-Savart</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Fuerza Magnética y Ley de Biot-Savart</span>
 </p>
 
 
@@ -259,7 +259,7 @@ Campo Magnético
 	Ley de Ampere
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('4 2')">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:50px">Ley de Ampere</span>
+<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px">Ley de Ampere</span>
 </p>
 
 
@@ -302,7 +302,7 @@ Inducción Electromagnética
 	Inducción Electromagnética
 
 <p class="modulo" onclick="colapsID('');colapsarModulo('5 1')">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:50px">Inducción Electromagnética</span>
+<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px">Inducción Electromagnética</span>
 </p>
 
 
