@@ -52,6 +52,7 @@ function crearClases(){
 			font-size: 18px;\
 			font-family: tizaCursiva;\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
+			background-size:90%\
 			cursor: pointer;\
 			opacity: 0.8;\
 			filter: Alpha(opacity=80); /* IE8 and earlier */\
@@ -62,6 +63,8 @@ function crearClases(){
 			font-family: tizaCursiva;\
 			cursor: pointer;\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
+			background-position: -30px 50%\
+			background-size:90%\
 			opacity: 0.8;\
 			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
