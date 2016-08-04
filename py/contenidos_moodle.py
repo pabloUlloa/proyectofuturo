@@ -252,7 +252,7 @@ def formatoVideo(n,u,i,j):
     vid=embed.replace("https","http").replace("http://www.youtube.com/embed/","")
     formato="""
 <div class="modulo"""+str(mid).encode("utf-8")+"""">
-<p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');"><span style="padding-left:25px">"""+n+"""</span></p>
+<p class="video" moduloid=\""""+str(mid).encode("utf-8")+"""" onclick="colapsID('"""+vid+"""');"><span>"""+n+"""</span></p>
 <div id=\""""+vid+"""" style="display: none;"><center>
 <iframe src=\""""+embed+"""?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>

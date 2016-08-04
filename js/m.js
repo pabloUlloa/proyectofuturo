@@ -72,6 +72,7 @@ function crearClases(){
 			opacity: 0.8;\
 			position: absolute;\
 			margin-left: 20%;\
+			margin-top: 49px;\
 		}\
 		.modulo{\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
