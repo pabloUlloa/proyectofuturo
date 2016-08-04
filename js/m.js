@@ -56,7 +56,7 @@ function crearClases(){
 			font-family: tizaCursiva;\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
 			cursor: pointer;\
-		    opacity: 0.8;\
+			opacity: 0.8;\
 	    	filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
 		.modulo:hover{\
