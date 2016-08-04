@@ -39,17 +39,17 @@ function colapsID(e){
 function crearClases(){
 	var x = document.createElement("STYLE");
     var t = document.createTextNode("\
-    	@font-face {\
-		    font-family: tizaCursiva;\
-		    src: url(http://rawgit.com/pabloUlloa/proyectofuturo/master/fonts/CoalhandLukeTRIAL.ttf);\
+		@font-face {\
+			font-family: tizaCursiva;\
+			src: url(http://rawgit.com/pabloUlloa/proyectofuturo/master/fonts/CoalhandLukeTRIAL.ttf);\
 		}\
 		.boton{\
 			opacity: 0.7;\
-	    	filter: Alpha(opacity=70); /* IE8 and earlier */\
+			filter: Alpha(opacity=70); /* IE8 and earlier */\
 		}\
 		.boton:hover{\
-		    opacity: 1;\
-	    	filter: Alpha(opacity=100); /* IE8 and earlier */\
+			opacity: 1;\
+			filter: Alpha(opacity=100); /* IE8 and earlier */\
 		}\
 		.modulo{\
 			text-align: justify;\
@@ -57,18 +57,18 @@ function crearClases(){
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
 			cursor: pointer;\
 			opacity: 0.8;\
-	    	filter: Alpha(opacity=80); /* IE8 and earlier */\
+			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
 		.modulo:hover{\
-		    opacity: 1;\
-	    	filter: Alpha(opacity=100); /* IE8 and earlier */\
+			opacity: 1;\
+			filter: Alpha(opacity=100); /* IE8 and earlier */\
 		}\
 		.video{\
 			text-align: justify;\
 			font-family: tizaCursiva;\
 			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
 		}\
-    ");
+	");
     x.appendChild(t);
     document.head.appendChild(x);
 }
