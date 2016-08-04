@@ -17,7 +17,7 @@ Los Números Reales
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('MsNjcUUjzCI');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Axiomas de orden - Concepto</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Axiomas de orden - Concepto</p>
 <div id="MsNjcUUjzCI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/MsNjcUUjzCI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -27,7 +27,7 @@ Los Números Reales
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('yvHNMk8DSnw');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Axiomas de cuerpo - Concepto</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Axiomas de cuerpo - Concepto</p>
 <div id="yvHNMk8DSnw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/yvHNMk8DSnw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -37,7 +37,7 @@ Los Números Reales
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('qWxGOpJlUt8');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Axiomas de cuerpo - Ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Axiomas de cuerpo - Ejercicio 1</p>
 <div id="qWxGOpJlUt8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/qWxGOpJlUt8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -65,7 +65,7 @@ Los Números Reales
 
 <div class="modulo1 3">
 <p class="video" moduloid="1 3" onclick="colapsID('CTpCscd8DZU');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inecuaciones - Concepto</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inecuaciones - Concepto</p>
 <div id="CTpCscd8DZU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/CTpCscd8DZU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -75,7 +75,7 @@ Los Números Reales
 
 <div class="modulo1 3">
 <p class="video" moduloid="1 3" onclick="colapsID('Ge3hji34xAw');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inecuaciones - Como se genera el intervalo de soluciones</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inecuaciones - Como se genera el intervalo de soluciones</p>
 <div id="Ge3hji34xAw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Ge3hji34xAw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -85,7 +85,7 @@ Los Números Reales
 
 <div class="modulo1 3">
 <p class="video" moduloid="1 3" onclick="colapsID('vJOKpqjNEqA');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inecuaciones - Ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inecuaciones - Ejercicio 1</p>
 <div id="vJOKpqjNEqA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/vJOKpqjNEqA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -95,7 +95,7 @@ Los Números Reales
 
 <div class="modulo1 3">
 <p class="video" moduloid="1 3" onclick="colapsID('00jBCbrxw9s');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inecuaciones - Ejercicio 2</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Inecuaciones - Ejercicio 2</p>
 <div id="00jBCbrxw9s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/00jBCbrxw9s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -132,7 +132,7 @@ Funciones de Variable Real
 
 <div class="modulo2 1">
 <p class="video" moduloid="2 1" onclick="colapsID('5seDbgLKZ_s');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones - Concepto</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones - Concepto</p>
 <div id="5seDbgLKZ_s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5seDbgLKZ_s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -142,7 +142,7 @@ Funciones de Variable Real
 
 <div class="modulo2 1">
 <p class="video" moduloid="2 1" onclick="colapsID('Zr07j_ydaZs');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones - Simetria, Dominio, Recorrido</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones - Simetria, Dominio, Recorrido</p>
 <div id="Zr07j_ydaZs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Zr07j_ydaZs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -152,7 +152,7 @@ Funciones de Variable Real
 
 <div class="modulo2 1">
 <p class="video" moduloid="2 1" onclick="colapsID('mnLvcz16D4E');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones - Epiyectiva, Inyectiva y Sobreyectiva</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones - Epiyectiva, Inyectiva y Sobreyectiva</p>
 <div id="mnLvcz16D4E" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/mnLvcz16D4E?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -162,7 +162,7 @@ Funciones de Variable Real
 
 <div class="modulo2 1">
 <p class="video" moduloid="2 1" onclick="colapsID('Tiugbcrbl-Y');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones - Ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones - Ejercicio 1</p>
 <div id="Tiugbcrbl-Y" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Tiugbcrbl-Y?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -181,7 +181,7 @@ Funciones de Variable Real
 
 <div class="modulo2 2">
 <p class="video" moduloid="2 2" onclick="colapsID('kCG03rrBd24');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones trigonométricas - función seno</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones trigonométricas - función seno</p>
 <div id="kCG03rrBd24" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/kCG03rrBd24?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -191,7 +191,7 @@ Funciones de Variable Real
 
 <div class="modulo2 2">
 <p class="video" moduloid="2 2" onclick="colapsID('eycjrgKBfSc');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones trigonométricas - función coseno</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones trigonométricas - función coseno</p>
 <div id="eycjrgKBfSc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/eycjrgKBfSc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -201,7 +201,7 @@ Funciones de Variable Real
 
 <div class="modulo2 2">
 <p class="video" moduloid="2 2" onclick="colapsID('5bilhMdkRnY');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones trigonométricas - teorema del seno y coseno</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones trigonométricas - teorema del seno y coseno</p>
 <div id="5bilhMdkRnY" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5bilhMdkRnY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -247,7 +247,7 @@ Límite de Funciones
 
 <div class="modulo3 1">
 <p class="video" moduloid="3 1" onclick="colapsID('-lzkJPKjZnM');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Definición formal de límite</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Definición formal de límite</p>
 <div id="-lzkJPKjZnM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-lzkJPKjZnM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -257,7 +257,7 @@ Límite de Funciones
 
 <div class="modulo3 1">
 <p class="video" moduloid="3 1" onclick="colapsID('iXHYPUiJKa4');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicio usando definición formal de límite</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicio usando definición formal de límite</p>
 <div id="iXHYPUiJKa4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/iXHYPUiJKa4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -267,7 +267,7 @@ Límite de Funciones
 
 <div class="modulo3 1">
 <p class="video" moduloid="3 1" onclick="colapsID('aTumd9tndDQ');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicios de expresiones algebraicas, casos al infinito</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicios de expresiones algebraicas, casos al infinito</p>
 <div id="aTumd9tndDQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/aTumd9tndDQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -277,7 +277,7 @@ Límite de Funciones
 
 <div class="modulo3 1">
 <p class="video" moduloid="3 1" onclick="colapsID('gdHCyEpBFnQ');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicios de expresiones algebraicas, casos al un punto</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicios de expresiones algebraicas, casos al un punto</p>
 <div id="gdHCyEpBFnQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/gdHCyEpBFnQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -287,7 +287,7 @@ Límite de Funciones
 
 <div class="modulo3 1">
 <p class="video" moduloid="3 1" onclick="colapsID('6P30wS7A6V0');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicio 1 de límites exponenciales</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicio 1 de límites exponenciales</p>
 <div id="6P30wS7A6V0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/6P30wS7A6V0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -297,7 +297,7 @@ Límite de Funciones
 
 <div class="modulo3 1">
 <p class="video" moduloid="3 1" onclick="colapsID('DptJF4Qa3rs');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicio 2 de límites exponenciales</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Ejercicio 2 de límites exponenciales</p>
 <div id="DptJF4Qa3rs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/DptJF4Qa3rs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -316,7 +316,7 @@ Límite de Funciones
 
 <div class="modulo3 2">
 <p class="video" moduloid="3 2" onclick="colapsID('eB8PoFObSLg');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Límites laterales, concepto</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Límites laterales, concepto</p>
 <div id="eB8PoFObSLg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/eB8PoFObSLg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -326,7 +326,7 @@ Límite de Funciones
 
 <div class="modulo3 2">
 <p class="video" moduloid="3 2" onclick="colapsID('N0Gwr2Ko32w');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Límites laterales, ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Límites laterales, ejercicio 1</p>
 <div id="N0Gwr2Ko32w" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/N0Gwr2Ko32w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -336,7 +336,7 @@ Límite de Funciones
 
 <div class="modulo3 2">
 <p class="video" moduloid="3 2" onclick="colapsID('SuEQZ9-9ykQ');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Gráficas y Asíntotas</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Límites - Gráficas y Asíntotas</p>
 <div id="SuEQZ9-9ykQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/SuEQZ9-9ykQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -355,7 +355,7 @@ Límite de Funciones
 
 <div class="modulo3 3">
 <p class="video" moduloid="3 3" onclick="colapsID('5up4MqOhv84');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Continuidad - concepto</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Continuidad - concepto</p>
 <div id="5up4MqOhv84" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5up4MqOhv84?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -365,7 +365,7 @@ Límite de Funciones
 
 <div class="modulo3 3">
 <p class="video" moduloid="3 3" onclick="colapsID('L6i0bfZmvqU');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Continuidad - ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Continuidad - ejercicio 1</p>
 <div id="L6i0bfZmvqU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/L6i0bfZmvqU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -492,7 +492,7 @@ Aplicaciones de la derivada
 
 <div class="modulo5 2">
 <p class="video" moduloid="5 2" onclick="colapsID('GDNWQmQ4ecI');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Razón de cambio - Teoría</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Razón de cambio - Teoría</p>
 <div id="GDNWQmQ4ecI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/GDNWQmQ4ecI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -502,7 +502,7 @@ Aplicaciones de la derivada
 
 <div class="modulo5 2">
 <p class="video" moduloid="5 2" onclick="colapsID('ozi63YBP0I0');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Razón de cambio - Ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Razón de cambio - Ejercicio 1</p>
 <div id="ozi63YBP0I0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/ozi63YBP0I0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -512,7 +512,7 @@ Aplicaciones de la derivada
 
 <div class="modulo5 2">
 <p class="video" moduloid="5 2" onclick="colapsID('YFFG5KNYGGw');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Razón de cambio - Ejercicio 5</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Razón de cambio - Ejercicio 5</p>
 <div id="YFFG5KNYGGw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/YFFG5KNYGGw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -558,7 +558,7 @@ Antiderivadas
 
 <div class="modulo6 2">
 <p class="video" moduloid="6 2" onclick="colapsID('7DqACYJIxTk');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por método de sustitución</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por método de sustitución</p>
 <div id="7DqACYJIxTk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/7DqACYJIxTk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -586,7 +586,7 @@ Antiderivadas
 
 <div class="modulo6 4">
 <p class="video" moduloid="6 4" onclick="colapsID('RWPgijt1rVM');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />integración por sustitución trigonométrica - Ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />integración por sustitución trigonométrica - Ejercicio 1</p>
 <div id="RWPgijt1rVM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/RWPgijt1rVM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -596,7 +596,7 @@ Antiderivadas
 
 <div class="modulo6 4">
 <p class="video" moduloid="6 4" onclick="colapsID('lFOTATY3uIg');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />integración por sustitución trigonométrica - Ejercicio 2</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />integración por sustitución trigonométrica - Ejercicio 2</p>
 <div id="lFOTATY3uIg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/lFOTATY3uIg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -615,7 +615,7 @@ Antiderivadas
 
 <div class="modulo6 5">
 <p class="video" moduloid="6 5" onclick="colapsID('hx4hklSg8dk');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes</p>
 <div id="hx4hklSg8dk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/hx4hklSg8dk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -625,7 +625,7 @@ Antiderivadas
 
 <div class="modulo6 5">
 <p class="video" moduloid="6 5" onclick="colapsID('W58sZ6RgsGk');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Teoría</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Teoría</p>
 <div id="W58sZ6RgsGk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/W58sZ6RgsGk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -635,7 +635,7 @@ Antiderivadas
 
 <div class="modulo6 5">
 <p class="video" moduloid="6 5" onclick="colapsID('pvv9v8481cI');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Formulas de Reducción</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Formulas de Reducción</p>
 <div id="pvv9v8481cI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/pvv9v8481cI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -645,7 +645,7 @@ Antiderivadas
 
 <div class="modulo6 5">
 <p class="video" moduloid="6 5" onclick="colapsID('_T0GjUCt0hs');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicio 1</p>
 <div id="_T0GjUCt0hs" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/_T0GjUCt0hs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -655,7 +655,7 @@ Antiderivadas
 
 <div class="modulo6 5">
 <p class="video" moduloid="6 5" onclick="colapsID('5B1UlnMskAI');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicio 3</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicio 3</p>
 <div id="5B1UlnMskAI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5B1UlnMskAI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -665,7 +665,7 @@ Antiderivadas
 
 <div class="modulo6 5">
 <p class="video" moduloid="6 5" onclick="colapsID('7vqIok-Aahk');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicio 4</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicio 4</p>
 <div id="7vqIok-Aahk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/7vqIok-Aahk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -675,7 +675,7 @@ Antiderivadas
 
 <div class="modulo6 5">
 <p class="video" moduloid="6 5" onclick="colapsID('BriqqkrK2dc');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicio 5</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicio 5</p>
 <div id="BriqqkrK2dc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/BriqqkrK2dc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -685,7 +685,7 @@ Antiderivadas
 
 <div class="modulo6 5">
 <p class="video" moduloid="6 5" onclick="colapsID('tarTGG6YFCA');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicios</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por partes - Ejercicios</p>
 <div id="tarTGG6YFCA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/tarTGG6YFCA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -704,7 +704,7 @@ Antiderivadas
 
 <div class="modulo6 6">
 <p class="video" moduloid="6 6" onclick="colapsID('XiqGH-odk4I');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Teoría</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Teoría</p>
 <div id="XiqGH-odk4I" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/XiqGH-odk4I?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -714,7 +714,7 @@ Antiderivadas
 
 <div class="modulo6 6">
 <p class="video" moduloid="6 6" onclick="colapsID('09Mn48P0Nc0');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Ejercicio 1</p>
 <div id="09Mn48P0Nc0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/09Mn48P0Nc0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -724,7 +724,7 @@ Antiderivadas
 
 <div class="modulo6 6">
 <p class="video" moduloid="6 6" onclick="colapsID('5qO7R-3475k');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Ejercicio 2</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Ejercicio 2</p>
 <div id="5qO7R-3475k" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/5qO7R-3475k?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -734,7 +734,7 @@ Antiderivadas
 
 <div class="modulo6 6">
 <p class="video" moduloid="6 6" onclick="colapsID('sSnwk2YQ9IM');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Ejercicio 3</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Ejercicio 3</p>
 <div id="sSnwk2YQ9IM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/sSnwk2YQ9IM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -744,7 +744,7 @@ Antiderivadas
 
 <div class="modulo6 6">
 <p class="video" moduloid="6 6" onclick="colapsID('sUKAeTDKB9U');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Ejercicio 4</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Integración por fracciones parciales - Ejercicio 4</p>
 <div id="sUKAeTDKB9U" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/sUKAeTDKB9U?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>

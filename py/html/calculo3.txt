@@ -17,7 +17,7 @@ Series de Fourier
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('_WQB_mM92pU');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Definición y convergencia</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Definición y convergencia</p>
 <div id="_WQB_mM92pU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/_WQB_mM92pU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -27,7 +27,7 @@ Series de Fourier
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('rAAA5QxeCi8');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Extensiones Par e Impar</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Extensiones Par e Impar</p>
 <div id="rAAA5QxeCi8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/rAAA5QxeCi8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -37,7 +37,7 @@ Series de Fourier
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('NI3YfXjKrxA');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 1</p>
 <div id="NI3YfXjKrxA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/NI3YfXjKrxA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -47,7 +47,7 @@ Series de Fourier
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('bOugXeLnHiY');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 2a</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 2a</p>
 <div id="bOugXeLnHiY" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/bOugXeLnHiY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -57,7 +57,7 @@ Series de Fourier
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('bSM0py4hwZ8');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 2b</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 2b</p>
 <div id="bSM0py4hwZ8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/bSM0py4hwZ8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -67,7 +67,7 @@ Series de Fourier
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('3bW-7uWGQFE');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 3</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 3</p>
 <div id="3bW-7uWGQFE" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/3bW-7uWGQFE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -77,7 +77,7 @@ Series de Fourier
 
 <div class="modulo1 1">
 <p class="video" moduloid="1 1" onclick="colapsID('rfVUSMsyDYM');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 4</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Fourier - Ejercicio 4</p>
 <div id="rfVUSMsyDYM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/rfVUSMsyDYM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -114,7 +114,7 @@ Funciones Vectoriales de Variable Real
 
 <div class="modulo2 1">
 <p class="video" moduloid="2 1" onclick="colapsID('XyiP2uL68qw');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Conceptos</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Conceptos</p>
 <div id="XyiP2uL68qw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/XyiP2uL68qw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -124,7 +124,7 @@ Funciones Vectoriales de Variable Real
 
 <div class="modulo2 1">
 <p class="video" moduloid="2 1" onclick="colapsID('jjsnyByROUk');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Ejercicio 1</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Ejercicio 1</p>
 <div id="jjsnyByROUk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/jjsnyByROUk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -134,7 +134,7 @@ Funciones Vectoriales de Variable Real
 
 <div class="modulo2 1">
 <p class="video" moduloid="2 1" onclick="colapsID('c5xP7r-fEtU');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Ejercicio 2</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Ejercicio 2</p>
 <div id="c5xP7r-fEtU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/c5xP7r-fEtU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -144,7 +144,7 @@ Funciones Vectoriales de Variable Real
 
 <div class="modulo2 1">
 <p class="video" moduloid="2 1" onclick="colapsID('uLThconGRB4');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Parámetro longitud de arco</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Parámetro longitud de arco</p>
 <div id="uLThconGRB4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/uLThconGRB4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>
@@ -163,7 +163,7 @@ Funciones Vectoriales de Variable Real
 
 <div class="modulo2 2">
 <p class="video" moduloid="2 2" onclick="colapsID('40aL1KBVBaw');">
-<strong><img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Curvas</strong></p>
+<img src="https://raw.githubusercontent.com/pabloUlloa/proyectofuturo/master/img/video.png" style="vertical-align:middle;padding-left:50px;padding-right:20px;" />Funciones Vectoriales - Curvas</p>
 <div id="40aL1KBVBaw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/40aL1KBVBaw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
 </center></div>

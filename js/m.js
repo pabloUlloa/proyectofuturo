@@ -47,7 +47,7 @@ function crearClases(){
 			opacity: 0.7;\
 			filter: Alpha(opacity=70); /* IE8 and earlier */\
 		}\
-		.modulo{\
+		.modulo, .video{\
 			text-align: justify;\
 			font-size: 18px;\
 			font-family: tizaCursiva;\
@@ -58,15 +58,7 @@ function crearClases(){
 			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
 		.video{\
-			font-size: 18px;\
-			text-align: justify;\
-			font-family: tizaCursiva;\
-			cursor: pointer;\
-			background:url(https://rawgit.com/pabloUlloa/proyectofuturo/master/img/orange.png) no-repeat;\
 			background-position: -30px 50%\
-			background-size:90%\
-			opacity: 0.8;\
-			filter: Alpha(opacity=80); /* IE8 and earlier */\
 		}\
 		.modulo:hover, .video:hover, .boton:hover{\
 			opacity: 1;\
