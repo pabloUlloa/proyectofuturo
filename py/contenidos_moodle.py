@@ -38,6 +38,9 @@ def saveJson(ruta,Json):
 def cls():
     os.system('cls')
 
+def git(args):
+    os.system("git "+args)
+
 def banner():
     cls()
     print "\n"+"="*43+"\n===\t\tProyecto Futuro\t\t===\n"+"="*43+"\n\n\n"
@@ -51,6 +54,9 @@ def inp(s):
         menu()
     elif r.upper()=="GENERAR":
         generar()
+    elif r[0:3]=="git":
+        git(r[4:])
+        menu()
     return r
 
 def eligeRamo():
@@ -305,7 +311,7 @@ def generar():
             for mid in u[u'toggleId']:
                 colapses+=u"colapsID('"+mid.encode("utf-8")+u"');\n"
             i+=1
-        out=out+u"\n<script>\n"+colapses+"</script>"
+        out=out+u"#"*77+u"\n\n<script>\n"+colapses+"</script>"
         with codecs.open("html/"+ruta.split("/")[1].split(".")[0]+".txt",'w',encoding='utf-8') as f:
             f.write(out)
             f.close()
