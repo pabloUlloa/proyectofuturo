@@ -38,8 +38,11 @@ def saveJson(ruta,Json):
 def cls():
     os.system('cls')
 
-def git(args):
-    os.system("git "+args)
+def sync():
+    os.system("git pull")
+    os.system("git add .")
+    os.system("git commit -m \"commit autogenerado id "+str(randint(1,100000))+"\"")
+    os.system("git push")
 
 def banner():
     cls()
@@ -54,8 +57,8 @@ def inp(s):
         menu()
     elif r.upper()=="GENERAR":
         generar()
-    elif r[0:3]=="git":
-        git(r[4:])
+    elif r.upper()=="SYNC":
+        sync()
         menu()
     return r
 
