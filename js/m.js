@@ -52,12 +52,13 @@ function crearClases(){
 			filter: Alpha(opacity=70); /* IE8 and earlier */\
 		}\
 		.modulo span, .video span{\
-			font-size: 16px;\
-			font-family: tizaCursiva;\
-			cursor: pointer;\
 			height: 30px;\
 			position: absolute;\
 			margin-top: 10px;\
+		}\
+		.video span{\
+			font-size: 16px;\
+			font-family: tizaCursiva;\
 		}\
 		.unidad{\
 			height: 110px;\
@@ -97,6 +98,7 @@ function crearClases(){
 			font-size:24px;\
 		}\
 		.numeroModulo{\
+			font-family:tizaCursiva;\
 			margin-left:15px;\
 		}\
 	");

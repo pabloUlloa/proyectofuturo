@@ -3,7 +3,7 @@
     "unidades":[
         {
             "nombre":"Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería",
-            "carpetaId":"module-104821",
+            "toggleId":["module-104821"],
             "modulos":[
                 {
                     "nombre":"Introducción a las Ecuaciones Diferenciales",
@@ -49,7 +49,7 @@
         },
         {
             "nombre":"Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería",
-            "carpetaId":"module-104822",
+            "toggleId":["module-104822"],
             "modulos":[
                 {
                     "nombre":"Ecuaciones lineales de Segundo Orden",
@@ -79,7 +79,7 @@
         },
         {
             "nombre":"Soluciones de Ecuaciones Diferenciales por series de Potencia",
-            "carpetaId":"module-104824",
+            "toggleId":["module-104824"],
             "modulos":[
                 {
                     "nombre":"Solución en torno a puntos ordinarios",
@@ -97,7 +97,7 @@
         },
         {
             "nombre":"Transformada de Laplace y Aplicaciones de Ingeniería",
-            "carpetaId":"module-104825",
+            "toggleId":["module-104825"],
             "modulos":[
                 {
                     "nombre":"Definición y propiedades de la Transformada de Laplace",
@@ -121,7 +121,7 @@
         },
         {
             "nombre":"Soluciones de Ecuaciones en derivadas Parciales y aplicaciones",
-            "carpetaId":"module-104826",
+            "toggleId":["module-104826"],
             "modulos":[
                 {
                     "nombre":"Introducción",

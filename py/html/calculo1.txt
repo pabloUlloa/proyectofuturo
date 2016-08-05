@@ -2,15 +2,15 @@
 Los Números Reales
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 0: Los Números Reales</span></p>
+<p class="unidad" onclick="colapsID('module-104642');colapsID('module-111413');colapsID('module-110230');colapsID('module-104401');colapsID('module-104402');colapsID('module-104403');" style="cursor:pointer;"><span>Unidad 0: Los Números Reales</span></p>
 
 
 -----------------------------------------------------------------------------
 	Axiomas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Axiomas</span>
+<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Axiomas</span>
 </p>
 
 
@@ -45,13 +45,13 @@ Los Números Reales
 	Valor Absoluto
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Valor Absoluto</span>
+<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Valor Absoluto</span>
 </p>
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7881');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9550');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -60,8 +60,8 @@ Los Números Reales
 	Desigualdades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Desigualdades</span>
+<p class="modulo" onclick="colapsarClase('modulo1 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Desigualdades</span>
 </p>
 
 
@@ -105,13 +105,13 @@ Los Números Reales
 	Axioma del supremo
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Axioma del supremo</span>
+<p class="modulo" onclick="colapsarClase('modulo1 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Axioma del supremo</span>
 </p>
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3559');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9376');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -122,15 +122,15 @@ Los Números Reales
 Funciones de Variable Real
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Funciones de Variable Real</span></p>
+<p class="unidad" onclick="colapsID('module-104643');colapsID('module-111415');colapsID('module-104405');colapsID('module-111227');colapsID('module-104408');colapsID('module-111383');" style="cursor:pointer;"><span>Unidad 1: Funciones de Variable Real</span></p>
 
 
 -----------------------------------------------------------------------------
 	Estudio algebraico y estudio gráfico
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Estudio algebraico y estudio gráfico</span>
+<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Estudio algebraico y estudio gráfico</span>
 </p>
 
 
@@ -174,8 +174,8 @@ Funciones de Variable Real
 	El caso de las funciones trigonométricas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">El caso de las funciones trigonométricas</span>
+<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">El caso de las funciones trigonométricas</span>
 </p>
 
 
@@ -210,13 +210,13 @@ Funciones de Variable Real
 	Aplicaciones de la trigonometría
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Aplicaciones de la trigonometría</span>
+<p class="modulo" onclick="colapsarClase('modulo2 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Aplicaciones de la trigonometría</span>
 </p>
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9857');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3967');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -225,13 +225,13 @@ Funciones de Variable Real
 	El caso de las funciones logaritmo y exponencial
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">El caso de las funciones logaritmo y exponencial</span>
+<p class="modulo" onclick="colapsarClase('modulo2 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">El caso de las funciones logaritmo y exponencial</span>
 </p>
 
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6058');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9145');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -242,15 +242,15 @@ Funciones de Variable Real
 Límite de Funciones
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Límite de Funciones</span></p>
+<p class="unidad" onclick="colapsID('module-104644');colapsID('module-111416');colapsID('module-111385');colapsID('module-111386');colapsID('module-111387');colapsID('module-111388');" style="cursor:pointer;"><span>Unidad 2: Límite de Funciones</span></p>
 
 
 -----------------------------------------------------------------------------
 	El concepto y su operatoria
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">El concepto y su operatoria</span>
+<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">El concepto y su operatoria</span>
 </p>
 
 
@@ -312,8 +312,8 @@ Límite de Funciones
 	Límites laterales y asintotas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Límites laterales y asintotas</span>
+<p class="modulo" onclick="colapsarClase('modulo3 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Límites laterales y asintotas</span>
 </p>
 
 
@@ -348,8 +348,8 @@ Límite de Funciones
 	Continuidad de funciones algebraicas y trigonométricas
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Continuidad de funciones algebraicas y trigonométricas</span>
+<p class="modulo" onclick="colapsarClase('modulo3 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Continuidad de funciones algebraicas y trigonométricas</span>
 </p>
 
 
@@ -375,13 +375,13 @@ Límite de Funciones
 	Continuidad de la inversa y TVI
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Continuidad de la inversa y TVI</span>
+<p class="modulo" onclick="colapsarClase('modulo3 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Continuidad de la inversa y TVI</span>
 </p>
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9707');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6660');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -392,20 +392,20 @@ Límite de Funciones
 Derivada
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Derivada</span></p>
+<p class="unidad" onclick="colapsID('module-104645');colapsID('module-111417');colapsID('module-111390');colapsID('module-111391');colapsID('module-111392');colapsID('module-111393');colapsID('module-111394');colapsID('module-111395');colapsID('module-111396');colapsID('module-111397');" style="cursor:pointer;"><span>Unidad 3: Derivada</span></p>
 
 
 -----------------------------------------------------------------------------
 	Definición, operatoria y derivadas "comunes"
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definición, operatoria y derivadas "comunes"</span>
+<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Definición, operatoria y derivadas "comunes"</span>
 </p>
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8783');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4482');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -414,13 +414,13 @@ Derivada
 	Regla de la cadena
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Regla de la cadena</span>
+<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Regla de la cadena</span>
 </p>
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2208');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8874');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -429,13 +429,13 @@ Derivada
 	Derivada implícita
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivada implícita</span>
+<p class="modulo" onclick="colapsarClase('modulo4 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Derivada implícita</span>
 </p>
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('494');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9129');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -444,13 +444,13 @@ Derivada
 	Derivada de orden superior
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivada de orden superior</span>
+<p class="modulo" onclick="colapsarClase('modulo4 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Derivada de orden superior</span>
 </p>
 
 
 <div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4350');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8145');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -459,28 +459,28 @@ Derivada
 	Continuidad y criterios de extremos locales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 5')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Continuidad y criterios de extremos locales</span>
+<p class="modulo" onclick="colapsarClase('modulo4 5')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Continuidad y criterios de extremos locales</span>
 </p>
 
 
 <div class="modulo4 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1504');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2411');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)
+	Teorema de Rolle, Valor medio, L'Hopital
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 6')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)</span>
+<p class="modulo" onclick="colapsarClase('modulo4 6')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Teorema de Rolle, Valor medio, L'Hopital</span>
 </p>
 
 
 <div class="modulo4 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2570');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6160');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -489,13 +489,13 @@ Derivada
 	Revisita al cálculo de límites, Regla de L'Hopital
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 7')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Revisita al cálculo de límites, Regla de L'Hopital</span>
+<p class="modulo" onclick="colapsarClase('modulo4 7')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 7: </span><span class="nombreModulo">Revisita al cálculo de límites, Regla de L'Hopital</span>
 </p>
 
 
 <div class="modulo4 7" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8379');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4365');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -504,13 +504,13 @@ Derivada
 	Estudio gráfico de funciones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 8')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 8: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Estudio gráfico de funciones</span>
+<p class="modulo" onclick="colapsarClase('modulo4 8')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 8: </span><span class="nombreModulo">Estudio gráfico de funciones</span>
 </p>
 
 
 <div class="modulo4 8" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8720');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3433');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -521,20 +521,20 @@ Derivada
 Aplicaciones de la derivada
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Aplicaciones de la derivada</span></p>
+<p class="unidad" onclick="colapsID('module-104646');colapsID('module-111418');colapsID('module-111399');colapsID('module-111400');colapsID('module-111401');" style="cursor:pointer;"><span>Unidad 4: Aplicaciones de la derivada</span></p>
 
 
 -----------------------------------------------------------------------------
 	Optimización
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Optimización</span>
+<p class="modulo" onclick="colapsarClase('modulo5 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Optimización</span>
 </p>
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('85');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5297');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -543,8 +543,8 @@ Aplicaciones de la derivada
 	Razón de cambio
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Razón de cambio</span>
+<p class="modulo" onclick="colapsarClase('modulo5 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Razón de cambio</span>
 </p>
 
 
@@ -579,13 +579,13 @@ Aplicaciones de la derivada
 	Ecuaciones paramétricas en el plano
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Ecuaciones paramétricas en el plano</span>
+<p class="modulo" onclick="colapsarClase('modulo5 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Ecuaciones paramétricas en el plano</span>
 </p>
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9127');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2243');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -596,30 +596,30 @@ Aplicaciones de la derivada
 Antiderivadas
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 5: Antiderivadas</span></p>
+<p class="unidad" onclick="colapsID('module-104647');colapsID('module-111419');colapsID('module-111403');colapsID('module-111404');colapsID('module-111405');colapsID('module-111406');colapsID('module-111407');colapsID('module-111408');" style="cursor:pointer;"><span>Unidad 5: Antiderivadas</span></p>
 
 
 -----------------------------------------------------------------------------
 	El concepto y principales ejemplos
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo6 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">El concepto y principales ejemplos</span>
+<p class="modulo" onclick="colapsarClase('modulo6 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">El concepto y principales ejemplos</span>
 </p>
 
 
 <div class="modulo6 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2361');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7899');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Método de integración por sustitución simple
+	Sustitución simple
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo6 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por sustitución simple</span>
+<p class="modulo" onclick="colapsarClase('modulo6 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Sustitución simple</span>
 </p>
 
 
@@ -633,26 +633,26 @@ Antiderivadas
 </div>
 
 -----------------------------------------------------------------------------
-	Método de integración por sustitución trigonométrica
+	Sustitución trigonométrica
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo6 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por sustitución trigonométrica</span>
+<p class="modulo" onclick="colapsarClase('modulo6 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Sustitución trigonométrica</span>
 </p>
 
 
 <div class="modulo6 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8475');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2895');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Método de integración por sustitución trigonométrica de funciones racionales
+	Sustitución trigonométrica de funciones racionales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo6 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por sustitución trigonométrica de funciones racionales</span>
+<p class="modulo" onclick="colapsarClase('modulo6 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Sustitución trigonométrica de funciones racionales</span>
 </p>
 
 
@@ -675,11 +675,11 @@ Antiderivadas
 </div>
 
 -----------------------------------------------------------------------------
-	Método de integración por partes
+	Integración por partes
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo6 5')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por partes</span>
+<p class="modulo" onclick="colapsarClase('modulo6 5')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Integración por partes</span>
 </p>
 
 
@@ -756,11 +756,11 @@ Antiderivadas
 </div>
 
 -----------------------------------------------------------------------------
-	Método de integración por fracciones parciales
+	Integración por fracciones parciales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo6 6')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Método de integración por fracciones parciales</span>
+<p class="modulo" onclick="colapsarClase('modulo6 6')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Integración por fracciones parciales</span>
 </p>
 
 
@@ -811,3 +811,47 @@ Antiderivadas
 
 
 
+
+<script>
+colapsID('module-104642');
+colapsID('module-111413');
+colapsID('module-110230');
+colapsID('module-104401');
+colapsID('module-104402');
+colapsID('module-104403');
+colapsID('module-104643');
+colapsID('module-111415');
+colapsID('module-104405');
+colapsID('module-111227');
+colapsID('module-104408');
+colapsID('module-111383');
+colapsID('module-104644');
+colapsID('module-111416');
+colapsID('module-111385');
+colapsID('module-111386');
+colapsID('module-111387');
+colapsID('module-111388');
+colapsID('module-104645');
+colapsID('module-111417');
+colapsID('module-111390');
+colapsID('module-111391');
+colapsID('module-111392');
+colapsID('module-111393');
+colapsID('module-111394');
+colapsID('module-111395');
+colapsID('module-111396');
+colapsID('module-111397');
+colapsID('module-104646');
+colapsID('module-111418');
+colapsID('module-111399');
+colapsID('module-111400');
+colapsID('module-111401');
+colapsID('module-104647');
+colapsID('module-111419');
+colapsID('module-111403');
+colapsID('module-111404');
+colapsID('module-111405');
+colapsID('module-111406');
+colapsID('module-111407');
+colapsID('module-111408');
+</script>

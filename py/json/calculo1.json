@@ -3,7 +3,14 @@
     "unidades":[
         {
             "nombre":"Los Números Reales",
-            "carpetaId":"module-104642",
+            "toggleId":[
+                "module-104642",
+                "module-111413",
+                "module-110230",
+                "module-104401",
+                "module-104402",
+                "module-104403"
+            ],
             "modulos":[
                 {
                     "nombre":"Axiomas",
@@ -59,7 +66,14 @@
         },
         {
             "nombre":"Funciones de Variable Real",
-            "carpetaId":"module-104643",
+            "toggleId":[
+                "module-104643",
+                "module-111415",
+                "module-104405",
+                "module-111227",
+                "module-104408",
+                "module-111383"
+            ],
             "modulos":[
                 {
                     "nombre":"Estudio algebraico y estudio gráfico",
@@ -115,7 +129,14 @@
         },
         {
             "nombre":"Límite de Funciones",
-            "carpetaId":"module-104644",
+            "toggleId":[
+                "module-104644",
+                "module-111416",
+                "module-111385",
+                "module-111386",
+                "module-111387",
+                "module-111388"
+            ],
             "modulos":[
                 {
                     "nombre":"El concepto y su operatoria",
@@ -186,7 +207,18 @@
         },
         {
             "nombre":"Derivada",
-            "carpetaId":"module-104645",
+            "toggleId":[
+                "module-104645",
+                "module-111417",
+                "module-111390",
+                "module-111391",
+                "module-111392",
+                "module-111393",
+                "module-111394",
+                "module-111395",
+                "module-111396",
+                "module-111397"
+            ],
             "modulos":[
                 {
                     "nombre":"Definición, operatoria y derivadas \"comunes\"",
@@ -219,7 +251,7 @@
                     ]
                 },
                 {
-                    "nombre":"Teorema de Rolle, Valor medio, Valor medio generalizado (L'Hopital)",
+                    "nombre":"Teorema de Rolle, Valor medio, L'Hopital",
                     "videos":[
 
                     ]
@@ -240,7 +272,13 @@
         },
         {
             "nombre":"Aplicaciones de la derivada",
-            "carpetaId":"module-104646",
+            "toggleId":[
+                "module-104646",
+                "module-111418",
+                "module-111399",
+                "module-111400",
+                "module-111401"
+            ],
             "modulos":[
                 {
                     "nombre":"Optimización",
@@ -275,7 +313,16 @@
         },
         {
             "nombre":"Antiderivadas",
-            "carpetaId":"module-104647",
+            "toggleId":[
+                "module-104647",
+                "module-111419",
+                "module-111403",
+                "module-111404",
+                "module-111405",
+                "module-111406",
+                "module-111407",
+                "module-111408"
+            ],
             "modulos":[
                 {
                     "nombre":"El concepto y principales ejemplos",
@@ -284,7 +331,7 @@
                     ]
                 },
                 {
-                    "nombre":"Integración por sustitución simple",
+                    "nombre":"Sustitución simple",
                     "videos":[
                         {
                             "nombre":"Integración por método de sustitución",
@@ -293,13 +340,13 @@
                     ]
                 },
                 {
-                    "nombre":"Integración por sustitución trigonométrica",
+                    "nombre":"Sustitución trigonométrica",
                     "videos":[
 
                     ]
                 },
                 {
-                    "nombre":"Integración por sustitución trigonométrica de funciones racionales",
+                    "nombre":"Sustitución trigonométrica de funciones racionales",
                     "videos":[
                         {
                             "nombre":"Ejercicio 1",

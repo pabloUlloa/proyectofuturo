@@ -3,7 +3,7 @@
     "unidades":[
         {
             "nombre":"Integral de Riemann y Aplicaciones de la Integral",
-            "carpetaId":"module-104649",
+            "toggleId":["module-104649"],
             "modulos":[
                 {
                     "nombre":"Sumas e integral de Riemann, propiedades",
@@ -33,7 +33,7 @@
         },
         {
             "nombre":"Aplicaciones Geométricas de la Integral",
-            "carpetaId":"module-104650",
+            "toggleId":["module-104650"],
             "modulos":[
                 {
                     "nombre":"Ecuaciones Paramétricas y aplicaciones",
@@ -51,7 +51,7 @@
         },
         {
             "nombre":"Integral Impropia y Series",
-            "carpetaId":"module-104651",
+            "toggleId":["module-104651"],
             "modulos":[
                 {
                     "nombre":"Integrales impropias de primera especie",
@@ -93,7 +93,7 @@
         },
         {
             "nombre":"Curvas en el plano y el espacio",
-            "carpetaId":"module-104652",
+            "toggleId":["module-104652"],
             "modulos":[
                 {
                     "nombre":"Curvas en \\(\\mathbb{R}^2\\) y en \\(\\mathbb{R}^3\\)",

@@ -2,20 +2,20 @@
 Elementos de Lógica Matemática
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 0: Elementos de Lógica Matemática</span></p>
+<p class="unidad" onclick="colapsID('module-104806');" style="cursor:pointer;"><span>Unidad 0: Elementos de Lógica Matemática</span></p>
 
 
 -----------------------------------------------------------------------------
 	Proposiciones, conectivos, tablas de verdad
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Proposiciones, conectivos, tablas de verdad</span>
+<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Proposiciones, conectivos, tablas de verdad</span>
 </p>
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9451');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2649');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -24,13 +24,13 @@ Elementos de Lógica Matemática
 	Reglas de inferencia
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Reglas de inferencia</span>
+<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Reglas de inferencia</span>
 </p>
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('282');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8948');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -39,13 +39,13 @@ Elementos de Lógica Matemática
 	Cuantificadores, Leyes de cuantificación
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Cuantificadores, Leyes de cuantificación</span>
+<p class="modulo" onclick="colapsarClase('modulo1 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Cuantificadores, Leyes de cuantificación</span>
 </p>
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1168');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1107');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -56,15 +56,15 @@ Elementos de Lógica Matemática
 Inducción y Sumatoria
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Inducción y Sumatoria</span></p>
+<p class="unidad" onclick="colapsID('module-104807');" style="cursor:pointer;"><span>Unidad 1: Inducción y Sumatoria</span></p>
 
 
 -----------------------------------------------------------------------------
 	Primer y segundo teorema de inducción
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Primer y segundo teorema de inducción</span>
+<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Primer y segundo teorema de inducción</span>
 </p>
 
 
@@ -108,8 +108,8 @@ Inducción y Sumatoria
 	Sumatoria simple, propiedades y sumas importantes
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Sumatoria simple, propiedades y sumas importantes</span>
+<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Sumatoria simple, propiedades y sumas importantes</span>
 </p>
 
 
@@ -153,13 +153,13 @@ Inducción y Sumatoria
 	Sumatoria doble y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Sumatoria doble y propiedades</span>
+<p class="modulo" onclick="colapsarClase('modulo2 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Sumatoria doble y propiedades</span>
 </p>
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1764');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3398');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -170,15 +170,15 @@ Inducción y Sumatoria
 Progresiones y Análisis combinatorio
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Progresiones y Análisis combinatorio</span></p>
+<p class="unidad" onclick="colapsID('module-104808');" style="cursor:pointer;"><span>Unidad 2: Progresiones y Análisis combinatorio</span></p>
 
 
 -----------------------------------------------------------------------------
 	Progresiones Aritmética, Geométrica y Armónica, propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Progresiones Aritmética, Geométrica y Armónica, propiedades</span>
+<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Progresiones Aritmética, Geométrica y Armónica, propiedades</span>
 </p>
 
 
@@ -249,13 +249,13 @@ Progresiones y Análisis combinatorio
 	Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades</span>
+<p class="modulo" onclick="colapsarClase('modulo3 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades</span>
 </p>
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('566');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('232');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -264,8 +264,8 @@ Progresiones y Análisis combinatorio
 	Teorema del Binomio y sus propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Teorema del Binomio y sus propiedades</span>
+<p class="modulo" onclick="colapsarClase('modulo3 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Teorema del Binomio y sus propiedades</span>
 </p>
 
 
@@ -320,15 +320,15 @@ Progresiones y Análisis combinatorio
 Relaciones
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Relaciones</span></p>
+<p class="unidad" onclick="colapsID('module-104809');" style="cursor:pointer;"><span>Unidad 3: Relaciones</span></p>
 
 
 -----------------------------------------------------------------------------
 	Dominio, recorrido, inversa, composición de relaciones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Dominio, recorrido, inversa, composición de relaciones</span>
+<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Dominio, recorrido, inversa, composición de relaciones</span>
 </p>
 
 
@@ -363,8 +363,8 @@ Relaciones
 	Relación de equivalencia, orden, congruencia, Zn
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Relación de equivalencia, orden, congruencia, Zn</span>
+<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Relación de equivalencia, orden, congruencia, Zn</span>
 </p>
 
 
@@ -410,20 +410,20 @@ Relaciones
 Geometría Analitica
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Geometría Analitica</span></p>
+<p class="unidad" onclick="colapsID('module-104810');" style="cursor:pointer;"><span>Unidad 4: Geometría Analitica</span></p>
 
 
 -----------------------------------------------------------------------------
 	Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta</span>
+<p class="modulo" onclick="colapsarClase('modulo5 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta</span>
 </p>
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6324');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('473');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -432,13 +432,13 @@ Geometría Analitica
 	Definición de la Línea Recta y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definición de la Línea Recta y sus diversas expresiones</span>
+<p class="modulo" onclick="colapsarClase('modulo5 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Definición de la Línea Recta y sus diversas expresiones</span>
 </p>
 
 
 <div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4035');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6499');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -447,13 +447,13 @@ Geometría Analitica
 	Definición de la Circunferencia y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definición de la Circunferencia y sus diversas expresiones</span>
+<p class="modulo" onclick="colapsarClase('modulo5 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Definición de la Circunferencia y sus diversas expresiones</span>
 </p>
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6525');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2062');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -462,13 +462,13 @@ Geometría Analitica
 	Definición de la Parábola y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definición de la Parábola y sus diversas expresiones</span>
+<p class="modulo" onclick="colapsarClase('modulo5 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Definición de la Parábola y sus diversas expresiones</span>
 </p>
 
 
 <div class="modulo5 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1937');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3477');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -477,8 +477,8 @@ Geometría Analitica
 	Definición de la Elipse y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 5')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definición de la Elipse y sus diversas expresiones</span>
+<p class="modulo" onclick="colapsarClase('modulo5 5')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Definición de la Elipse y sus diversas expresiones</span>
 </p>
 
 
@@ -495,8 +495,8 @@ Geometría Analitica
 	Definición de la Hipérbola y sus diversas expresiones
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 6')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definición de la Hipérbola y sus diversas expresiones</span>
+<p class="modulo" onclick="colapsarClase('modulo5 6')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Definición de la Hipérbola y sus diversas expresiones</span>
 </p>
 
 
@@ -515,20 +515,20 @@ Geometría Analitica
 Grupos, Anillos y Homomorfismos
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 5: Grupos, Anillos y Homomorfismos</span></p>
+<p class="unidad" onclick="colapsID('module-104811');" style="cursor:pointer;"><span>Unidad 5: Grupos, Anillos y Homomorfismos</span></p>
 
 
 -----------------------------------------------------------------------------
 	Definición de Grupos y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo6 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definición de Grupos y propiedades</span>
+<p class="modulo" onclick="colapsarClase('modulo6 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Definición de Grupos y propiedades</span>
 </p>
 
 
 <div class="modulo6 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5558');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5419');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -537,13 +537,13 @@ Grupos, Anillos y Homomorfismos
 	Homomorfismo de Grupos
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo6 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Homomorfismo de Grupos</span>
+<p class="modulo" onclick="colapsarClase('modulo6 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Homomorfismo de Grupos</span>
 </p>
 
 
 <div class="modulo6 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8771');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2895');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -552,13 +552,13 @@ Grupos, Anillos y Homomorfismos
 	Definición de Anillo y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo6 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Definición de Anillo y propiedades</span>
+<p class="modulo" onclick="colapsarClase('modulo6 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Definición de Anillo y propiedades</span>
 </p>
 
 
 <div class="modulo6 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2542');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7718');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -569,20 +569,20 @@ Grupos, Anillos y Homomorfismos
 Complementos de Complejos
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 6: Complementos de Complejos</span></p>
+<p class="unidad" onclick="colapsID('module-104812');" style="cursor:pointer;"><span>Unidad 6: Complementos de Complejos</span></p>
 
 
 -----------------------------------------------------------------------------
 	Forma a+bi y operatoria
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo7 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Forma a+bi y operatoria</span>
+<p class="modulo" onclick="colapsarClase('modulo7 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Forma a+bi y operatoria</span>
 </p>
 
 
 <div class="modulo7 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('808');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1112');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -591,13 +591,13 @@ Complementos de Complejos
 	Forma trigonométrica y operatoria
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo7 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Forma trigonométrica y operatoria</span>
+<p class="modulo" onclick="colapsarClase('modulo7 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Forma trigonométrica y operatoria</span>
 </p>
 
 
 <div class="modulo7 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8368');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4483');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -606,13 +606,13 @@ Complementos de Complejos
 	Raices de un complejo
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo7 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Raices de un complejo</span>
+<p class="modulo" onclick="colapsarClase('modulo7 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Raices de un complejo</span>
 </p>
 
 
 <div class="modulo7 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8866');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9359');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -623,15 +623,15 @@ Complementos de Complejos
 Complementos de Polinomios
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 7: Complementos de Polinomios</span></p>
+<p class="unidad" onclick="colapsID('module-104813');" style="cursor:pointer;"><span>Unidad 7: Complementos de Polinomios</span></p>
 
 
 -----------------------------------------------------------------------------
 	Teorema del resto, división sintetica
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo8 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Teorema del resto, división sintetica</span>
+<p class="modulo" onclick="colapsarClase('modulo8 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Teorema del resto, división sintetica</span>
 </p>
 
 
@@ -657,13 +657,13 @@ Complementos de Polinomios
 	Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo8 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices</span>
+<p class="modulo" onclick="colapsarClase('modulo8 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices</span>
 </p>
 
 
 <div class="modulo8 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1364');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('642');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -672,8 +672,8 @@ Complementos de Polinomios
 	Relaciones entre raices y coeficientes de una ecuación, fracciones parciales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo8 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Relaciones entre raices y coeficientes de una ecuación, fracciones parciales</span>
+<p class="modulo" onclick="colapsarClase('modulo8 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Relaciones entre raices y coeficientes de una ecuación, fracciones parciales</span>
 </p>
 
 
@@ -692,20 +692,20 @@ Complementos de Polinomios
 Complementos de Matrices
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 8: Complementos de Matrices</span></p>
+<p class="unidad" onclick="colapsID('module-104814');" style="cursor:pointer;"><span>Unidad 8: Complementos de Matrices</span></p>
 
 
 -----------------------------------------------------------------------------
 	M(n,m,R) con suma y multiplicación
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo9 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">M(n,m,R) con suma y multiplicación</span>
+<p class="modulo" onclick="colapsarClase('modulo9 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">M(n,m,R) con suma y multiplicación</span>
 </p>
 
 
 <div class="modulo9 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1103');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2416');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -714,13 +714,13 @@ Complementos de Matrices
 	M(n,R) con suma, multiplicación y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo9 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">M(n,R) con suma, multiplicación y propiedades</span>
+<p class="modulo" onclick="colapsarClase('modulo9 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">M(n,R) con suma, multiplicación y propiedades</span>
 </p>
 
 
 <div class="modulo9 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9512');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2508');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -729,13 +729,13 @@ Complementos de Matrices
 	Matrices especiales, traspuesta, simétrica, etc
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo9 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Matrices especiales, traspuesta, simétrica, etc</span>
+<p class="modulo" onclick="colapsarClase('modulo9 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Matrices especiales, traspuesta, simétrica, etc</span>
 </p>
 
 
 <div class="modulo9 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8546');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2691');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -744,16 +744,28 @@ Complementos de Matrices
 	Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo9 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales</span>
+<p class="modulo" onclick="colapsarClase('modulo9 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales</span>
 </p>
 
 
 <div class="modulo9 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3184');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1083');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 
 
+
+<script>
+colapsID('module-104806');
+colapsID('module-104807');
+colapsID('module-104808');
+colapsID('module-104809');
+colapsID('module-104810');
+colapsID('module-104811');
+colapsID('module-104812');
+colapsID('module-104813');
+colapsID('module-104814');
+</script>

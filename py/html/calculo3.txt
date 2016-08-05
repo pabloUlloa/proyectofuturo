@@ -2,15 +2,15 @@
 Series de Fourier
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 0: Series de Fourier</span></p>
+<p class="unidad" onclick="colapsID('module-104629');" style="cursor:pointer;"><span>Unidad 0: Series de Fourier</span></p>
 
 
 -----------------------------------------------------------------------------
 	Series de Fourier
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Series de Fourier</span>
+<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Series de Fourier</span>
 </p>
 
 
@@ -81,13 +81,13 @@ Series de Fourier
 	Convergencias
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Convergencias</span>
+<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Convergencias</span>
 </p>
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6951');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5863');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -98,15 +98,15 @@ Series de Fourier
 Funciones Vectoriales de Variable Real
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Funciones Vectoriales de Variable Real</span></p>
+<p class="unidad" onclick="colapsID('module-104630');" style="cursor:pointer;"><span>Unidad 1: Funciones Vectoriales de Variable Real</span></p>
 
 
 -----------------------------------------------------------------------------
 	Diferenciación de funciones vectoriales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Diferenciación de funciones vectoriales</span>
+<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Diferenciación de funciones vectoriales</span>
 </p>
 
 
@@ -150,8 +150,8 @@ Funciones Vectoriales de Variable Real
 	Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</span>
+<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</span>
 </p>
 
 
@@ -170,20 +170,20 @@ Funciones Vectoriales de Variable Real
 Funciones de Varias Variables
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Funciones de Varias Variables</span></p>
+<p class="unidad" onclick="colapsID('module-104631');" style="cursor:pointer;"><span>Unidad 2: Funciones de Varias Variables</span></p>
 
 
 -----------------------------------------------------------------------------
 	Conceptos básicos: límite, continuidad, curvas y superficies de nivel
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Conceptos básicos: límite, continuidad, curvas y superficies de nivel</span>
+<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Conceptos básicos: límite, continuidad, curvas y superficies de nivel</span>
 </p>
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1181');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4309');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -192,13 +192,13 @@ Funciones de Varias Variables
 	Derivadas parciales, vector gradiente y derivada direcciónal
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivadas parciales, vector gradiente y derivada direcciónal</span>
+<p class="modulo" onclick="colapsarClase('modulo3 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Derivadas parciales, vector gradiente y derivada direcciónal</span>
 </p>
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4531');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9365');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -207,13 +207,13 @@ Funciones de Varias Variables
 	Diferenciabilidad y propiedades
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Diferenciabilidad y propiedades</span>
+<p class="modulo" onclick="colapsarClase('modulo3 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Diferenciabilidad y propiedades</span>
 </p>
 
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5651');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('151');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -222,13 +222,13 @@ Funciones de Varias Variables
 	Derivación compuesta
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivación compuesta</span>
+<p class="modulo" onclick="colapsarClase('modulo3 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Derivación compuesta</span>
 </p>
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4728');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5573');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -237,13 +237,13 @@ Funciones de Varias Variables
 	Derivación implícita y derivación inversa
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 5')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Derivación implícita y derivación inversa</span>
+<p class="modulo" onclick="colapsarClase('modulo3 5')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Derivación implícita y derivación inversa</span>
 </p>
 
 
 <div class="modulo3 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6715');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7481');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -252,13 +252,13 @@ Funciones de Varias Variables
 	Valores extremos
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 6')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 6: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Valores extremos</span>
+<p class="modulo" onclick="colapsarClase('modulo3 6')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Valores extremos</span>
 </p>
 
 
 <div class="modulo3 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8620');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2867');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -267,13 +267,13 @@ Funciones de Varias Variables
 	Extremos condicionados
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 7')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 7: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Extremos condicionados</span>
+<p class="modulo" onclick="colapsarClase('modulo3 7')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 7: </span><span class="nombreModulo">Extremos condicionados</span>
 </p>
 
 
 <div class="modulo3 7" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9952');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('152');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -284,20 +284,20 @@ Funciones de Varias Variables
 Integrales dobles, triples, de línea y de superficie
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Integrales dobles, triples, de línea y de superficie</span></p>
+<p class="unidad" onclick="colapsID('module-104820');" style="cursor:pointer;"><span>Unidad 3: Integrales dobles, triples, de línea y de superficie</span></p>
 
 
 -----------------------------------------------------------------------------
 	Integrales dobles
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales dobles</span>
+<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Integrales dobles</span>
 </p>
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4525');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7421');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -306,13 +306,13 @@ Integrales dobles, triples, de línea y de superficie
 	Integrales triples
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales triples</span>
+<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Integrales triples</span>
 </p>
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8987');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5190');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -321,13 +321,13 @@ Integrales dobles, triples, de línea y de superficie
 	Integrales de línea (curvilínea)
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales de línea (curvilínea)</span>
+<p class="modulo" onclick="colapsarClase('modulo4 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Integrales de línea (curvilínea)</span>
 </p>
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8182');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4887');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -336,13 +336,13 @@ Integrales dobles, triples, de línea y de superficie
 	Integrales de superficie
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Integrales de superficie</span>
+<p class="modulo" onclick="colapsarClase('modulo4 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Integrales de superficie</span>
 </p>
 
 
 <div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2709');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1774');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -351,16 +351,23 @@ Integrales dobles, triples, de línea y de superficie
 	Teoremas de transformación de integrales
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 5')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 5: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Teoremas de transformación de integrales</span>
+<p class="modulo" onclick="colapsarClase('modulo4 5')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Teoremas de transformación de integrales</span>
 </p>
 
 
 <div class="modulo4 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7572');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1958');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 
 
+
+<script>
+colapsID('module-104629');
+colapsID('module-104630');
+colapsID('module-104631');
+colapsID('module-104820');
+</script>

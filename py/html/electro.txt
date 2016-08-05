@@ -2,15 +2,15 @@
 Introducción
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 0: Introducción</span></p>
+<p class="unidad" onclick="colapsID('module-92022');" style="cursor:pointer;"><span>Unidad 0: Introducción</span></p>
 
 
 -----------------------------------------------------------------------------
 	Ley de Coulomb
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo1 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Ley de Coulomb</span>
+<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Ley de Coulomb</span>
 </p>
 
 
@@ -38,15 +38,15 @@ Introducción
 Campo Eléctrico
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 1: Campo Eléctrico</span></p>
+<p class="unidad" onclick="colapsID('module-92587');" style="cursor:pointer;"><span>Unidad 1: Campo Eléctrico</span></p>
 
 
 -----------------------------------------------------------------------------
 	Campo Eléctrico
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Campo Eléctrico</span>
+<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Campo Eléctrico</span>
 </p>
 
 
@@ -72,8 +72,8 @@ Campo Eléctrico
 	Ley de Gauss
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Ley de Gauss</span>
+<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ley de Gauss</span>
 </p>
 
 
@@ -135,8 +135,8 @@ Campo Eléctrico
 	Potencial Eléctrico
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 3')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 3: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Potencial Eléctrico</span>
+<p class="modulo" onclick="colapsarClase('modulo2 3')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Potencial Eléctrico</span>
 </p>
 
 
@@ -162,8 +162,8 @@ Campo Eléctrico
 	Condensadores
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo2 4')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 4: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Condensadores</span>
+<p class="modulo" onclick="colapsarClase('modulo2 4')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Condensadores</span>
 </p>
 
 
@@ -191,15 +191,15 @@ Campo Eléctrico
 Circuitos de Corriente Continua
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 2: Circuitos de Corriente Continua</span></p>
+<p class="unidad" onclick="colapsID('module-92599');" style="cursor:pointer;"><span>Unidad 2: Circuitos de Corriente Continua</span></p>
 
 
 -----------------------------------------------------------------------------
 	Leyes de Kirchhoff
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo3 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Leyes de Kirchhoff</span>
+<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Leyes de Kirchhoff</span>
 </p>
 
 
@@ -227,15 +227,15 @@ Circuitos de Corriente Continua
 Campo Magnético
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 3: Campo Magnético</span></p>
+<p class="unidad" onclick="colapsID('module-92032');" style="cursor:pointer;"><span>Unidad 3: Campo Magnético</span></p>
 
 
 -----------------------------------------------------------------------------
 	Fuerza Magnética y Ley de Biot-Savart
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Fuerza Magnética y Ley de Biot-Savart</span>
+<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Fuerza Magnética y Ley de Biot-Savart</span>
 </p>
 
 
@@ -270,8 +270,8 @@ Campo Magnético
 	Ley de Ampere
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo4 2')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 2: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Ley de Ampere</span>
+<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ley de Ampere</span>
 </p>
 
 
@@ -308,15 +308,15 @@ Campo Magnético
 Inducción Electromagnética
 
 <hr />
-<p class="unidad" onclick="colapsID('')"><span>Unidad 4: Inducción Electromagnética</span></p>
+<p class="unidad" onclick="colapsID('module-92038');" style="cursor:pointer;"><span>Unidad 4: Inducción Electromagnética</span></p>
 
 
 -----------------------------------------------------------------------------
 	Inducción Electromagnética
 
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo5 1')" style="cursor:pointer;">
-<span style="margin-left:15px">Módulo 1: </span><span style="margin-left:130px;font-family:tizaImprenta;font-size:24px;">Inducción Electromagnética</span>
+<p class="modulo" onclick="colapsarClase('modulo5 1')" style="cursor:pointer;">
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Inducción Electromagnética</span>
 </p>
 
 
@@ -349,3 +349,11 @@ Inducción Electromagnética
 
 
 
+
+<script>
+colapsID('module-92022');
+colapsID('module-92587');
+colapsID('module-92599');
+colapsID('module-92032');
+colapsID('module-92038');
+</script>

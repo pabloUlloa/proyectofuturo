@@ -3,7 +3,7 @@
     "unidades":[
         {
             "nombre":"Sistemas Lineales y Matrices",
-            "carpetaId":"module-104816",
+            "toggleId":["module-104816"],
             "modulos":[
                 {
                     "nombre":"Sistemas de Ecuaciones Lineales",
@@ -33,7 +33,7 @@
         },
         {
             "nombre":"Espacios Vectoriales y Transformaciones Lineales",
-            "carpetaId":"module-104817",
+            "toggleId":["module-104817"],
             "modulos":[
                 {
                     "nombre":"Espacios Vectoriales",
@@ -57,7 +57,7 @@
         },
         {
             "nombre":"Álgebra Discreta",
-            "carpetaId":"module-104818",
+            "toggleId":["module-104818"],
             "modulos":[
                 {
                     "nombre":"Los números enteros",

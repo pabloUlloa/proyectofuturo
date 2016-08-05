@@ -2,7 +2,7 @@
     "asignatura": "Física II para Ingeniería",
     "unidades": [
         {
-            "carpetaId": "module-104855", 
+            "toggleId": ["module-104855"], 
             "nombre": "Cinemática de la partícula", 
             "modulos": [
                 {
@@ -24,7 +24,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104856", 
+            "toggleId": ["module-104856"], 
             "nombre": "Dinámica de la partícula", 
             "modulos": [
                 {
@@ -54,7 +54,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104857", 
+            "toggleId": ["module-104857"], 
             "nombre": "Dinámica de un sistema de partículas", 
             "modulos": [
                 {
@@ -92,7 +92,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104858", 
+            "toggleId": ["module-104858"], 
             "nombre": "Cinemática y Dinámica del cuerpo rígido", 
             "modulos": [
                 {

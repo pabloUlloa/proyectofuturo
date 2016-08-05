@@ -3,7 +3,7 @@
     "unidades":[
         {
             "nombre":"Introducción a la Física",
-            "carpetaId":"module-104844",
+            "toggleId":["module-104844"],
             "modulos":[
                 {
                     "nombre":"Desarrollo de la Mecánica",
@@ -45,7 +45,7 @@
         },
         {
             "nombre":"Vectores",
-            "carpetaId":"module-104845",
+            "toggleId":["module-104845"],
             "modulos":[
                 {
                     "nombre":"Espacio y sistemas de ejes ortogonales",
@@ -87,7 +87,7 @@
         },
         {
             "nombre":"Fuerza",
-            "carpetaId":"module-104846",
+            "toggleId":["module-104846"],
             "modulos":[
                 {
                     "nombre":"Tipos de fuerza",
@@ -123,7 +123,7 @@
         },
         {
             "nombre":"Estática",
-            "carpetaId":"module-104847",
+            "toggleId":["module-104847"],
             "modulos":[
                 {
                     "nombre":"Conceptos Básicos",
@@ -153,7 +153,7 @@
         },
         {
             "nombre":"Hidrostática",
-            "carpetaId":"module-104848",
+            "toggleId":["module-104848"],
             "modulos":[
                 {
                     "nombre":"Conceptos fundamentales",

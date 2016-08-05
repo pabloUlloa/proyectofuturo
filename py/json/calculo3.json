@@ -3,7 +3,7 @@
     "unidades":[
         {
             "nombre":"Series de Fourier",
-            "carpetaId":"module-104629",
+            "toggleId":["module-104629"],
             "modulos":[
                 {
                     "nombre":"Series de Fourier",
@@ -48,7 +48,7 @@
         },
         {
             "nombre":"Funciones Vectoriales de Variable Real",
-            "carpetaId":"module-104630",
+            "toggleId":["module-104630"],
             "modulos":[
                 {
                     "nombre":"Diferenciación de funciones vectoriales",
@@ -84,7 +84,7 @@
         },
         {
             "nombre":"Funciones de Varias Variables",
-            "carpetaId":"module-104631",
+            "toggleId":["module-104631"],
             "modulos":[
                 {
                     "nombre":"Conceptos básicos: límite, continuidad, curvas y superficies de nivel",
@@ -132,7 +132,7 @@
         },
         {
             "nombre":"Integrales dobles, triples, de línea y de superficie",
-            "carpetaId":"module-104820",
+            "toggleId":["module-104820"],
             "modulos":[
                 {
                     "nombre":"Integrales dobles",

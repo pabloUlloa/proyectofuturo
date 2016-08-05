@@ -1,7 +1,7 @@
 {
     "unidades": [
         {
-            "carpetaId": "module-104806", 
+            "toggleId": ["module-104806"], 
             "nombre": "Elementos de Lógica Matemática", 
             "modulos": [
                 {
@@ -19,7 +19,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104807", 
+            "toggleId": ["module-104807"], 
             "nombre": "Inducción y Sumatoria", 
             "modulos": [
                 {
@@ -71,7 +71,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104808", 
+            "toggleId": ["module-104808"], 
             "nombre": "Progresiones y Análisis combinatorio", 
             "modulos": [
                 {
@@ -139,7 +139,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104809", 
+            "toggleId": ["module-104809"], 
             "nombre": "Relaciones", 
             "modulos": [
                 {
@@ -183,7 +183,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104810", 
+            "toggleId": ["module-104810"], 
             "nombre": "Geometría Analitica", 
             "modulos": [
                 {
@@ -223,7 +223,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104811", 
+            "toggleId": ["module-104811"], 
             "nombre": "Grupos, Anillos y Homomorfismos", 
             "modulos": [
                 {
@@ -241,7 +241,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104812", 
+            "toggleId": ["module-104812"], 
             "nombre": "Complementos de Complejos", 
             "modulos": [
                 {
@@ -259,7 +259,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104813", 
+            "toggleId": ["module-104813"], 
             "nombre": "Complementos de Polinomios", 
             "modulos": [
                 {
@@ -291,7 +291,7 @@
             ]
         }, 
         {
-            "carpetaId": "module-104814", 
+            "toggleId": ["module-104814"], 
             "nombre": "Complementos de Matrices", 
             "modulos": [
                 {

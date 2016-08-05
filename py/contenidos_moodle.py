@@ -230,11 +230,14 @@ def menu():
     verUnidades(ramo)
 
 
-def formatoUnidad(n,i):
-    n=u"Unidad "+str(i-1).encode("utf-8")+u": "+n
+def formatoUnidad(u,i):
+    n=u"Unidad "+str(i-1).encode("utf-8")+u": "+u[u'nombre']
+    colapses=""
+    for mid in u[u'toggleId']:
+        colapses+=u"colapsID('"+mid.encode("utf-8")+u"');"
     formato="""
 <hr />
-<p class="unidad" onclick="colapsID('')" style="cursor:pointer;"><span>"""+n+"""</span></p>
+<p class="unidad" onclick=\""""+colapses+"""" style="cursor:pointer;"><span>"""+n+"""</span></p>
 """
     return formato
 
@@ -243,7 +246,7 @@ def formatoModulo(n,j,i):
     n1=u"Módulo "+str(j).encode("utf-8")+u": "
     formato="""
 <hr />
-<p class="modulo" onclick="colapsID('');colapsarClase('modulo"""+str(mid).encode("utf-8")+"""')" style="cursor:pointer;">
+<p class="modulo" onclick="colapsarClase('modulo"""+str(mid).encode("utf-8")+"""')" style="cursor:pointer;">
 <span class="numeroModulo">"""+n1+"""</span><span class="nombreModulo">"""+n+"""</span>
 </p>
 """
@@ -283,10 +286,11 @@ def generar():
     for ruta in RAMOS:        
         r=loadJson(ruta)
         out=u""
+        colapses=u""
         i=1
         for u in r[u'unidades']:
             out+=u"="*77+u"\n"+u[u'nombre']+u"\n"
-            out+=formatoUnidad(u[u'nombre'],i)+u"\n\n"
+            out+=formatoUnidad(u,i)+u"\n\n"
             j=1
             for m in u[u'modulos']:
                 out+=u"-"*77+u"\n\t"+m[u'nombre']+u"\n"
@@ -298,7 +302,10 @@ def generar():
                 out+=u"\n"
                 j+=1
             out+=u"\n\n"
+            for mid in u[u'toggleId']:
+                colapses+=u"colapsID('"+mid.encode("utf-8")+u"');\n"
             i+=1
+        out=out+u"\n<script>\n"+colapses+"</script>"
         with codecs.open("html/"+ruta.split("/")[1].split(".")[0]+".txt",'w',encoding='utf-8') as f:
             f.write(out)
             f.close()

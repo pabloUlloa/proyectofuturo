@@ -3,7 +3,7 @@
     "unidades":[
         {
             "nombre":"Introducción",
-            "carpetaId":"module-92022",
+            "toggleId":["module-92022"],
             "modulos":[
                 {
                     "nombre":"Ley de Coulomb",
@@ -22,7 +22,7 @@
         },
         {
             "nombre":"Campo Eléctrico",
-            "carpetaId":"module-92587",
+            "toggleId":["module-92587"],
             "modulos":[
                 {
                     "nombre":"Campo Eléctrico",
@@ -96,7 +96,7 @@
         },
         {
             "nombre":"Circuitos de Corriente Continua",
-            "carpetaId":"module-92599",
+            "toggleId":["module-92599"],
             "modulos":[
                 {
                     "nombre":"Leyes de Kirchhoff",
@@ -115,7 +115,7 @@
         },
         {
             "nombre":"Campo Magnético",
-            "carpetaId":"module-92032",
+            "toggleId":["module-92032"],
             "modulos":[
                 {
                     "nombre":"Fuerza Magnética y Ley de Biot-Savart",
@@ -155,7 +155,7 @@
         },
         {
             "nombre":"Inducción Electromagnética",
-            "carpetaId":"module-92038",
+            "toggleId":["module-92038"],
             "modulos":[
                 {
                     "nombre":"Inducción Electromagnética",
