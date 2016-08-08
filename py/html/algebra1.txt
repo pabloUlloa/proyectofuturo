@@ -15,7 +15,7 @@ Elementos de Lógica Matemática
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1556');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9276');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -30,7 +30,7 @@ Elementos de Lógica Matemática
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4081');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6244');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -45,7 +45,7 @@ Elementos de Lógica Matemática
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2266');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7162');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -70,7 +70,7 @@ Inducción y Sumatoria
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('LdGj71yapqc');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Inducción Matemática - Concepto</span>
+<span style="margin-left: 50px;">Concepto de Inducción Matemática</span>
 </p>
 <div id="LdGj71yapqc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/LdGj71yapqc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -79,7 +79,7 @@ Inducción y Sumatoria
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('H8c8PGEUDj0');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Inducción Matemática - Ejemplo 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="H8c8PGEUDj0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/H8c8PGEUDj0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -88,7 +88,7 @@ Inducción y Sumatoria
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('RK1EruboDHI');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Inducción Matemática - Recursividad, ejercicio 1</span>
+<span style="margin-left: 50px;">Inducción por Recursividad, ejercicio 1</span>
 </p>
 <div id="RK1EruboDHI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/RK1EruboDHI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -97,7 +97,7 @@ Inducción y Sumatoria
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('8aBzOceYTiQ');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Inducción Matemática - Recursividad, ejercicio 2</span>
+<span style="margin-left: 50px;">Inducción por Recursividad, ejercicio 2</span>
 </p>
 <div id="8aBzOceYTiQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/8aBzOceYTiQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -115,7 +115,7 @@ Inducción y Sumatoria
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('I_UpurOjv_0');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Sumatoria - Concepto</span>
+<span style="margin-left: 50px;">Concepto de Sumatoria</span>
 </p>
 <div id="I_UpurOjv_0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/I_UpurOjv_0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -124,7 +124,7 @@ Inducción y Sumatoria
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('6EdCA8Inixw');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Sumatoria - Ejercicio 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="6EdCA8Inixw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/6EdCA8Inixw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -133,7 +133,7 @@ Inducción y Sumatoria
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('VkmC4BJzoMU');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Sumatoria - Propiedad Telescópica, ejercicio 1</span>
+<span style="margin-left: 50px;">Propiedad Telescópica, ejercicio 1</span>
 </p>
 <div id="VkmC4BJzoMU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/VkmC4BJzoMU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -142,7 +142,7 @@ Inducción y Sumatoria
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('Dq-FbWws2Vw');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Sumatoria - Propiedad Telescópica, ejercicio 2</span>
+<span style="margin-left: 50px;">Propiedad Telescópica, ejercicio 2</span>
 </p>
 <div id="Dq-FbWws2Vw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Dq-FbWws2Vw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -159,7 +159,7 @@ Inducción y Sumatoria
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9520');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9260');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -184,7 +184,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('gFIwITuE1KY');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Progresión Aritmética - Concepto</span>
+<span style="margin-left: 50px;">Concepto de Progresión Aritmética</span>
 </p>
 <div id="gFIwITuE1KY" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/gFIwITuE1KY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -193,7 +193,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('a1GCnC1s3q4');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Progresión Aritmética - Ejemplo 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="a1GCnC1s3q4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/a1GCnC1s3q4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -202,7 +202,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('OOT9NqCxVdE');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Progresión Aritmética - Ejemplo 2</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="OOT9NqCxVdE" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/OOT9NqCxVdE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -211,7 +211,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('S4xKmuu5bfg');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Progresión Geométrica - Concepto</span>
+<span style="margin-left: 50px;">Concepto de Progresión Geométrica</span>
 </p>
 <div id="S4xKmuu5bfg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/S4xKmuu5bfg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -220,7 +220,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('Yzn7yMDGmYI');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Progresión Geométrica - Ejemplo 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="Yzn7yMDGmYI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Yzn7yMDGmYI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -229,7 +229,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('6NxKB92JjFg');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Progresiones - Ejemplo 3</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="6NxKB92JjFg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/6NxKB92JjFg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -255,7 +255,7 @@ Progresiones y Análisis combinatorio
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3270');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6194');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -271,7 +271,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('1rrIwk-s4HU');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Teorema del Binomio - Concepto</span>
+<span style="margin-left: 50px;">Concepto</span>
 </p>
 <div id="1rrIwk-s4HU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/1rrIwk-s4HU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -280,7 +280,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('NGVMWPzC9fA');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Teorema del Binomio - Ejemplo 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="NGVMWPzC9fA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/NGVMWPzC9fA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -289,7 +289,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('-2mXPYtVNCc');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Teorema del Binomio - Ejemplo 2</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="-2mXPYtVNCc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-2mXPYtVNCc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -298,7 +298,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('-qNYBSKAq2s');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Teorema del Binomio - Ejemplo 3</span>
+<span style="margin-left: 50px;">Ejercicio 3</span>
 </p>
 <div id="-qNYBSKAq2s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-qNYBSKAq2s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -307,7 +307,7 @@ Progresiones y Análisis combinatorio
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('rUVTBIsC32c');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Teorema del Binomio - Ejemplo 4</span>
+<span style="margin-left: 50px;">Ejercicio 4</span>
 </p>
 <div id="rUVTBIsC32c" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/rUVTBIsC32c?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -324,17 +324,17 @@ Relaciones
 
 
 -----------------------------------------------------------------------------
-	Dominio, recorrido, inversa, composición de relaciones
+	Conceptos básicos de Relaciones
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Dominio, recorrido, inversa, composición de relaciones</span>
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Conceptos básicos de Relaciones</span>
 </p>
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('LcVc3T7fCoI');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Relaciones - Concepto</span>
+<span style="margin-left: 50px;">Concepto</span>
 </p>
 <div id="LcVc3T7fCoI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/LcVc3T7fCoI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -343,7 +343,7 @@ Relaciones
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('XX4ojNN8Sps');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Relaciones - Características de una relación</span>
+<span style="margin-left: 50px;">Características de una relación</span>
 </p>
 <div id="XX4ojNN8Sps" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/XX4ojNN8Sps?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -352,7 +352,7 @@ Relaciones
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('E6mhYMVWHWM');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Relaciones - Ejemplo 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="E6mhYMVWHWM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/E6mhYMVWHWM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -370,7 +370,7 @@ Relaciones
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('bfqJ1cDx-2Y');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Relaciones - Clase de equivalencia, concepto</span>
+<span style="margin-left: 50px;">Concepto de Clase de equivalencia</span>
 </p>
 <div id="bfqJ1cDx-2Y" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/bfqJ1cDx-2Y?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -379,7 +379,7 @@ Relaciones
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('7ONiFWT-rFo');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Relaciones - Ejercicio de relaciones de equivalencia 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="7ONiFWT-rFo" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/7ONiFWT-rFo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -388,7 +388,7 @@ Relaciones
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('JqtiDIL3XIM');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Relaciones - Ejercicio de relaciones 2</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="JqtiDIL3XIM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/JqtiDIL3XIM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -397,7 +397,7 @@ Relaciones
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('fcYculM9VcU');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Relaciones - Congruencia de módulo n</span>
+<span style="margin-left: 50px;">Congruencia de módulo n</span>
 </p>
 <div id="fcYculM9VcU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/fcYculM9VcU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -414,71 +414,71 @@ Geometría Analitica
 
 
 -----------------------------------------------------------------------------
-	Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta
+	Conceptos Básicos
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo5 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Distancia entre dos puntos, división de un segmento en una razón dada, pendiente de una recta</span>
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Conceptos Básicos</span>
 </p>
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9636');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7520');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Definición de la Línea Recta y sus diversas expresiones
+	Línea Recta y sus diversas expresiones
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo5 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Definición de la Línea Recta y sus diversas expresiones</span>
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Línea Recta y sus diversas expresiones</span>
 </p>
 
 
 <div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9118');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9456');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Definición de la Circunferencia y sus diversas expresiones
+	Circunferencia y sus diversas expresiones
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo5 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Definición de la Circunferencia y sus diversas expresiones</span>
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Circunferencia y sus diversas expresiones</span>
 </p>
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5088');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5540');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Definición de la Parábola y sus diversas expresiones
+	Parábola y sus diversas expresiones
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo5 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Definición de la Parábola y sus diversas expresiones</span>
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Parábola y sus diversas expresiones</span>
 </p>
 
 
 <div class="modulo5 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3069');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('380');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Definición de la Elipse y sus diversas expresiones
+	Elipse y sus diversas expresiones
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo5 5')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Definición de la Elipse y sus diversas expresiones</span>
+<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Elipse y sus diversas expresiones</span>
 </p>
 
 
@@ -492,11 +492,11 @@ Geometría Analitica
 </div>
 
 -----------------------------------------------------------------------------
-	Definición de la Hipérbola y sus diversas expresiones
+	Hipérbola y sus diversas expresiones
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo5 6')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Definición de la Hipérbola y sus diversas expresiones</span>
+<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Hipérbola y sus diversas expresiones</span>
 </p>
 
 
@@ -519,16 +519,16 @@ Grupos, Anillos y Homomorfismos
 
 
 -----------------------------------------------------------------------------
-	Definición de Grupos y propiedades
+	Grupos y propiedades
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo6 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Definición de Grupos y propiedades</span>
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Grupos y propiedades</span>
 </p>
 
 
 <div class="modulo6 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3656');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7936');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -543,22 +543,22 @@ Grupos, Anillos y Homomorfismos
 
 
 <div class="modulo6 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8679');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5914');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Definición de Anillo y propiedades
+	Anillo y propiedades
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo6 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Definición de Anillo y propiedades</span>
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Anillo y propiedades</span>
 </p>
 
 
 <div class="modulo6 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('566');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2961');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -582,7 +582,7 @@ Complementos de Complejos
 
 
 <div class="modulo7 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5324');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2805');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -597,7 +597,7 @@ Complementos de Complejos
 
 
 <div class="modulo7 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9839');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6916');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -612,7 +612,7 @@ Complementos de Complejos
 
 
 <div class="modulo7 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3619');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7440');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -627,11 +627,11 @@ Complementos de Polinomios
 
 
 -----------------------------------------------------------------------------
-	Teorema del resto, división sintetica
+	Raices de un polinomio, teorema del resto, división sintetica
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo8 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Teorema del resto, división sintetica</span>
+<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Raices de un polinomio, teorema del resto, división sintetica</span>
 </p>
 
 
@@ -654,26 +654,26 @@ Complementos de Polinomios
 </div>
 
 -----------------------------------------------------------------------------
-	Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices
+	Ayudas para la determinación de raices
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo8 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Numero de raices de un complejo, raices racionales, naturaleza de las raices, ayudas para la determinación de raices</span>
+<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ayudas para la determinación de raices</span>
 </p>
 
 
 <div class="modulo8 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3330');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3268');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Relaciones entre raices y coeficientes de una ecuación, fracciones parciales
+	Relaciones entre raices y coeficientes, fracciones parciales
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo8 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Relaciones entre raices y coeficientes de una ecuación, fracciones parciales</span>
+<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Relaciones entre raices y coeficientes, fracciones parciales</span>
 </p>
 
 
@@ -705,7 +705,7 @@ Complementos de Matrices
 
 
 <div class="modulo9 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4253');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5820');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -720,7 +720,7 @@ Complementos de Matrices
 
 
 <div class="modulo9 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1049');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9428');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -735,22 +735,22 @@ Complementos de Matrices
 
 
 <div class="modulo9 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5285');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5740');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
 
 -----------------------------------------------------------------------------
-	Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales
+	Operaciones elementales
 
 <hr />
 <p class="modulo" onclick="colapsarClase('modulo9 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Operaciones elementales, algoritmo para determinar la matriz inversa usando operaciones elementales</span>
+<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Operaciones elementales</span>
 </p>
 
 
 <div class="modulo9 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6957');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3795');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>

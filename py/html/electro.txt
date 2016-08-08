@@ -1,8 +1,8 @@
 =============================================================================
-Introducción
+Fuerza Eléctrica
 
 <hr />
-<p class="unidad" onclick="colapsID('module-92022');" style="cursor:pointer;"><span>Unidad 0: Introducción</span></p>
+<p class="unidad" onclick="colapsID('module-92022');" style="cursor:pointer;"><span>Unidad 0: Fuerza Eléctrica</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -16,7 +16,7 @@ Introducción
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('WkKbAx4GJj0');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Coulomb - Introducción y Ejercicio 1</span>
+<span style="margin-left: 50px;">Introducción y Ejercicio 1</span>
 </p>
 <div id="WkKbAx4GJj0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/WkKbAx4GJj0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -25,7 +25,7 @@ Introducción
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('Sj6fKqu6vlw');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Coulomb - Ejercicio 3</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="Sj6fKqu6vlw" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Sj6fKqu6vlw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -52,7 +52,7 @@ Campo Eléctrico
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('zibJobhe69w');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Campo Eléctrico - Cargas Puntuales</span>
+<span style="margin-left: 50px;">Concepto de Cargas Puntuales</span>
 </p>
 <div id="zibJobhe69w" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/zibJobhe69w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -61,7 +61,7 @@ Campo Eléctrico
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('KscPInEUzVM');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Campo Eléctrico - Ejercicio 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="KscPInEUzVM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/KscPInEUzVM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -79,7 +79,7 @@ Campo Eléctrico
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('lk9jgHbcyYQ');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Gauss - Introducción</span>
+<span style="margin-left: 50px;">Introducción</span>
 </p>
 <div id="lk9jgHbcyYQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/lk9jgHbcyYQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -88,7 +88,7 @@ Campo Eléctrico
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('-Mwy7D2IlRg');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Gauss - Ejercicio 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="-Mwy7D2IlRg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/-Mwy7D2IlRg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -97,7 +97,7 @@ Campo Eléctrico
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('WqYq2T-asXc');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Gauss - Ejercicio 2</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="WqYq2T-asXc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/WqYq2T-asXc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -106,7 +106,7 @@ Campo Eléctrico
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('kj5ZitRZRFk');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Gauss - Ejercicio 3</span>
+<span style="margin-left: 50px;">Ejercicio 3</span>
 </p>
 <div id="kj5ZitRZRFk" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/kj5ZitRZRFk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -115,7 +115,7 @@ Campo Eléctrico
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('KckOoaEbBXE');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Gauss - Ejercicio 4</span>
+<span style="margin-left: 50px;">Ejercicio 4</span>
 </p>
 <div id="KckOoaEbBXE" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/KckOoaEbBXE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -124,7 +124,7 @@ Campo Eléctrico
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('qkR-Xs5wuxI');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Gauss - Ejercicio 7</span>
+<span style="margin-left: 50px;">Ejercicio 5</span>
 </p>
 <div id="qkR-Xs5wuxI" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/qkR-Xs5wuxI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -142,7 +142,7 @@ Campo Eléctrico
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('ktSDEM1B_6U');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Potencial Eléctrico - Ejercicio 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="ktSDEM1B_6U" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/ktSDEM1B_6U?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -151,7 +151,7 @@ Campo Eléctrico
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('aCsGTczcxs0');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Potencial Eléctrico - Ejercicio 4</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="aCsGTczcxs0" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/aCsGTczcxs0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -169,7 +169,7 @@ Campo Eléctrico
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('ZIBT7H7g1ew');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Condensadores - Ejercicio 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="ZIBT7H7g1ew" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/ZIBT7H7g1ew?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -178,7 +178,7 @@ Campo Eléctrico
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('Clkqa7UqreA');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Condensadores - Ejercicio 4</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="Clkqa7UqreA" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/Clkqa7UqreA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -205,7 +205,7 @@ Circuitos de Corriente Continua
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('YxRzOyvTeQU');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Leyes de Kirchhoff - Ejercicio 2</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="YxRzOyvTeQU" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/YxRzOyvTeQU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -214,7 +214,7 @@ Circuitos de Corriente Continua
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('9tM1qj2mDJM');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Leyes de Kirchhoff - Ejercicio 4</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="9tM1qj2mDJM" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/9tM1qj2mDJM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -241,7 +241,7 @@ Campo Magnético
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('9AkxArLnz_s');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fuerza Magnética y Ley de Biot-Savart - Introducción</span>
+<span style="margin-left: 50px;">Introducción</span>
 </p>
 <div id="9AkxArLnz_s" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/9AkxArLnz_s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -250,7 +250,7 @@ Campo Magnético
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('H7rokJZo324');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fuerza magnética y Ley de Biot-Savart - Ejercicio 2</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="H7rokJZo324" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/H7rokJZo324?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -259,7 +259,7 @@ Campo Magnético
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('BrpcocmzNg4');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fuerza magnética y Ley de Biot-Savart - Ejercicio 3</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="BrpcocmzNg4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/BrpcocmzNg4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -277,7 +277,7 @@ Campo Magnético
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('DbsUULR4Wxc');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Ampere - Introducción</span>
+<span style="margin-left: 50px;">Introducción</span>
 </p>
 <div id="DbsUULR4Wxc" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/DbsUULR4Wxc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -286,7 +286,7 @@ Campo Magnético
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('oWaylxLuvy4');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Ampere - Ejercicio 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="oWaylxLuvy4" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/oWaylxLuvy4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -295,7 +295,7 @@ Campo Magnético
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('zFebuGoDEwo');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ley de Ampere - Ejercicio 2</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="zFebuGoDEwo" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/zFebuGoDEwo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -322,7 +322,7 @@ Inducción Electromagnética
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('BIuISj4E0xQ');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Inducción Electromagnética - Introducción</span>
+<span style="margin-left: 50px;">Introducción</span>
 </p>
 <div id="BIuISj4E0xQ" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/BIuISj4E0xQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -331,7 +331,7 @@ Inducción Electromagnética
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('wZFK3ejnyQg');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Inducción Electromagnética - Ejercicio 1</span>
+<span style="margin-left: 50px;">Ejercicio 1</span>
 </p>
 <div id="wZFK3ejnyQg" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/wZFK3ejnyQg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
@@ -340,7 +340,7 @@ Inducción Electromagnética
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
 <p class="video" onclick="colapsID('IC2iJ1xvJB8');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Inducción Electromagnética - Ejercicio 2</span>
+<span style="margin-left: 50px;">Ejercicio 2</span>
 </p>
 <div id="IC2iJ1xvJB8" style="display: none;"><center>
 <iframe src="https://www.youtube.com/embed/IC2iJ1xvJB8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
