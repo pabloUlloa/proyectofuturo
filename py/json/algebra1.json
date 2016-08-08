@@ -75,7 +75,7 @@
             "nombre": "Progresiones y Análisis combinatorio", 
             "modulos": [
                 {
-                    "nombre": "Progresiones Aritmética, Geométrica y Armónica, propiedades", 
+                    "nombre": "Progresiones Aritmética, Geométrica y Armónica", 
                     "videos": [
                         {
                             "url": "https://www.youtube.com/watch?v=gFIwITuE1KY", 
@@ -108,7 +108,7 @@
                     ]
                 }, 
                 {
-                    "nombre": "Principio de análisis combinatorio, Factorial, Variaciones, Permutaciones, Combinaciones y propiedades", 
+                    "nombre": "Factorial, Variaciones, Permutaciones, Combinatorias", 
                     "videos": []
                 }, 
                 {
