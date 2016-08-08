@@ -51,7 +51,7 @@ Los Números Reales
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7212');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3147');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -111,7 +111,7 @@ Los Números Reales
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2175');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1877');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -216,7 +216,7 @@ Funciones de Variable Real
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5439');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6764');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -231,7 +231,7 @@ Funciones de Variable Real
 
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6295');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8721');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -381,7 +381,7 @@ Límite de Funciones
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2053');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6249');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -405,7 +405,7 @@ Derivada
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9692');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6391');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -420,7 +420,7 @@ Derivada
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('377');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8490');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -435,7 +435,7 @@ Derivada
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('662');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2564');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -450,7 +450,7 @@ Derivada
 
 
 <div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1474');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1032');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -465,7 +465,7 @@ Derivada
 
 
 <div class="modulo4 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2678');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2964');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -480,7 +480,7 @@ Derivada
 
 
 <div class="modulo4 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7058');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1185');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -495,7 +495,7 @@ Derivada
 
 
 <div class="modulo4 7" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3360');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5658');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -510,7 +510,7 @@ Derivada
 
 
 <div class="modulo4 8" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9147');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1676');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -534,7 +534,7 @@ Aplicaciones de la derivada
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3890');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2434');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -585,7 +585,7 @@ Aplicaciones de la derivada
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5443');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6491');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -609,7 +609,7 @@ Antiderivadas
 
 
 <div class="modulo6 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6588');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9545');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -642,7 +642,7 @@ Antiderivadas
 
 
 <div class="modulo6 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3866');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2428');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>

@@ -38,11 +38,26 @@ def saveJson(ruta,Json):
 def cls():
     os.system('cls')
 
-def sync():
+def dnld():
+    print "Actualizando archivos desde servidor"
     os.system("git pull")
+    raw_input("Archivos actualizados exitosamente, presiona Enter para continuar")
+    
+def upld():
+    print "Actualizando archivos hacia el servidor"
     os.system("git add .")
     os.system("git commit -m \"commit autogenerado id "+str(randint(1,100000))+"\"")
     os.system("git push")
+    raw_input("Archivos actualizados exitosamente, presiona Enter para continuar")
+
+def sync():
+    print "Actualizando archivos desde servidor"
+    os.system("git pull")
+    print "Actualizando archivos hacia el servidor"
+    os.system("git add .")
+    os.system("git commit -m \"commit autogenerado id "+str(randint(1,100000))+"\"")
+    os.system("git push")
+    raw_input("Archivos actualizados exitosamente, presiona Enter para continuar")
 
 def banner():
     cls()
@@ -318,6 +333,8 @@ def generar():
         with codecs.open("html/"+ruta.split("/")[1].split(".")[0]+".txt",'w',encoding='utf-8') as f:
             f.write(out)
             f.close()
+    upld()
     menu()
-    
+
+dnld()    
 menu()

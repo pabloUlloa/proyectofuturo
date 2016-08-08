@@ -15,7 +15,7 @@ Integral de Riemann y Aplicaciones de la Integral
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7165');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4136');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -30,7 +30,7 @@ Integral de Riemann y Aplicaciones de la Integral
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9064');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2115');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -45,7 +45,7 @@ Integral de Riemann y Aplicaciones de la Integral
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3211');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1533');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -60,7 +60,7 @@ Integral de Riemann y Aplicaciones de la Integral
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8429');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5126');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -84,7 +84,7 @@ Aplicaciones Geométricas de la Integral
 
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8687');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1119');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -99,7 +99,7 @@ Aplicaciones Geométricas de la Integral
 
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4923');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1627');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -123,7 +123,7 @@ Integral Impropia y Series
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2934');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7879');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -138,7 +138,7 @@ Integral Impropia y Series
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('394');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8679');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -153,7 +153,7 @@ Integral Impropia y Series
 
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6789');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9677');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -168,7 +168,7 @@ Integral Impropia y Series
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7486');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('131');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -183,7 +183,7 @@ Integral Impropia y Series
 
 
 <div class="modulo3 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7444');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4314');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -198,7 +198,7 @@ Integral Impropia y Series
 
 
 <div class="modulo3 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9853');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7730');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -222,7 +222,7 @@ Curvas en el plano y el espacio
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5107');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3040');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -237,7 +237,7 @@ Curvas en el plano y el espacio
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9595');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('857');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -252,7 +252,7 @@ Curvas en el plano y el espacio
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4732');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9702');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
