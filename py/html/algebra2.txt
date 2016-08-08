@@ -15,7 +15,7 @@ Sistemas Lineales y Matrices
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2259');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2236');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -30,7 +30,7 @@ Sistemas Lineales y Matrices
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('601');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3977');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -45,7 +45,7 @@ Sistemas Lineales y Matrices
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6763');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9877');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -60,7 +60,7 @@ Sistemas Lineales y Matrices
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9997');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3222');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -84,7 +84,7 @@ Espacios Vectoriales y Transformaciones Lineales
 
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('127');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5728');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -99,7 +99,7 @@ Espacios Vectoriales y Transformaciones Lineales
 
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7085');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8087');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -114,7 +114,7 @@ Espacios Vectoriales y Transformaciones Lineales
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3391');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9755');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -138,7 +138,7 @@ Espacios Vectoriales y Transformaciones Lineales
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8792');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('64');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>

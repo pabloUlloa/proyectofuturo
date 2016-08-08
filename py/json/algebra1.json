@@ -184,26 +184,26 @@
         }, 
         {
             "toggleId": ["module-104810"], 
-            "nombre": "Geometría Analitica", 
+            "nombre": "Geometría Analítica", 
             "modulos": [
                 {
                     "nombre": "Conceptos Básicos", 
                     "videos": []
                 }, 
                 {
-                    "nombre": "Línea Recta y sus diversas expresiones", 
+                    "nombre": "Línea Recta", 
                     "videos": []
                 }, 
                 {
-                    "nombre": "Circunferencia y sus diversas expresiones", 
+                    "nombre": "Circunferencia", 
                     "videos": []
                 }, 
                 {
-                    "nombre": "Parábola y sus diversas expresiones", 
+                    "nombre": "Parábola", 
                     "videos": []
                 }, 
                 {
-                    "nombre": "Elipse y sus diversas expresiones", 
+                    "nombre": "Elipse", 
                     "videos": [
                         {
                             "url": "https://www.youtube.com/watch?v=QgeoxZByIt4", 
@@ -212,7 +212,7 @@
                     ]
                 }, 
                 {
-                    "nombre": "Hipérbola y sus diversas expresiones", 
+                    "nombre": "Hipérbola", 
                     "videos": [
                         {
                             "url": "https://www.youtube.com/watch?v=nIWYDWccbyI", 

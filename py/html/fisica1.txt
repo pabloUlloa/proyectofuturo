@@ -15,7 +15,7 @@ Introducción a la Física
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7114');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9511');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -30,7 +30,7 @@ Introducción a la Física
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8095');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1007');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -45,7 +45,7 @@ Introducción a la Física
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3662');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8297');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -60,7 +60,7 @@ Introducción a la Física
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4239');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3871');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -75,7 +75,7 @@ Introducción a la Física
 
 
 <div class="modulo1 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5769');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2053');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -90,7 +90,7 @@ Introducción a la Física
 
 
 <div class="modulo1 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9284');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2477');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -114,7 +114,7 @@ Vectores
 
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2150');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9272');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -129,7 +129,7 @@ Vectores
 
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6513');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9983');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -144,7 +144,7 @@ Vectores
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5685');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6499');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -159,7 +159,7 @@ Vectores
 
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1890');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3729');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -174,7 +174,7 @@ Vectores
 
 
 <div class="modulo2 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6725');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2819');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -189,7 +189,7 @@ Vectores
 
 
 <div class="modulo2 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3283');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('160');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -213,7 +213,7 @@ Fuerza
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9012');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3878');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -228,7 +228,7 @@ Fuerza
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4497');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8192');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -243,7 +243,7 @@ Fuerza
 
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4124');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('883');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -258,7 +258,7 @@ Fuerza
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6999');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4498');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -273,7 +273,7 @@ Fuerza
 
 
 <div class="modulo3 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3815');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3206');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -297,7 +297,7 @@ Estática
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7392');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9669');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -312,7 +312,7 @@ Estática
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2314');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1883');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -327,7 +327,7 @@ Estática
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6133');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4644');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -342,7 +342,7 @@ Estática
 
 
 <div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7175');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('580');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -366,7 +366,7 @@ Hidrostática
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('92');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('1304');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -381,7 +381,7 @@ Hidrostática
 
 
 <div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3453');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9471');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -396,7 +396,7 @@ Hidrostática
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1140');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7644');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
