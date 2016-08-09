@@ -62,11 +62,19 @@ def sync():
 def banner():
     cls()
     print "\n"+"="*43+"\n===\t\tProyecto Futuro\t\t===\n"+"="*43+"\n\n\n"
-    print u"Opciones globales (deben ser en mayuscula): \n\tMENU\t=> Ir a menú principal\n\tEXIT\t=> Salir de aplicación\n\tVOLVER\t=> Volver al nivel anterior\n\tGENERAR\t=> Generar la salida en HTML\n\n"
+    print u"""Opciones globales (deben ser en mayuscula): 
+\tMENU\t=> Ir a menú principal
+\tSALIR\t=> Salir de aplicación
+\tVOLVER\t=> Volver al nivel anterior
+\tGENERAR\t=> Generar la salida en HTML
+\tDWNLD\t=> Descargar archivos desde el servidor externo
+\tUPLD\t=> Cargar archivos hacia el servidor externo
+\tSYNC\t=> Sincronizar archivos con el servidor externo (DWNLD & UPLD)
+"""
 
 def inp(s):
     r=raw_input(s)
-    if r.upper()=="EXIT":
+    if r.upper()=="EXIT" or r.upper()=="SALIR":
         exit(1)
     elif r.upper()=="MENU":
         menu()
@@ -74,6 +82,12 @@ def inp(s):
         generar()
     elif r.upper()=="SYNC":
         sync()
+        menu()
+    elif r.upper()=="DWNLD":
+        dnld()
+        menu()
+    elif r.upper()=="UPLD":
+        upld()
         menu()
     return r
 
@@ -329,12 +343,10 @@ def generar():
             for mid in u[u'toggleId']:
                 colapses+=u"colapsID('"+mid.encode("utf-8")+u"');\n"
             i+=1
-        out=out+u"#"*77+u"\n\n<script>\n"+colapses+"</script>"
+        out=out+u"#"*77+u"\n\n<p><br /></p>\n<script>\n"+colapses+"</script><p><br /></p>"
         with codecs.open("html/"+ruta.split("/")[1].split(".")[0]+".txt",'w',encoding='utf-8') as f:
             f.write(out)
             f.close()
-    upld()
     menu()
 
-dnld()    
 menu()
