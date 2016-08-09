@@ -3,7 +3,11 @@
     "unidades":[
         {
             "nombre":"Fuerza Eléctrica",
-            "toggleId":["module-92022"],
+            "toggleId":[
+                "module-92022",
+                "module-112194",
+                "module-92576"
+            ],
             "modulos":[
                 {
                     "nombre":"Ley de Coulomb",
@@ -22,7 +26,14 @@
         },
         {
             "nombre":"Campo Eléctrico",
-            "toggleId":["module-92587"],
+            "toggleId":[
+                "module-92587",
+                "module-112195",
+                "module-92027",
+                "module-92033",
+                "module-104482",
+                "module-112184"
+            ],
             "modulos":[
                 {
                     "nombre":"Campo Eléctrico",
@@ -96,7 +107,11 @@
         },
         {
             "nombre":"Circuitos de Corriente Continua",
-            "toggleId":["module-92599"],
+            "toggleId":[
+                "module-92599",
+                "module-112196",
+                "module-112186"
+            ],
             "modulos":[
                 {
                     "nombre":"Leyes de Kirchhoff",
@@ -115,7 +130,12 @@
         },
         {
             "nombre":"Campo Magnético",
-            "toggleId":["module-92032"],
+            "toggleId":[
+                "module-92032",
+                "module-112197",
+                "module-112188",
+                "module-112189"
+            ],
             "modulos":[
                 {
                     "nombre":"Fuerza Magnética y Ley de Biot-Savart",
@@ -155,7 +175,11 @@
         },
         {
             "nombre":"Inducción Electromagnética",
-            "toggleId":["module-92038"],
+            "toggleId":[
+                "module-92038",
+                "module-112198",
+                "module-112192"
+            ],
             "modulos":[
                 {
                     "nombre":"Inducción Electromagnética",

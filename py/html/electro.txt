@@ -2,7 +2,7 @@
 Fuerza Eléctrica
 
 <hr />
-<p class="unidad" onclick="colapsID('module-92022');" style="cursor:pointer;"><span>Unidad 0: Fuerza Eléctrica</span></p>
+<p class="unidad" onclick="colapsID('module-92022');colapsID('module-112194');colapsID('module-92576');" style="cursor:pointer;"><span>Unidad 0: Fuerza Eléctrica</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -38,7 +38,7 @@ Fuerza Eléctrica
 Campo Eléctrico
 
 <hr />
-<p class="unidad" onclick="colapsID('module-92587');" style="cursor:pointer;"><span>Unidad 1: Campo Eléctrico</span></p>
+<p class="unidad" onclick="colapsID('module-92587');colapsID('module-112195');colapsID('module-92027');colapsID('module-92033');colapsID('module-104482');colapsID('module-112184');" style="cursor:pointer;"><span>Unidad 1: Campo Eléctrico</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -191,7 +191,7 @@ Campo Eléctrico
 Circuitos de Corriente Continua
 
 <hr />
-<p class="unidad" onclick="colapsID('module-92599');" style="cursor:pointer;"><span>Unidad 2: Circuitos de Corriente Continua</span></p>
+<p class="unidad" onclick="colapsID('module-92599');colapsID('module-112196');colapsID('module-112186');" style="cursor:pointer;"><span>Unidad 2: Circuitos de Corriente Continua</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -227,7 +227,7 @@ Circuitos de Corriente Continua
 Campo Magnético
 
 <hr />
-<p class="unidad" onclick="colapsID('module-92032');" style="cursor:pointer;"><span>Unidad 3: Campo Magnético</span></p>
+<p class="unidad" onclick="colapsID('module-92032');colapsID('module-112197');colapsID('module-112188');colapsID('module-112189');" style="cursor:pointer;"><span>Unidad 3: Campo Magnético</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -308,7 +308,7 @@ Campo Magnético
 Inducción Electromagnética
 
 <hr />
-<p class="unidad" onclick="colapsID('module-92038');" style="cursor:pointer;"><span>Unidad 4: Inducción Electromagnética</span></p>
+<p class="unidad" onclick="colapsID('module-92038');colapsID('module-112198');colapsID('module-112192');" style="cursor:pointer;"><span>Unidad 4: Inducción Electromagnética</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -353,8 +353,22 @@ Inducción Electromagnética
 
 <script>
 colapsID('module-92022');
+colapsID('module-112194');
+colapsID('module-92576');
 colapsID('module-92587');
+colapsID('module-112195');
+colapsID('module-92027');
+colapsID('module-92033');
+colapsID('module-104482');
+colapsID('module-112184');
 colapsID('module-92599');
+colapsID('module-112196');
+colapsID('module-112186');
 colapsID('module-92032');
+colapsID('module-112197');
+colapsID('module-112188');
+colapsID('module-112189');
 colapsID('module-92038');
+colapsID('module-112198');
+colapsID('module-112192');
 </script>
