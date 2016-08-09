@@ -62,7 +62,7 @@ def sync():
 def banner():
     cls()
     print "\n"+"="*43+"\n===\t\tProyecto Futuro\t\t===\n"+"="*43+"\n\n\n"
-    print u"""Opciones globales (deben ser en mayuscula): 
+    print u"""Opciones globales:
 \tMENU\t=> Ir a menú principal
 \tSALIR\t=> Salir de aplicación
 \tVOLVER\t=> Volver al nivel anterior
