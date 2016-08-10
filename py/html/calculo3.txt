@@ -87,7 +87,7 @@ Series de Fourier
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3748');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6439');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -183,7 +183,7 @@ Funciones de Varias Variables
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8336');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3358');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -198,7 +198,7 @@ Funciones de Varias Variables
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5986');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2833');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -213,7 +213,7 @@ Funciones de Varias Variables
 
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('676');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4312');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -228,7 +228,7 @@ Funciones de Varias Variables
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6057');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('895');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -243,7 +243,7 @@ Funciones de Varias Variables
 
 
 <div class="modulo3 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('461');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2859');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -258,7 +258,7 @@ Funciones de Varias Variables
 
 
 <div class="modulo3 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4493');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7088');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -273,7 +273,7 @@ Funciones de Varias Variables
 
 
 <div class="modulo3 7" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1985');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3911');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -297,7 +297,7 @@ Integrales dobles, triples, de línea y de superficie
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5012');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3641');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -312,7 +312,7 @@ Integrales dobles, triples, de línea y de superficie
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9787');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5243');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -327,7 +327,7 @@ Integrales dobles, triples, de línea y de superficie
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4435');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2674');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -342,7 +342,7 @@ Integrales dobles, triples, de línea y de superficie
 
 
 <div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5503');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4098');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -357,7 +357,7 @@ Integrales dobles, triples, de línea y de superficie
 
 
 <div class="modulo4 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2718');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7649');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -366,9 +366,11 @@ Integrales dobles, triples, de línea y de superficie
 
 #############################################################################
 
+<p><br /></p>
 <script>
 colapsID('module-104629');
 colapsID('module-104630');
 colapsID('module-104631');
 colapsID('module-104820');
 </script>
+<p><br /></p>

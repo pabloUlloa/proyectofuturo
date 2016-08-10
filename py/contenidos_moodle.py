@@ -343,7 +343,7 @@ def generar():
             for mid in u[u'toggleId']:
                 colapses+=u"colapsID('"+mid.encode("utf-8")+u"');\n"
             i+=1
-        out=out+u"#"*77+u"\n\n<p><br /></p>\n<script>\n"+colapses+"</script><p><br /></p>"
+        out=out+u"#"*77+u"\n\n<p><br /></p>\n<script>\n"+colapses+"</script>\n<p><br /></p>"
         with codecs.open("html/"+ruta.split("/")[1].split(".")[0]+".txt",'w',encoding='utf-8') as f:
             f.write(out)
             f.close()

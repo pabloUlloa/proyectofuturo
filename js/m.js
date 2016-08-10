@@ -45,7 +45,7 @@ function crearClases(){
 		}\
 		@font-face {\
 			font-family: tizaImprenta;\
-			src: url(http://rawgit.com/pabloUlloa/proyectofuturo/master/fonts/Marker-Regular.ttf);\
+			src: url(http://rawgit.com/pabloUlloa/proyectofuturo/master/fonts/MarkerRegularRegular2.ttf);\
 		}\
 		.boton{\
 			opacity: 0.7;\

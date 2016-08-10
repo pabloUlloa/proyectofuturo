@@ -351,6 +351,7 @@ Inducción Electromagnética
 
 #############################################################################
 
+<p><br /></p>
 <script>
 colapsID('module-92022');
 colapsID('module-112194');
@@ -372,3 +373,4 @@ colapsID('module-92038');
 colapsID('module-112198');
 colapsID('module-112192');
 </script>
+<p><br /></p>
