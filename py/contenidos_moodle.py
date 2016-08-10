@@ -269,7 +269,7 @@ def menu():
 
 
 def formatoUnidad(u,i):
-    n=u"Unidad "+str(i-1).encode("utf-8")+u": "+u[u'nombre']
+    n=u"Unidad "+str(i).encode("utf-8")+u": "+u[u'nombre']
     colapses=""
     for mid in u[u'toggleId']:
         colapses+=u"colapsID('"+mid.encode("utf-8")+u"');"

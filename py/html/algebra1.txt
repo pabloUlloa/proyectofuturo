@@ -2,7 +2,7 @@
 Elementos de Lógica Matemática
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104806');colapsID('module-106093');colapsID('module-104366');colapsID('module-104370');colapsID('module-104374');" style="cursor:pointer;"><span>Unidad 0: Elementos de Lógica Matemática</span></p>
+<p class="unidad" onclick="colapsID('module-104806');colapsID('module-106093');colapsID('module-104366');colapsID('module-104370');colapsID('module-104374');" style="cursor:pointer;"><span>Unidad 1: Elementos de Lógica Matemática</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -15,7 +15,7 @@ Elementos de Lógica Matemática
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9001');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8430');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -30,7 +30,7 @@ Elementos de Lógica Matemática
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6471');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6869');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -45,7 +45,7 @@ Elementos de Lógica Matemática
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9848');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2075');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -56,7 +56,7 @@ Elementos de Lógica Matemática
 Inducción y Sumatoria
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104807');colapsID('module-111575');colapsID('module-104384');colapsID('module-104388');colapsID('module-104392');" style="cursor:pointer;"><span>Unidad 1: Inducción y Sumatoria</span></p>
+<p class="unidad" onclick="colapsID('module-104807');colapsID('module-111575');colapsID('module-104384');colapsID('module-104388');colapsID('module-104392');" style="cursor:pointer;"><span>Unidad 2: Inducción y Sumatoria</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -159,7 +159,7 @@ Inducción y Sumatoria
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1119');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('595');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -170,7 +170,7 @@ Inducción y Sumatoria
 Progresiones y Análisis combinatorio
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104808');colapsID('module-111576');colapsID('module-111545');colapsID('module-111546');colapsID('module-111547');" style="cursor:pointer;"><span>Unidad 2: Progresiones y Análisis combinatorio</span></p>
+<p class="unidad" onclick="colapsID('module-104808');colapsID('module-111576');colapsID('module-111545');colapsID('module-111546');colapsID('module-111547');" style="cursor:pointer;"><span>Unidad 3: Progresiones y Análisis combinatorio</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -255,7 +255,7 @@ Progresiones y Análisis combinatorio
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8871');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6298');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -320,7 +320,7 @@ Progresiones y Análisis combinatorio
 Relaciones
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104809');colapsID('module-111577');colapsID('module-111549');colapsID('module-111550');" style="cursor:pointer;"><span>Unidad 3: Relaciones</span></p>
+<p class="unidad" onclick="colapsID('module-104809');colapsID('module-111577');colapsID('module-111549');colapsID('module-111550');" style="cursor:pointer;"><span>Unidad 4: Relaciones</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -410,7 +410,7 @@ Relaciones
 Geometría Analítica
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104810');colapsID('module-111578');colapsID('module-111552');colapsID('module-111553');colapsID('module-111554');colapsID('module-111555');colapsID('module-111556');colapsID('module-111557');" style="cursor:pointer;"><span>Unidad 4: Geometría Analítica</span></p>
+<p class="unidad" onclick="colapsID('module-104810');colapsID('module-111578');colapsID('module-111552');colapsID('module-111553');colapsID('module-111554');colapsID('module-111555');colapsID('module-111556');colapsID('module-111557');" style="cursor:pointer;"><span>Unidad 5: Geometría Analítica</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -423,7 +423,7 @@ Geometría Analítica
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7220');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5803');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -438,7 +438,7 @@ Geometría Analítica
 
 
 <div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8904');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9065');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -453,7 +453,7 @@ Geometría Analítica
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4326');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('63');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -468,7 +468,7 @@ Geometría Analítica
 
 
 <div class="modulo5 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8963');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3093');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -515,7 +515,7 @@ Geometría Analítica
 Grupos, Anillos y Homomorfismos
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104811');colapsID('module-111579');colapsID('module-111559');colapsID('module-111560');colapsID('module-111561');" style="cursor:pointer;"><span>Unidad 5: Grupos, Anillos y Homomorfismos</span></p>
+<p class="unidad" onclick="colapsID('module-104811');colapsID('module-111579');colapsID('module-111559');colapsID('module-111560');colapsID('module-111561');" style="cursor:pointer;"><span>Unidad 6: Grupos, Anillos y Homomorfismos</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -528,7 +528,7 @@ Grupos, Anillos y Homomorfismos
 
 
 <div class="modulo6 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5961');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7177');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -543,7 +543,7 @@ Grupos, Anillos y Homomorfismos
 
 
 <div class="modulo6 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3084');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9650');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -558,7 +558,7 @@ Grupos, Anillos y Homomorfismos
 
 
 <div class="modulo6 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('169');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2443');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -569,7 +569,7 @@ Grupos, Anillos y Homomorfismos
 Complementos de Complejos
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104812');colapsID('module-111580');colapsID('module-111563');colapsID('module-111564');colapsID('module-111565');" style="cursor:pointer;"><span>Unidad 6: Complementos de Complejos</span></p>
+<p class="unidad" onclick="colapsID('module-104812');colapsID('module-111580');colapsID('module-111563');colapsID('module-111564');colapsID('module-111565');" style="cursor:pointer;"><span>Unidad 7: Complementos de Complejos</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -582,7 +582,7 @@ Complementos de Complejos
 
 
 <div class="modulo7 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2734');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('274');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -597,7 +597,7 @@ Complementos de Complejos
 
 
 <div class="modulo7 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1720');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('605');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -612,7 +612,7 @@ Complementos de Complejos
 
 
 <div class="modulo7 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3752');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9519');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -623,7 +623,7 @@ Complementos de Complejos
 Complementos de Polinomios
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104813');colapsID('module-111581');colapsID('module-111567');colapsID('module-111568');colapsID('module-111569');" style="cursor:pointer;"><span>Unidad 7: Complementos de Polinomios</span></p>
+<p class="unidad" onclick="colapsID('module-104813');colapsID('module-111581');colapsID('module-111567');colapsID('module-111568');colapsID('module-111569');" style="cursor:pointer;"><span>Unidad 8: Complementos de Polinomios</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -663,7 +663,7 @@ Complementos de Polinomios
 
 
 <div class="modulo8 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5119');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('740');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -692,7 +692,7 @@ Complementos de Polinomios
 Complementos de Matrices
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104814');colapsID('module-111582');colapsID('module-104628');colapsID('module-111571');colapsID('module-111572');colapsID('module-111573');" style="cursor:pointer;"><span>Unidad 8: Complementos de Matrices</span></p>
+<p class="unidad" onclick="colapsID('module-104814');colapsID('module-111582');colapsID('module-104628');colapsID('module-111571');colapsID('module-111572');colapsID('module-111573');" style="cursor:pointer;"><span>Unidad 9: Complementos de Matrices</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -705,7 +705,7 @@ Complementos de Matrices
 
 
 <div class="modulo9 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7778');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('117');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -720,7 +720,7 @@ Complementos de Matrices
 
 
 <div class="modulo9 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7232');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5672');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -735,7 +735,7 @@ Complementos de Matrices
 
 
 <div class="modulo9 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6330');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7877');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -750,7 +750,7 @@ Complementos de Matrices
 
 
 <div class="modulo9 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5685');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8509');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>

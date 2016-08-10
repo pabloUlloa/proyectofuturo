@@ -2,7 +2,7 @@
 Los Números Reales
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104642');colapsID('module-111413');colapsID('module-110230');colapsID('module-104401');colapsID('module-104402');colapsID('module-104403');" style="cursor:pointer;"><span>Unidad 0: Los Números Reales</span></p>
+<p class="unidad" onclick="colapsID('module-104642');colapsID('module-111413');colapsID('module-110230');colapsID('module-104401');colapsID('module-104402');colapsID('module-104403');" style="cursor:pointer;"><span>Unidad 1: Los Números Reales</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -51,7 +51,7 @@ Los Números Reales
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4562');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7721');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -111,7 +111,7 @@ Los Números Reales
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1529');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4059');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -122,7 +122,7 @@ Los Números Reales
 Funciones de Variable Real
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104643');colapsID('module-111415');colapsID('module-104405');colapsID('module-111227');colapsID('module-104408');colapsID('module-111383');" style="cursor:pointer;"><span>Unidad 1: Funciones de Variable Real</span></p>
+<p class="unidad" onclick="colapsID('module-104643');colapsID('module-111415');colapsID('module-104405');colapsID('module-111227');colapsID('module-104408');colapsID('module-111383');" style="cursor:pointer;"><span>Unidad 2: Funciones de Variable Real</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -216,7 +216,7 @@ Funciones de Variable Real
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9173');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6007');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -231,7 +231,7 @@ Funciones de Variable Real
 
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6882');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3175');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -242,7 +242,7 @@ Funciones de Variable Real
 Límite de Funciones
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104644');colapsID('module-111416');colapsID('module-111385');colapsID('module-111386');colapsID('module-111387');colapsID('module-111388');" style="cursor:pointer;"><span>Unidad 2: Límite de Funciones</span></p>
+<p class="unidad" onclick="colapsID('module-104644');colapsID('module-111416');colapsID('module-111385');colapsID('module-111386');colapsID('module-111387');colapsID('module-111388');" style="cursor:pointer;"><span>Unidad 3: Límite de Funciones</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -381,7 +381,7 @@ Límite de Funciones
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4170');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9681');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -392,7 +392,7 @@ Límite de Funciones
 Derivada
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104645');colapsID('module-111417');colapsID('module-111390');colapsID('module-111391');colapsID('module-111392');colapsID('module-111393');colapsID('module-111394');colapsID('module-111395');colapsID('module-111396');colapsID('module-111397');" style="cursor:pointer;"><span>Unidad 3: Derivada</span></p>
+<p class="unidad" onclick="colapsID('module-104645');colapsID('module-111417');colapsID('module-111390');colapsID('module-111391');colapsID('module-111392');colapsID('module-111393');colapsID('module-111394');colapsID('module-111395');colapsID('module-111396');colapsID('module-111397');" style="cursor:pointer;"><span>Unidad 4: Derivada</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -405,7 +405,7 @@ Derivada
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8023');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('110');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -420,7 +420,7 @@ Derivada
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6063');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6931');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -435,7 +435,7 @@ Derivada
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4951');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3541');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -450,7 +450,7 @@ Derivada
 
 
 <div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5179');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9738');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -465,7 +465,7 @@ Derivada
 
 
 <div class="modulo4 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5056');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('278');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -480,7 +480,7 @@ Derivada
 
 
 <div class="modulo4 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9777');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3717');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -495,7 +495,7 @@ Derivada
 
 
 <div class="modulo4 7" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5731');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9029');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -510,7 +510,7 @@ Derivada
 
 
 <div class="modulo4 8" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1634');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6543');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -521,7 +521,7 @@ Derivada
 Aplicaciones de la derivada
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104646');colapsID('module-111418');colapsID('module-111399');colapsID('module-111400');colapsID('module-111401');" style="cursor:pointer;"><span>Unidad 4: Aplicaciones de la derivada</span></p>
+<p class="unidad" onclick="colapsID('module-104646');colapsID('module-111418');colapsID('module-111399');colapsID('module-111400');colapsID('module-111401');" style="cursor:pointer;"><span>Unidad 5: Aplicaciones de la derivada</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -534,7 +534,7 @@ Aplicaciones de la derivada
 
 
 <div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9400');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8847');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -585,7 +585,7 @@ Aplicaciones de la derivada
 
 
 <div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6263');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8645');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -596,7 +596,7 @@ Aplicaciones de la derivada
 Antiderivadas
 
 <hr />
-<p class="unidad" onclick="colapsID('module-104647');colapsID('module-111419');colapsID('module-111403');colapsID('module-111404');colapsID('module-111405');colapsID('module-111406');colapsID('module-111407');colapsID('module-111408');" style="cursor:pointer;"><span>Unidad 5: Antiderivadas</span></p>
+<p class="unidad" onclick="colapsID('module-104647');colapsID('module-111419');colapsID('module-111403');colapsID('module-111404');colapsID('module-111405');colapsID('module-111406');colapsID('module-111407');colapsID('module-111408');" style="cursor:pointer;"><span>Unidad 6: Antiderivadas</span></p>
 
 
 -----------------------------------------------------------------------------
@@ -609,7 +609,7 @@ Antiderivadas
 
 
 <div class="modulo6 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4971');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('8600');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -642,7 +642,7 @@ Antiderivadas
 
 
 <div class="modulo6 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3736');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6373');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
