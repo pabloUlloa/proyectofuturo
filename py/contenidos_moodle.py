@@ -274,8 +274,10 @@ def formatoUnidad(u,i):
     for mid in u[u'toggleId']:
         colapses+=u"colapsID('"+mid.encode("utf-8")+u"');"
     formato="""
+
 <hr />
 <p class="unidad" onclick=\""""+colapses+"""" style="cursor:pointer;"><span>"""+n+"""</span></p>
+
 """
     return formato
 
@@ -283,11 +285,11 @@ def formatoModulo(n,j,i):
     mid=str(i)+" "+str(j)
     n1=u"Módulo "+str(j).encode("utf-8")+u": "
     formato="""
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo"""+str(mid).encode("utf-8")+"""')" style="cursor:pointer;">
-<span class="numeroModulo">"""+n1+"""</span><span class="nombreModulo">"""+n+"""</span>
-</p>
-"""
+
+\t<hr />
+\t<p class="modulo" onclick="colapsarClase('modulo"""+str(mid).encode("utf-8")+"""')" style="cursor:pointer;">
+\t<span class="numeroModulo">"""+n1+"""</span><span class="nombreModulo">"""+n+"""</span>
+\t</p>"""
     return formato
 
 def formatoVideo(n,u,i,j):
@@ -295,14 +297,14 @@ def formatoVideo(n,u,i,j):
     embed=u.replace("watch?v=","embed/")
     vid=embed.replace("https","http").replace("http://www.youtube.com/embed/","")
     formato="""
-<div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('"""+vid+"""');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">"""+n+"""</span>
-</p>
-<div id=\""""+vid+"""" style="display: none;"><center>
-<iframe src=\""""+embed+"""?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+\t<div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:30px;display:none;">
+\t<p class="video" onclick="colapsID('"""+vid+"""');" style="cursor:pointer;margin-left:30px;">
+\t<span style="margin-left: 50px;">"""+n+"""</span>
+\t</p>
+\t<div id=\""""+vid+"""" style="display: none;"><center>
+\t<iframe src=\""""+embed+"""?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+\t</center></div>
+\t</div>
 """
     return formato
 
@@ -311,11 +313,11 @@ def noVideo(i,j):
     vid=str(randint(1,10000))
     n1=u"[Videos aún no disponibles]"
     formato="""
-<div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('"""+vid.encode("utf-8")+"""');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">"""+n1+"""</span>
-</p>
-</div>
+\t<div class="modulo"""+str(mid).encode("utf-8")+"""" style="margin-left:30px;display:none;">
+\t<p class="video" onclick="colapsID('"""+vid.encode("utf-8")+"""');" style="cursor:pointer;margin-left:30px">
+\t<span style="margin-left: 50px;">"""+n1+"""</span>
+\t</p>
+\t</div>
 """
     return formato
 
@@ -327,22 +329,23 @@ def generar():
         colapses=u""
         i=1
         for u in r[u'unidades']:
-            out+=u"="*77+u"\n"+u[u'nombre']+u"\n"
+            out+=u"="*77+u"\n"+str(i).encode("utf-8")+u" "+u[u'nombre']+u"\n"+u"="*77+u"\n"
             out+=formatoUnidad(u,i)+u"\n\n"
             j=1
             for m in u[u'modulos']:
-                out+=u"-"*77+u"\n\t"+m[u'nombre']+u"\n"
+                out+=u"\t"+u"-"*77+u"\n\t"+str(j).encode("utf-8")+u" "+m[u'nombre']+u"\n\t"+u"-"*77+u"\n"
                 out+=formatoModulo(m[u'nombre'],j,i)+u"\n"
                 if len(m[u'videos'])==0:
                     out+=noVideo(i,j)
                 for v in m[u'videos']:
                     out+=formatoVideo(v[u'nombre'],v[u'url'],i,j)
-                out+=u"\n"
                 j+=1
+                out+=u"\n"*4
             out+=u"\n\n"
             for mid in u[u'toggleId']:
                 colapses+=u"colapsID('"+mid.encode("utf-8")+u"');\n"
             i+=1
+            out+=u"\n"*12
         out=out+u"#"*77+u"\n\n<p><br /></p>\n<script>\n"+colapses+"</script>\n<p><br /></p>"
         with codecs.open("html/"+ruta.split("/")[1].split(".")[0]+".txt",'w',encoding='utf-8') as f:
             f.write(out)

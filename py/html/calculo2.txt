@@ -1,261 +1,381 @@
 =============================================================================
-Integral de Riemann y Aplicaciones de la Integral
+1 Integral de Riemann y Aplicaciones de la Integral
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104649');" style="cursor:pointer;"><span>Unidad 1: Integral de Riemann y Aplicaciones de la Integral</span></p>
 
 
------------------------------------------------------------------------------
-	Sumas e integral de Riemann, propiedades
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Sumas e integral de Riemann, propiedades</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Sumas e integral de Riemann, propiedades
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1408');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Sumas e integral de Riemann, propiedades</span>
+	</p>
 
------------------------------------------------------------------------------
-	Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas</span>
-</p>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('3537');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6865');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Volumenes, Longitud de Arco y Areas de superficies de revolución
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Volumenes, Longitud de Arco y Areas de superficies de revolución</span>
-</p>
 
 
-<div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8504');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Funciones Logaritmo Natural, Exponencial e Hiperbolicas
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Funciones Logaritmo Natural, Exponencial e Hiperbolicas</span>
-</p>
+	-----------------------------------------------------------------------------
+	2 Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8443');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Integrales definidas, Teorema fundamental del Cálculo y Cálculo de Areas</span>
+	</p>
+
+	<div class="modulo1 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('5065');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	3 Volumenes, Longitud de Arco y Areas de superficies de revolución
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Volumenes, Longitud de Arco y Areas de superficies de revolución</span>
+	</p>
+
+	<div class="modulo1 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('8283');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	4 Funciones Logaritmo Natural, Exponencial e Hiperbolicas
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 4')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Funciones Logaritmo Natural, Exponencial e Hiperbolicas</span>
+	</p>
+
+	<div class="modulo1 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('3924');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Aplicaciones Geométricas de la Integral
+2 Aplicaciones Geométricas de la Integral
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104650');" style="cursor:pointer;"><span>Unidad 2: Aplicaciones Geométricas de la Integral</span></p>
 
 
------------------------------------------------------------------------------
-	Ecuaciones Paramétricas y aplicaciones
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Ecuaciones Paramétricas y aplicaciones</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Ecuaciones Paramétricas y aplicaciones
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7671');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Ecuaciones Paramétricas y aplicaciones</span>
+	</p>
 
------------------------------------------------------------------------------
-	Coordenadas Polares y aplicaciones
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Coordenadas Polares y aplicaciones</span>
-</p>
+	<div class="modulo2 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('4909');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9476');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+
+
+	-----------------------------------------------------------------------------
+	2 Coordenadas Polares y aplicaciones
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Coordenadas Polares y aplicaciones</span>
+	</p>
+
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('8869');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Integral Impropia y Series
+3 Integral Impropia y Series
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104651');" style="cursor:pointer;"><span>Unidad 3: Integral Impropia y Series</span></p>
 
 
------------------------------------------------------------------------------
-	Integrales impropias de primera especie
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Integrales impropias de primera especie</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Integrales impropias de primera especie
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9396');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Integrales impropias de primera especie</span>
+	</p>
 
------------------------------------------------------------------------------
-	Integrales impropias de segunda y tercera especie
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Integrales impropias de segunda y tercera especie</span>
-</p>
+	<div class="modulo3 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('4577');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3003');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Convergencia de integrales: Comparación y criterio del límite \(n^p\)
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Convergencia de integrales: Comparación y criterio del límite \(n^p\)</span>
-</p>
 
 
-<div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9380');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Sucesiones y Series: Criterios de convergencia y divergencia
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Sucesiones y Series: Criterios de convergencia y divergencia</span>
-</p>
+	-----------------------------------------------------------------------------
+	2 Integrales impropias de segunda y tercera especie
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9993');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Integrales impropias de segunda y tercera especie</span>
+	</p>
 
------------------------------------------------------------------------------
-	Series de potencias
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 5')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Series de potencias</span>
-</p>
+	<div class="modulo3 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('5582');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo3 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7844');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Teorema de Taylor y de Mac Laurin, Serie Binomial
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 6')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Teorema de Taylor y de Mac Laurin, Serie Binomial</span>
-</p>
 
 
-<div class="modulo3 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8939');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	-----------------------------------------------------------------------------
+	3 Convergencia de integrales: Comparación y criterio del límite \(n^p\)
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Convergencia de integrales: Comparación y criterio del límite \(n^p\)</span>
+	</p>
+
+	<div class="modulo3 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('2182');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	4 Sucesiones y Series: Criterios de convergencia y divergencia
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 4')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Sucesiones y Series: Criterios de convergencia y divergencia</span>
+	</p>
+
+	<div class="modulo3 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('7139');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	5 Series de potencias
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 5')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Series de potencias</span>
+	</p>
+
+	<div class="modulo3 5" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('53');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	6 Teorema de Taylor y de Mac Laurin, Serie Binomial
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 6')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Teorema de Taylor y de Mac Laurin, Serie Binomial</span>
+	</p>
+
+	<div class="modulo3 6" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('395');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Curvas en el plano y el espacio
+4 Curvas en el plano y el espacio
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104652');" style="cursor:pointer;"><span>Unidad 4: Curvas en el plano y el espacio</span></p>
 
 
------------------------------------------------------------------------------
-	Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4177');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Curvas en \(\mathbb{R}^2\) y en \(\mathbb{R}^3\)</span>
+	</p>
 
------------------------------------------------------------------------------
-	Diferenciación de funciones reales de varias variables
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Diferenciación de funciones reales de varias variables</span>
-</p>
+	<div class="modulo4 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('7324');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1837');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Derivación parcial
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Derivación parcial</span>
-</p>
 
 
-<div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6184');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	-----------------------------------------------------------------------------
+	2 Diferenciación de funciones reales de varias variables
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Diferenciación de funciones reales de varias variables</span>
+	</p>
+
+	<div class="modulo4 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('13');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	3 Derivación parcial
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Derivación parcial</span>
+	</p>
+
+	<div class="modulo4 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('1690');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,345 +1,496 @@
 =============================================================================
-Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería
+1 Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104821');" style="cursor:pointer;"><span>Unidad 1: Ecuaciones Diferenciales Ordinarias de Primer Orden y Aplicaciones de Ingeniería</span></p>
 
 
------------------------------------------------------------------------------
-	Introducción a las Ecuaciones Diferenciales
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Introducción a las Ecuaciones Diferenciales</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Introducción a las Ecuaciones Diferenciales
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3741');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Introducción a las Ecuaciones Diferenciales</span>
+	</p>
 
------------------------------------------------------------------------------
-	Ecuaciones de Variables Separables
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ecuaciones de Variables Separables</span>
-</p>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('501');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('TJjiqfnuwbQ');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Separación de Variables</span>
-</p>
-<div id="TJjiqfnuwbQ" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/TJjiqfnuwbQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
------------------------------------------------------------------------------
-	Ecuaciones Diferenciales Exactas
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Ecuaciones Diferenciales Exactas</span>
-</p>
 
 
-<div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('ocSmZSKlN04');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ecuaciones Diferenciales Exactas - Concepto</span>
-</p>
-<div id="ocSmZSKlN04" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/ocSmZSKlN04?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
-<div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('mGZE0-nfvnU');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ecuaciones Diferenciales Exactas - Ejercicio 1</span>
-</p>
-<div id="mGZE0-nfvnU" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/mGZE0-nfvnU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
------------------------------------------------------------------------------
-	Ecuaciones Lineales
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Ecuaciones Lineales</span>
-</p>
+	-----------------------------------------------------------------------------
+	2 Ecuaciones de Variables Separables
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8207');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ecuaciones de Variables Separables</span>
+	</p>
 
------------------------------------------------------------------------------
-	Aplicaciones de las Ecuaciones Diferenciales de Primer Orden
+	<div class="modulo1 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('TJjiqfnuwbQ');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Separación de Variables</span>
+	</p>
+	<div id="TJjiqfnuwbQ" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/TJjiqfnuwbQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 5')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Aplicaciones de las Ecuaciones Diferenciales de Primer Orden</span>
-</p>
 
 
-<div class="modulo1 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1562');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+
+	-----------------------------------------------------------------------------
+	3 Ecuaciones Diferenciales Exactas
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Ecuaciones Diferenciales Exactas</span>
+	</p>
+
+	<div class="modulo1 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('ocSmZSKlN04');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ecuaciones Diferenciales Exactas - Concepto</span>
+	</p>
+	<div id="ocSmZSKlN04" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/ocSmZSKlN04?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo1 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('mGZE0-nfvnU');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ecuaciones Diferenciales Exactas - Ejercicio 1</span>
+	</p>
+	<div id="mGZE0-nfvnU" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/mGZE0-nfvnU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	4 Ecuaciones Lineales
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 4')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Ecuaciones Lineales</span>
+	</p>
+
+	<div class="modulo1 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('6528');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	5 Aplicaciones de las Ecuaciones Diferenciales de Primer Orden
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 5')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Aplicaciones de las Ecuaciones Diferenciales de Primer Orden</span>
+	</p>
+
+	<div class="modulo1 5" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('4318');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería
+2 Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104822');" style="cursor:pointer;"><span>Unidad 2: Ecuaciones Diferenciales Ordinarias de Segundo Orden y Aplicaciones de Ingeniería</span></p>
 
 
------------------------------------------------------------------------------
-	Ecuaciones lineales de Segundo Orden
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Ecuaciones lineales de Segundo Orden</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Ecuaciones lineales de Segundo Orden
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5907');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Ecuaciones lineales de Segundo Orden</span>
+	</p>
 
------------------------------------------------------------------------------
-	Ecuaciones Lineales Homogeneas
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ecuaciones Lineales Homogeneas</span>
-</p>
+	<div class="modulo2 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('5999');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2187');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Ecuaciones Lineales no Homogeneas
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Ecuaciones Lineales no Homogeneas</span>
-</p>
 
 
-<div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7284');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Aplicaciones de ecuaciones de segundo orden
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Aplicaciones de ecuaciones de segundo orden</span>
-</p>
+	-----------------------------------------------------------------------------
+	2 Ecuaciones Lineales Homogeneas
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3935');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ecuaciones Lineales Homogeneas</span>
+	</p>
+
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('2964');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	3 Ecuaciones Lineales no Homogeneas
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Ecuaciones Lineales no Homogeneas</span>
+	</p>
+
+	<div class="modulo2 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('8856');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	4 Aplicaciones de ecuaciones de segundo orden
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 4')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Aplicaciones de ecuaciones de segundo orden</span>
+	</p>
+
+	<div class="modulo2 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('4391');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Soluciones de Ecuaciones Diferenciales por series de Potencia
+3 Soluciones de Ecuaciones Diferenciales por series de Potencia
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104824');" style="cursor:pointer;"><span>Unidad 3: Soluciones de Ecuaciones Diferenciales por series de Potencia</span></p>
 
 
------------------------------------------------------------------------------
-	Solución en torno a puntos ordinarios
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Solución en torno a puntos ordinarios</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Solución en torno a puntos ordinarios
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9701');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Solución en torno a puntos ordinarios</span>
+	</p>
 
------------------------------------------------------------------------------
-	Solución en torno a puntos singulares regulares
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Solución en torno a puntos singulares regulares</span>
-</p>
+	<div class="modulo3 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('9244');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('65');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+
+
+	-----------------------------------------------------------------------------
+	2 Solución en torno a puntos singulares regulares
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Solución en torno a puntos singulares regulares</span>
+	</p>
+
+	<div class="modulo3 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('848');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Transformada de Laplace y Aplicaciones de Ingeniería
+4 Transformada de Laplace y Aplicaciones de Ingeniería
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104825');" style="cursor:pointer;"><span>Unidad 4: Transformada de Laplace y Aplicaciones de Ingeniería</span></p>
 
 
------------------------------------------------------------------------------
-	Definición y propiedades de la Transformada de Laplace
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Definición y propiedades de la Transformada de Laplace</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Definición y propiedades de la Transformada de Laplace
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8513');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Definición y propiedades de la Transformada de Laplace</span>
+	</p>
 
------------------------------------------------------------------------------
-	Aplicación de la Transformada de Laplace en la resolución de ecuaciones diferenciales
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Aplicación de la Transformada de Laplace en la resolución de ecuaciones diferenciales</span>
-</p>
+	<div class="modulo4 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('8675');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1218');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Convolución
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Convolución</span>
-</p>
 
 
-<div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9827');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	-----------------------------------------------------------------------------
+	2 Aplicación de la Transformada de Laplace en la resolución de ecuaciones diferenciales
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Aplicación de la Transformada de Laplace en la resolución de ecuaciones diferenciales</span>
+	</p>
+
+	<div class="modulo4 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('2720');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	3 Convolución
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Convolución</span>
+	</p>
+
+	<div class="modulo4 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('130');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
+5 Soluciones de Ecuaciones en derivadas Parciales y aplicaciones
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104826');" style="cursor:pointer;"><span>Unidad 5: Soluciones de Ecuaciones en derivadas Parciales y aplicaciones</span></p>
 
 
------------------------------------------------------------------------------
-	Introducción
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo5 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Introducción</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Introducción
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4489');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo5 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Introducción</span>
+	</p>
 
------------------------------------------------------------------------------
-	Método de Separación de Variables
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo5 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Método de Separación de Variables</span>
-</p>
+	<div class="modulo5 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('8663');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo5 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7933');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Ecuación de Onda
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo5 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Ecuación de Onda</span>
-</p>
 
 
-<div class="modulo5 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5770');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Ecuación de Calor
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo5 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Ecuación de Calor</span>
-</p>
+	-----------------------------------------------------------------------------
+	2 Método de Separación de Variables
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo5 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5915');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo5 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Método de Separación de Variables</span>
+	</p>
 
------------------------------------------------------------------------------
-	Ecuación de Laplace
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo5 5')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Ecuación de Laplace</span>
-</p>
+	<div class="modulo5 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('9861');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo5 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('413');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+
+
+	-----------------------------------------------------------------------------
+	3 Ecuación de Onda
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo5 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Ecuación de Onda</span>
+	</p>
+
+	<div class="modulo5 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('7498');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	4 Ecuación de Calor
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo5 4')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Ecuación de Calor</span>
+	</p>
+
+	<div class="modulo5 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('6045');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	5 Ecuación de Laplace
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo5 5')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Ecuación de Laplace</span>
+	</p>
+
+	<div class="modulo5 5" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('6975');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

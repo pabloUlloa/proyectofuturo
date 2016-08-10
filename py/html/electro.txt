@@ -1,351 +1,462 @@
 =============================================================================
-Fuerza Eléctrica
+1 Fuerza Eléctrica
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-92022');colapsID('module-112194');colapsID('module-92576');" style="cursor:pointer;"><span>Unidad 1: Fuerza Eléctrica</span></p>
 
 
------------------------------------------------------------------------------
-	Ley de Coulomb
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Ley de Coulomb</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Ley de Coulomb
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('WkKbAx4GJj0');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Introducción y Ejercicio 1</span>
-</p>
-<div id="WkKbAx4GJj0" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/WkKbAx4GJj0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Ley de Coulomb</span>
+	</p>
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('Sj6fKqu6vlw');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 2</span>
-</p>
-<div id="Sj6fKqu6vlw" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/Sj6fKqu6vlw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('WkKbAx4GJj0');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Introducción y Ejercicio 1</span>
+	</p>
+	<div id="WkKbAx4GJj0" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/WkKbAx4GJj0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('Sj6fKqu6vlw');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="Sj6fKqu6vlw" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/Sj6fKqu6vlw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Campo Eléctrico
+2 Campo Eléctrico
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-92587');colapsID('module-112195');colapsID('module-92027');colapsID('module-92033');colapsID('module-104482');colapsID('module-112184');" style="cursor:pointer;"><span>Unidad 2: Campo Eléctrico</span></p>
 
 
------------------------------------------------------------------------------
-	Campo Eléctrico
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Campo Eléctrico</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Campo Eléctrico
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('zibJobhe69w');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Concepto de Cargas Puntuales</span>
-</p>
-<div id="zibJobhe69w" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/zibJobhe69w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Campo Eléctrico</span>
+	</p>
 
-<div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('KscPInEUzVM');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 1</span>
-</p>
-<div id="KscPInEUzVM" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/KscPInEUzVM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo2 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('zibJobhe69w');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Concepto de Cargas Puntuales</span>
+	</p>
+	<div id="zibJobhe69w" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/zibJobhe69w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
------------------------------------------------------------------------------
-	Ley de Gauss
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ley de Gauss</span>
-</p>
+	<div class="modulo2 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('KscPInEUzVM');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="KscPInEUzVM" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/KscPInEUzVM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
 
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('lk9jgHbcyYQ');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Introducción</span>
-</p>
-<div id="lk9jgHbcyYQ" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/lk9jgHbcyYQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('-Mwy7D2IlRg');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 1</span>
-</p>
-<div id="-Mwy7D2IlRg" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/-Mwy7D2IlRg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('WqYq2T-asXc');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 2</span>
-</p>
-<div id="WqYq2T-asXc" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/WqYq2T-asXc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('kj5ZitRZRFk');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 3</span>
-</p>
-<div id="kj5ZitRZRFk" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/kj5ZitRZRFk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('KckOoaEbBXE');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 4</span>
-</p>
-<div id="KckOoaEbBXE" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/KckOoaEbBXE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('qkR-Xs5wuxI');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 5</span>
-</p>
-<div id="qkR-Xs5wuxI" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/qkR-Xs5wuxI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
------------------------------------------------------------------------------
-	Potencial Eléctrico
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Potencial Eléctrico</span>
-</p>
 
 
-<div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('ktSDEM1B_6U');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 1</span>
-</p>
-<div id="ktSDEM1B_6U" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/ktSDEM1B_6U?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
-<div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('aCsGTczcxs0');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 2</span>
-</p>
-<div id="aCsGTczcxs0" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/aCsGTczcxs0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
-
------------------------------------------------------------------------------
-	Condensadores
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Condensadores</span>
-</p>
+	-----------------------------------------------------------------------------
+	2 Ley de Gauss
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('ZIBT7H7g1ew');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 1</span>
-</p>
-<div id="ZIBT7H7g1ew" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/ZIBT7H7g1ew?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ley de Gauss</span>
+	</p>
 
-<div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('Clkqa7UqreA');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 2</span>
-</p>
-<div id="Clkqa7UqreA" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/Clkqa7UqreA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('lk9jgHbcyYQ');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Introducción</span>
+	</p>
+	<div id="lk9jgHbcyYQ" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/lk9jgHbcyYQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('-Mwy7D2IlRg');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="-Mwy7D2IlRg" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/-Mwy7D2IlRg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('WqYq2T-asXc');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="WqYq2T-asXc" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/WqYq2T-asXc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('kj5ZitRZRFk');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 3</span>
+	</p>
+	<div id="kj5ZitRZRFk" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/kj5ZitRZRFk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('KckOoaEbBXE');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 4</span>
+	</p>
+	<div id="KckOoaEbBXE" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/KckOoaEbBXE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('qkR-Xs5wuxI');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 5</span>
+	</p>
+	<div id="qkR-Xs5wuxI" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/qkR-Xs5wuxI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	3 Potencial Eléctrico
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Potencial Eléctrico</span>
+	</p>
+
+	<div class="modulo2 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('ktSDEM1B_6U');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="ktSDEM1B_6U" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/ktSDEM1B_6U?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo2 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('aCsGTczcxs0');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="aCsGTczcxs0" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/aCsGTczcxs0?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	4 Condensadores
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 4')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Condensadores</span>
+	</p>
+
+	<div class="modulo2 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('ZIBT7H7g1ew');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="ZIBT7H7g1ew" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/ZIBT7H7g1ew?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo2 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('Clkqa7UqreA');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="Clkqa7UqreA" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/Clkqa7UqreA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Circuitos de Corriente Continua
+3 Circuitos de Corriente Continua
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-92599');colapsID('module-112196');colapsID('module-112186');" style="cursor:pointer;"><span>Unidad 3: Circuitos de Corriente Continua</span></p>
 
 
------------------------------------------------------------------------------
-	Leyes de Kirchhoff
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Leyes de Kirchhoff</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Leyes de Kirchhoff
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('YxRzOyvTeQU');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 1</span>
-</p>
-<div id="YxRzOyvTeQU" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/YxRzOyvTeQU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Leyes de Kirchhoff</span>
+	</p>
 
-<div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9tM1qj2mDJM');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 2</span>
-</p>
-<div id="9tM1qj2mDJM" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/9tM1qj2mDJM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo3 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('YxRzOyvTeQU');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="YxRzOyvTeQU" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/YxRzOyvTeQU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo3 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('9tM1qj2mDJM');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="9tM1qj2mDJM" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/9tM1qj2mDJM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Campo Magnético
+4 Campo Magnético
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-92032');colapsID('module-112197');colapsID('module-112188');colapsID('module-112189');" style="cursor:pointer;"><span>Unidad 4: Campo Magnético</span></p>
 
 
------------------------------------------------------------------------------
-	Fuerza Magnética y Ley de Biot-Savart
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Fuerza Magnética y Ley de Biot-Savart</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Fuerza Magnética y Ley de Biot-Savart
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9AkxArLnz_s');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Introducción</span>
-</p>
-<div id="9AkxArLnz_s" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/9AkxArLnz_s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Fuerza Magnética y Ley de Biot-Savart</span>
+	</p>
 
-<div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('H7rokJZo324');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 1</span>
-</p>
-<div id="H7rokJZo324" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/H7rokJZo324?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo4 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('9AkxArLnz_s');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Introducción</span>
+	</p>
+	<div id="9AkxArLnz_s" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/9AkxArLnz_s?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('BrpcocmzNg4');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 2</span>
-</p>
-<div id="BrpcocmzNg4" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/BrpcocmzNg4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo4 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('H7rokJZo324');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="H7rokJZo324" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/H7rokJZo324?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
------------------------------------------------------------------------------
-	Ley de Ampere
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ley de Ampere</span>
-</p>
+	<div class="modulo4 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('BrpcocmzNg4');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="BrpcocmzNg4" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/BrpcocmzNg4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
 
-<div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('DbsUULR4Wxc');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Introducción</span>
-</p>
-<div id="DbsUULR4Wxc" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/DbsUULR4Wxc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
 
-<div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('oWaylxLuvy4');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 1</span>
-</p>
-<div id="oWaylxLuvy4" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/oWaylxLuvy4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
 
-<div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('zFebuGoDEwo');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 2</span>
-</p>
-<div id="zFebuGoDEwo" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/zFebuGoDEwo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	-----------------------------------------------------------------------------
+	2 Ley de Ampere
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ley de Ampere</span>
+	</p>
+
+	<div class="modulo4 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('DbsUULR4Wxc');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Introducción</span>
+	</p>
+	<div id="DbsUULR4Wxc" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/DbsUULR4Wxc?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo4 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('oWaylxLuvy4');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="oWaylxLuvy4" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/oWaylxLuvy4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo4 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('zFebuGoDEwo');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="zFebuGoDEwo" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/zFebuGoDEwo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Inducción Electromagnética
+5 Inducción Electromagnética
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-92038');colapsID('module-112198');colapsID('module-112192');" style="cursor:pointer;"><span>Unidad 5: Inducción Electromagnética</span></p>
 
 
------------------------------------------------------------------------------
-	Inducción Electromagnética
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo5 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Inducción Electromagnética</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Inducción Electromagnética
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('BIuISj4E0xQ');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Introducción</span>
-</p>
-<div id="BIuISj4E0xQ" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/BIuISj4E0xQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo5 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Inducción Electromagnética</span>
+	</p>
 
-<div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('wZFK3ejnyQg');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 1</span>
-</p>
-<div id="wZFK3ejnyQg" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/wZFK3ejnyQg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo5 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('BIuISj4E0xQ');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Introducción</span>
+	</p>
+	<div id="BIuISj4E0xQ" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/BIuISj4E0xQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<div class="modulo5 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('IC2iJ1xvJB8');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Ejercicio 2</span>
-</p>
-<div id="IC2iJ1xvJB8" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/IC2iJ1xvJB8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo5 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('wZFK3ejnyQg');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="wZFK3ejnyQg" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/wZFK3ejnyQg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo5 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('IC2iJ1xvJB8');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="IC2iJ1xvJB8" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/IC2iJ1xvJB8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

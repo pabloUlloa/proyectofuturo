@@ -1,147 +1,224 @@
 =============================================================================
-Sistemas Lineales y Matrices
+1 Sistemas Lineales y Matrices
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104816');" style="cursor:pointer;"><span>Unidad 1: Sistemas Lineales y Matrices</span></p>
 
 
------------------------------------------------------------------------------
-	Sistemas de Ecuaciones Lineales
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Sistemas de Ecuaciones Lineales</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Sistemas de Ecuaciones Lineales
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9581');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Sistemas de Ecuaciones Lineales</span>
+	</p>
 
------------------------------------------------------------------------------
-	Ecuaciones y Matrices
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ecuaciones y Matrices</span>
-</p>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('1936');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7683');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Matrices
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Matrices</span>
-</p>
 
 
-<div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1526');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Soluciones de ecuaciones
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Soluciones de ecuaciones</span>
-</p>
+	-----------------------------------------------------------------------------
+	2 Ecuaciones y Matrices
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2405');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Ecuaciones y Matrices</span>
+	</p>
+
+	<div class="modulo1 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('956');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	3 Matrices
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Matrices</span>
+	</p>
+
+	<div class="modulo1 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('6351');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	4 Soluciones de ecuaciones
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 4')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Soluciones de ecuaciones</span>
+	</p>
+
+	<div class="modulo1 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('9336');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Espacios Vectoriales y Transformaciones Lineales
+2 Espacios Vectoriales y Transformaciones Lineales
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104817');" style="cursor:pointer;"><span>Unidad 2: Espacios Vectoriales y Transformaciones Lineales</span></p>
 
 
------------------------------------------------------------------------------
-	Espacios Vectoriales
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Espacios Vectoriales</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Espacios Vectoriales
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2301');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Espacios Vectoriales</span>
+	</p>
 
------------------------------------------------------------------------------
-	Espacios con producto interno
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Espacios con producto interno</span>
-</p>
+	<div class="modulo2 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('4215');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5846');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Transformaciones Lineales
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Transformaciones Lineales</span>
-</p>
 
 
-<div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3238');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	-----------------------------------------------------------------------------
+	2 Espacios con producto interno
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Espacios con producto interno</span>
+	</p>
+
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('294');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	3 Transformaciones Lineales
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Transformaciones Lineales</span>
+	</p>
+
+	<div class="modulo2 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('2307');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Álgebra Discreta
+3 Álgebra Discreta
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104818');" style="cursor:pointer;"><span>Unidad 3: Álgebra Discreta</span></p>
 
 
------------------------------------------------------------------------------
-	Los números enteros
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Los números enteros</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Los números enteros
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7053');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Los números enteros</span>
+	</p>
+
+	<div class="modulo3 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('7184');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

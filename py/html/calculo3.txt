@@ -1,366 +1,490 @@
 =============================================================================
-Series de Fourier
+1 Series de Fourier
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104629');" style="cursor:pointer;"><span>Unidad 1: Series de Fourier</span></p>
 
 
------------------------------------------------------------------------------
-	Series de Fourier
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Series de Fourier</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Series de Fourier
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('_WQB_mM92pU');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fourier - Definición y convergencia</span>
-</p>
-<div id="_WQB_mM92pU" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/_WQB_mM92pU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Series de Fourier</span>
+	</p>
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('rAAA5QxeCi8');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fourier - Extensiones Par e Impar</span>
-</p>
-<div id="rAAA5QxeCi8" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/rAAA5QxeCi8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('_WQB_mM92pU');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Fourier - Definición y convergencia</span>
+	</p>
+	<div id="_WQB_mM92pU" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/_WQB_mM92pU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('NI3YfXjKrxA');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fourier - Ejercicio 1</span>
-</p>
-<div id="NI3YfXjKrxA" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/NI3YfXjKrxA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('rAAA5QxeCi8');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Fourier - Extensiones Par e Impar</span>
+	</p>
+	<div id="rAAA5QxeCi8" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/rAAA5QxeCi8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('bOugXeLnHiY');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fourier - Ejercicio 2a</span>
-</p>
-<div id="bOugXeLnHiY" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/bOugXeLnHiY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('NI3YfXjKrxA');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Fourier - Ejercicio 1</span>
+	</p>
+	<div id="NI3YfXjKrxA" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/NI3YfXjKrxA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('bSM0py4hwZ8');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fourier - Ejercicio 2b</span>
-</p>
-<div id="bSM0py4hwZ8" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/bSM0py4hwZ8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('bOugXeLnHiY');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Fourier - Ejercicio 2a</span>
+	</p>
+	<div id="bOugXeLnHiY" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/bOugXeLnHiY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3bW-7uWGQFE');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fourier - Ejercicio 3</span>
-</p>
-<div id="3bW-7uWGQFE" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/3bW-7uWGQFE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('bSM0py4hwZ8');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Fourier - Ejercicio 2b</span>
+	</p>
+	<div id="bSM0py4hwZ8" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/bSM0py4hwZ8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('rfVUSMsyDYM');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Fourier - Ejercicio 4</span>
-</p>
-<div id="rfVUSMsyDYM" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/rfVUSMsyDYM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('3bW-7uWGQFE');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Fourier - Ejercicio 3</span>
+	</p>
+	<div id="3bW-7uWGQFE" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/3bW-7uWGQFE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
------------------------------------------------------------------------------
-	Convergencias
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Convergencias</span>
-</p>
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('rfVUSMsyDYM');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Fourier - Ejercicio 4</span>
+	</p>
+	<div id="rfVUSMsyDYM" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/rfVUSMsyDYM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
 
-<div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8042');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+
+
+	-----------------------------------------------------------------------------
+	2 Convergencias
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo1 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Convergencias</span>
+	</p>
+
+	<div class="modulo1 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('7707');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Funciones Vectoriales de Variable Real
+2 Funciones Vectoriales de Variable Real
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104630');" style="cursor:pointer;"><span>Unidad 2: Funciones Vectoriales de Variable Real</span></p>
 
 
------------------------------------------------------------------------------
-	Diferenciación de funciones vectoriales
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Diferenciación de funciones vectoriales</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Diferenciación de funciones vectoriales
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('XyiP2uL68qw');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Funciones Vectoriales - Conceptos</span>
-</p>
-<div id="XyiP2uL68qw" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/XyiP2uL68qw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Diferenciación de funciones vectoriales</span>
+	</p>
 
-<div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('jjsnyByROUk');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Funciones Vectoriales - Ejercicio 1</span>
-</p>
-<div id="jjsnyByROUk" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/jjsnyByROUk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo2 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('XyiP2uL68qw');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Funciones Vectoriales - Conceptos</span>
+	</p>
+	<div id="XyiP2uL68qw" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/XyiP2uL68qw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('c5xP7r-fEtU');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Funciones Vectoriales - Ejercicio 2</span>
-</p>
-<div id="c5xP7r-fEtU" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/c5xP7r-fEtU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo2 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('jjsnyByROUk');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Funciones Vectoriales - Ejercicio 1</span>
+	</p>
+	<div id="jjsnyByROUk" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/jjsnyByROUk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
-<div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('uLThconGRB4');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Funciones Vectoriales - Parámetro longitud de arco</span>
-</p>
-<div id="uLThconGRB4" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/uLThconGRB4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+	<div class="modulo2 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('c5xP7r-fEtU');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Funciones Vectoriales - Ejercicio 2</span>
+	</p>
+	<div id="c5xP7r-fEtU" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/c5xP7r-fEtU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
------------------------------------------------------------------------------
-	Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</span>
-</p>
+	<div class="modulo2 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('uLThconGRB4');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Funciones Vectoriales - Parámetro longitud de arco</span>
+	</p>
+	<div id="uLThconGRB4" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/uLThconGRB4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
 
 
-<div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('40aL1KBVBaw');" style="cursor:pointer;margin-left:30px;">
-<span style="margin-left: 50px;">Funciones Vectoriales - Curvas</span>
-</p>
-<div id="40aL1KBVBaw" style="display: none;"><center>
-<iframe src="https://www.youtube.com/embed/40aL1KBVBaw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
-</center></div>
-</div>
+
+
+	-----------------------------------------------------------------------------
+	2 Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo2 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Curvas en \(\mathbb{R}^2\) y \(\mathbb{R}^3\)</span>
+	</p>
+
+	<div class="modulo2 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('40aL1KBVBaw');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Funciones Vectoriales - Curvas</span>
+	</p>
+	<div id="40aL1KBVBaw" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/40aL1KBVBaw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Funciones de Varias Variables
+3 Funciones de Varias Variables
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104631');" style="cursor:pointer;"><span>Unidad 3: Funciones de Varias Variables</span></p>
 
 
------------------------------------------------------------------------------
-	Conceptos básicos: límite, continuidad, curvas y superficies de nivel
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Conceptos básicos: límite, continuidad, curvas y superficies de nivel</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Conceptos básicos: límite, continuidad, curvas y superficies de nivel
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7572');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Conceptos básicos: límite, continuidad, curvas y superficies de nivel</span>
+	</p>
 
------------------------------------------------------------------------------
-	Derivadas parciales, vector gradiente y derivada direcciónal
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Derivadas parciales, vector gradiente y derivada direcciónal</span>
-</p>
+	<div class="modulo3 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('2096');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9809');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Diferenciabilidad y propiedades
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Diferenciabilidad y propiedades</span>
-</p>
 
 
-<div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5804');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Derivación compuesta
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Derivación compuesta</span>
-</p>
+	-----------------------------------------------------------------------------
+	2 Derivadas parciales, vector gradiente y derivada direcciónal
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5411');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Derivadas parciales, vector gradiente y derivada direcciónal</span>
+	</p>
 
------------------------------------------------------------------------------
-	Derivación implícita y derivación inversa
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 5')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Derivación implícita y derivación inversa</span>
-</p>
+	<div class="modulo3 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('1644');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo3 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4504');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Valores extremos
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 6')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Valores extremos</span>
-</p>
 
 
-<div class="modulo3 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7879');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Extremos condicionados
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo3 7')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 7: </span><span class="nombreModulo">Extremos condicionados</span>
-</p>
+	-----------------------------------------------------------------------------
+	3 Diferenciabilidad y propiedades
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo3 7" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2303');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Diferenciabilidad y propiedades</span>
+	</p>
+
+	<div class="modulo3 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('1297');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	4 Derivación compuesta
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 4')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Derivación compuesta</span>
+	</p>
+
+	<div class="modulo3 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('6454');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	5 Derivación implícita y derivación inversa
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 5')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Derivación implícita y derivación inversa</span>
+	</p>
+
+	<div class="modulo3 5" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('9444');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	6 Valores extremos
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 6')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 6: </span><span class="nombreModulo">Valores extremos</span>
+	</p>
+
+	<div class="modulo3 6" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('9713');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	7 Extremos condicionados
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo3 7')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 7: </span><span class="nombreModulo">Extremos condicionados</span>
+	</p>
+
+	<div class="modulo3 7" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('339');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 =============================================================================
-Integrales dobles, triples, de línea y de superficie
+4 Integrales dobles, triples, de línea y de superficie
+=============================================================================
+
 
 <hr />
 <p class="unidad" onclick="colapsID('module-104820');" style="cursor:pointer;"><span>Unidad 4: Integrales dobles, triples, de línea y de superficie</span></p>
 
 
------------------------------------------------------------------------------
-	Integrales dobles
 
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Integrales dobles</span>
-</p>
+	-----------------------------------------------------------------------------
+	1 Integrales dobles
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3638');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 1')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 1: </span><span class="nombreModulo">Integrales dobles</span>
+	</p>
 
------------------------------------------------------------------------------
-	Integrales triples
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Integrales triples</span>
-</p>
+	<div class="modulo4 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('8737');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3073');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Integrales de línea (curvilínea)
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 3')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Integrales de línea (curvilínea)</span>
-</p>
 
 
-<div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8055');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
-
------------------------------------------------------------------------------
-	Integrales de superficie
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 4')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Integrales de superficie</span>
-</p>
+	-----------------------------------------------------------------------------
+	2 Integrales triples
+	-----------------------------------------------------------------------------
 
 
-<div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5039');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 2')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 2: </span><span class="nombreModulo">Integrales triples</span>
+	</p>
 
------------------------------------------------------------------------------
-	Teoremas de transformación de integrales
-
-<hr />
-<p class="modulo" onclick="colapsarClase('modulo4 5')" style="cursor:pointer;">
-<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Teoremas de transformación de integrales</span>
-</p>
+	<div class="modulo4 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('7987');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
 
 
-<div class="modulo4 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7579');" style="cursor:pointer;margin-left:30px">
-<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
-</p>
-</div>
+
+
+	-----------------------------------------------------------------------------
+	3 Integrales de línea (curvilínea)
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 3')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 3: </span><span class="nombreModulo">Integrales de línea (curvilínea)</span>
+	</p>
+
+	<div class="modulo4 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('4906');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	4 Integrales de superficie
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 4')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 4: </span><span class="nombreModulo">Integrales de superficie</span>
+	</p>
+
+	<div class="modulo4 4" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('1744');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+	-----------------------------------------------------------------------------
+	5 Teoremas de transformación de integrales
+	-----------------------------------------------------------------------------
+
+
+	<hr />
+	<p class="modulo" onclick="colapsarClase('modulo4 5')" style="cursor:pointer;">
+	<span class="numeroModulo">Módulo 5: </span><span class="nombreModulo">Teoremas de transformación de integrales</span>
+	</p>
+
+	<div class="modulo4 5" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('1151');" style="cursor:pointer;margin-left:30px">
+	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	</p>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
