@@ -73,7 +73,7 @@ def banner():
 """
 
 def inp(s):
-    r=raw_input(s)
+    r=raw_input(s+u"\n> ")
     if r.upper()=="EXIT" or r.upper()=="SALIR":
         exit(1)
     elif r.upper()=="MENU":

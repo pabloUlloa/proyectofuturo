@@ -15,7 +15,7 @@ Cinemática de la partícula
 
 
 <div class="modulo1 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8159');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3566');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -30,7 +30,7 @@ Cinemática de la partícula
 
 
 <div class="modulo1 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1651');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5045');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -45,7 +45,7 @@ Cinemática de la partícula
 
 
 <div class="modulo1 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5584');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9588');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -60,7 +60,7 @@ Cinemática de la partícula
 
 
 <div class="modulo1 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('697');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6612');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -84,7 +84,7 @@ Dinámica de la partícula
 
 
 <div class="modulo2 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('612');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2467');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -99,7 +99,7 @@ Dinámica de la partícula
 
 
 <div class="modulo2 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('2482');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6954');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -114,7 +114,7 @@ Dinámica de la partícula
 
 
 <div class="modulo2 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('148');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6156');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -129,7 +129,7 @@ Dinámica de la partícula
 
 
 <div class="modulo2 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('9176');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5123');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -144,7 +144,7 @@ Dinámica de la partícula
 
 
 <div class="modulo2 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1301');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('2656');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -159,7 +159,7 @@ Dinámica de la partícula
 
 
 <div class="modulo2 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8683');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7353');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -183,7 +183,7 @@ Dinámica de un sistema de partículas
 
 
 <div class="modulo3 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('696');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('9123');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -198,7 +198,7 @@ Dinámica de un sistema de partículas
 
 
 <div class="modulo3 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1439');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7841');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -213,7 +213,7 @@ Dinámica de un sistema de partículas
 
 
 <div class="modulo3 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('788');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4526');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -228,7 +228,7 @@ Dinámica de un sistema de partículas
 
 
 <div class="modulo3 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1152');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6432');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -243,7 +243,7 @@ Dinámica de un sistema de partículas
 
 
 <div class="modulo3 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('8426');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('4580');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -258,7 +258,7 @@ Dinámica de un sistema de partículas
 
 
 <div class="modulo3 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('6571');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('706');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -273,7 +273,7 @@ Dinámica de un sistema de partículas
 
 
 <div class="modulo3 7" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4700');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('3980');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -288,7 +288,7 @@ Dinámica de un sistema de partículas
 
 
 <div class="modulo3 8" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5283');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6745');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -312,7 +312,7 @@ Cinemática y Dinámica del cuerpo rígido
 
 
 <div class="modulo4 1" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('5960');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7142');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -327,7 +327,7 @@ Cinemática y Dinámica del cuerpo rígido
 
 
 <div class="modulo4 2" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('1257');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('5246');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -342,7 +342,7 @@ Cinemática y Dinámica del cuerpo rígido
 
 
 <div class="modulo4 3" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('381');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('567');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -357,7 +357,7 @@ Cinemática y Dinámica del cuerpo rígido
 
 
 <div class="modulo4 4" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7921');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('7173');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -372,7 +372,7 @@ Cinemática y Dinámica del cuerpo rígido
 
 
 <div class="modulo4 5" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('3180');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6041');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -387,7 +387,7 @@ Cinemática y Dinámica del cuerpo rígido
 
 
 <div class="modulo4 6" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('4687');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('6666');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
@@ -402,7 +402,7 @@ Cinemática y Dinámica del cuerpo rígido
 
 
 <div class="modulo4 7" style="margin-left:30px;display:none;">
-<p class="video" onclick="colapsID('7807');" style="cursor:pointer;margin-left:30px">
+<p class="video" onclick="colapsID('932');" style="cursor:pointer;margin-left:30px">
 <span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 </p>
 </div>
