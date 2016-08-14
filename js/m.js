@@ -73,7 +73,7 @@ function crearClases(){
 			cursor: pointer;\
 			opacity: 0.8;\
 			position: absolute;\
-			margin-left: 20%;\
+			margin-left: 7%;\
 			margin-top: 65px;\
 		}\
 		.modulo{\
@@ -95,7 +95,7 @@ function crearClases(){
 		.nombreModulo{\
 			margin-left:130px;\
 			font-family:tizaImprenta;\
-			font-size:24px;\
+			font-size:22px;\
 		}\
 		.numeroModulo{\
 			font-family:tizaCursiva;\
