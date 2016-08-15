@@ -1,13 +1,6 @@
 {
     "unidades": [
         {
-            "toggleId": [
-                "module-104806",
-                "module-106093",
-                "module-104366",
-                "module-104370",
-                "module-104374"
-            ], 
             "nombre": "Elementos de Lógica Matemática", 
             "modulos": [
                 {
@@ -22,16 +15,16 @@
                     "nombre": "Cuantificadores, Leyes de cuantificación", 
                     "videos": []
                 }
+            ], 
+            "toggleId": [
+                "module-104806", 
+                "module-106093", 
+                "module-104366", 
+                "module-104370", 
+                "module-104374"
             ]
         }, 
         {
-            "toggleId": [
-                "module-104807",
-                "module-111575",
-                "module-104384",
-                "module-104388",
-                "module-104392"
-            ], 
             "nombre": "Inducción y Sumatoria", 
             "modulos": [
                 {
@@ -80,16 +73,16 @@
                     "nombre": "Sumatoria doble y propiedades", 
                     "videos": []
                 }
+            ], 
+            "toggleId": [
+                "module-104807", 
+                "module-111575", 
+                "module-104384", 
+                "module-104388", 
+                "module-104392"
             ]
         }, 
         {
-            "toggleId": [
-                "module-104808",
-                "module-111576",
-                "module-111545",
-                "module-111546",
-                "module-111547"
-            ], 
             "nombre": "Progresiones y Análisis combinatorio", 
             "modulos": [
                 {
@@ -154,15 +147,16 @@
                         }
                     ]
                 }
+            ], 
+            "toggleId": [
+                "module-104808", 
+                "module-111576", 
+                "module-111545", 
+                "module-111546", 
+                "module-111547"
             ]
         }, 
         {
-            "toggleId": [
-                "module-104809",
-                "module-111577",
-                "module-111549",
-                "module-111550"
-            ], 
             "nombre": "Relaciones", 
             "modulos": [
                 {
@@ -203,19 +197,15 @@
                         }
                     ]
                 }
+            ], 
+            "toggleId": [
+                "module-104809", 
+                "module-111577", 
+                "module-111549", 
+                "module-111550"
             ]
         }, 
         {
-            "toggleId": [
-                "module-104810",
-                "module-111578",
-                "module-111552",
-                "module-111553",
-                "module-111554",
-                "module-111555",
-                "module-111556",
-                "module-111557"
-            ], 
             "nombre": "Geometría Analítica", 
             "modulos": [
                 {
@@ -252,16 +242,19 @@
                         }
                     ]
                 }
+            ], 
+            "toggleId": [
+                "module-104810", 
+                "module-111578", 
+                "module-111552", 
+                "module-111553", 
+                "module-111554", 
+                "module-111555", 
+                "module-111556", 
+                "module-111557"
             ]
         }, 
         {
-            "toggleId": [
-                "module-104811",
-                "module-111579",
-                "module-111559",
-                "module-111560",
-                "module-111561"
-            ], 
             "nombre": "Grupos, Anillos y Homomorfismos", 
             "modulos": [
                 {
@@ -276,16 +269,16 @@
                     "nombre": "Anillo y propiedades", 
                     "videos": []
                 }
+            ], 
+            "toggleId": [
+                "module-104811", 
+                "module-111579", 
+                "module-111559", 
+                "module-111560", 
+                "module-111561"
             ]
         }, 
         {
-            "toggleId": [
-                "module-104812",
-                "module-111580",
-                "module-111563",
-                "module-111564",
-                "module-111565"
-            ], 
             "nombre": "Complementos de Complejos", 
             "modulos": [
                 {
@@ -300,16 +293,16 @@
                     "nombre": "Raices de un complejo", 
                     "videos": []
                 }
+            ], 
+            "toggleId": [
+                "module-104812", 
+                "module-111580", 
+                "module-111563", 
+                "module-111564", 
+                "module-111565"
             ]
         }, 
         {
-            "toggleId": [
-                "module-104813",
-                "module-111581",
-                "module-111567",
-                "module-111568",
-                "module-111569"
-            ], 
             "nombre": "Complementos de Polinomios", 
             "modulos": [
                 {
@@ -338,17 +331,16 @@
                         }
                     ]
                 }
+            ], 
+            "toggleId": [
+                "module-104813", 
+                "module-111581", 
+                "module-111567", 
+                "module-111568", 
+                "module-111569"
             ]
         }, 
         {
-            "toggleId": [
-                "module-104814",
-                "module-111582",
-                "module-104628",
-                "module-111571",
-                "module-111572",
-                "module-111573"
-            ], 
             "nombre": "Complementos de Matrices", 
             "modulos": [
                 {
@@ -367,6 +359,14 @@
                     "nombre": "Operaciones elementales", 
                     "videos": []
                 }
+            ], 
+            "toggleId": [
+                "module-104814", 
+                "module-111582", 
+                "module-104628", 
+                "module-111571", 
+                "module-111572", 
+                "module-111573"
             ]
         }
     ], 
