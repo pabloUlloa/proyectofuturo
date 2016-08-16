@@ -19,9 +19,30 @@
 	</p>
 
 	<div class="modulo1 1" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('6429');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('http://bYcaCoBlzYs');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos</span>
 	</p>
+	<div id="http://bYcaCoBlzYs" style="display: none;"><center>
+	<iframe src="http://https://www.youtube.com/embed/bYcaCoBlzYs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('http://GelkvL91IAs');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos 2</span>
+	</p>
+	<div id="http://GelkvL91IAs" style="display: none;"><center>
+	<iframe src="http://https://www.youtube.com/embed/GelkvL91IAs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo1 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('http://uOjl1z7oazs');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Logica Funcional</span>
+	</p>
+	<div id="http://uOjl1z7oazs" style="display: none;"><center>
+	<iframe src="http://https://www.youtube.com/embed/uOjl1z7oazs?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -38,7 +59,7 @@
 	</p>
 
 	<div class="modulo1 2" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('9311');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('1833');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -57,7 +78,7 @@
 	</p>
 
 	<div class="modulo1 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('2062');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('552');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -198,9 +219,30 @@
 	</p>
 
 	<div class="modulo2 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('2327');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('T-1Cw3BJnJE');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos</span>
 	</p>
+	<div id="T-1Cw3BJnJE" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/T-1Cw3BJnJE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo2 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('1_hxfsmMa3Y&index=14');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="1_hxfsmMa3Y&index=14" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/1_hxfsmMa3Y&index=14?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo2 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('EhOhjTKbSzo');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="EhOhjTKbSzo" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/EhOhjTKbSzo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -317,7 +359,7 @@
 	</p>
 
 	<div class="modulo3 2" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('696');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('4326');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -531,9 +573,12 @@
 	</p>
 
 	<div class="modulo5 1" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('1478');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('ffrm8azbefY');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos Basicos</span>
 	</p>
+	<div id="ffrm8azbefY" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/ffrm8azbefY?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -550,9 +595,30 @@
 	</p>
 
 	<div class="modulo5 2" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('5739');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('63tjTQfFC_g');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Linea Recta</span>
 	</p>
+	<div id="63tjTQfFC_g" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/63tjTQfFC_g?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo5 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('UR4nVN8HNuA');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="UR4nVN8HNuA" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/UR4nVN8HNuA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo5 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('k6T_OmlwLwM');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="k6T_OmlwLwM" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/k6T_OmlwLwM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -569,9 +635,21 @@
 	</p>
 
 	<div class="modulo5 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('1513');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('z2qJMeJfYf8');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">La Circunferencia</span>
 	</p>
+	<div id="z2qJMeJfYf8" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/z2qJMeJfYf8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo5 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('66sigqnLvSo');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="66sigqnLvSo" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/66sigqnLvSo?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -588,9 +666,12 @@
 	</p>
 
 	<div class="modulo5 4" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('6509');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('0lixCG9qQbU');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">La Parabola</span>
 	</p>
+	<div id="0lixCG9qQbU" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/0lixCG9qQbU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -675,9 +756,21 @@
 	</p>
 
 	<div class="modulo6 1" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('6114');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('pCjK9zxW9aU');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos</span>
 	</p>
+	<div id="pCjK9zxW9aU" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/pCjK9zxW9aU?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo6 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('E-SSQRkzkZM');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejemplo 1</span>
+	</p>
+	<div id="E-SSQRkzkZM" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/E-SSQRkzkZM?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -694,9 +787,30 @@
 	</p>
 
 	<div class="modulo6 2" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('2014');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('tBso4RdilqQ');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos</span>
 	</p>
+	<div id="tBso4RdilqQ" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/tBso4RdilqQ?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo6 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('sLEarQqBE1Q');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejemplo 1</span>
+	</p>
+	<div id="sLEarQqBE1Q" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/sLEarQqBE1Q?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo6 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('nn9rO7s1dpw');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejemplo 2</span>
+	</p>
+	<div id="nn9rO7s1dpw" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/nn9rO7s1dpw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -713,7 +827,7 @@
 	</p>
 
 	<div class="modulo6 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('1627');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('7336');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -756,9 +870,21 @@
 	</p>
 
 	<div class="modulo7 1" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('9955');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('Av3UrFDNlXw');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos</span>
 	</p>
+	<div id="Av3UrFDNlXw" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/Av3UrFDNlXw?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo7 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('lW6bmzZ04j8');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="lW6bmzZ04j8" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/lW6bmzZ04j8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -775,7 +901,7 @@
 	</p>
 
 	<div class="modulo7 2" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('6162');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('5773');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -794,9 +920,39 @@
 	</p>
 
 	<div class="modulo7 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('8037');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('_YKzgL-WRm4');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos</span>
 	</p>
+	<div id="_YKzgL-WRm4" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/_YKzgL-WRm4?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo7 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('a_xsblPhn5w');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="a_xsblPhn5w" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/a_xsblPhn5w?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo7 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('83qjtFOm5MI');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="83qjtFOm5MI" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/83qjtFOm5MI?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo7 3" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('NJupm0b72DE');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 3</span>
+	</p>
+	<div id="NJupm0b72DE" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/NJupm0b72DE?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -854,6 +1010,15 @@
 	</center></div>
 	</div>
 
+	<div class="modulo8 1" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('_2_fTowUcQg');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="_2_fTowUcQg" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/_2_fTowUcQg?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
 
 
 
@@ -868,9 +1033,39 @@
 	</p>
 
 	<div class="modulo8 2" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('7602');" style="cursor:pointer;margin-left:30px">
-	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
+	<p class="video" onclick="colapsID('fRNucB4MFEk');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos</span>
 	</p>
+	<div id="fRNucB4MFEk" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/fRNucB4MFEk?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo8 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('fEwN0G5p4Ac');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Conceptos 2</span>
+	</p>
+	<div id="fEwN0G5p4Ac" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/fEwN0G5p4Ac?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo8 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('FzOvsMH-tKA');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 1</span>
+	</p>
+	<div id="FzOvsMH-tKA" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/FzOvsMH-tKA?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
+	</div>
+
+	<div class="modulo8 2" style="margin-left:30px;display:none;">
+	<p class="video" onclick="colapsID('H5IPObjeRi8');" style="cursor:pointer;margin-left:30px;">
+	<span style="margin-left: 50px;">Ejercicio 2</span>
+	</p>
+	<div id="H5IPObjeRi8" style="display: none;"><center>
+	<iframe src="https://www.youtube.com/embed/H5IPObjeRi8?rel=0" allowfullscreen="" frameborder="0" height="169" width="300"></iframe>
+	</center></div>
 	</div>
 
 
@@ -933,7 +1128,7 @@
 	</p>
 
 	<div class="modulo9 1" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('2423');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('4501');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -952,7 +1147,7 @@
 	</p>
 
 	<div class="modulo9 2" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('70');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('8342');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -971,7 +1166,7 @@
 	</p>
 
 	<div class="modulo9 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('318');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('7109');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -990,7 +1185,7 @@
 	</p>
 
 	<div class="modulo9 4" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('2605');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('9299');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>

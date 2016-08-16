@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 {
     "unidades": [
         {
@@ -7,7 +5,20 @@
             "modulos": [
                 {
                     "nombre": "Proposiciones, conectivos, tablas de verdad", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "http://https://www.youtube.com/watch?v=bYcaCoBlzYs", 
+                            "nombre": "Conceptos"
+                        }, 
+                        {
+                            "url": "http://https://www.youtube.com/watch?v=GelkvL91IAs", 
+                            "nombre": "Conceptos 2"
+                        }, 
+                        {
+                            "url": "http://https://www.youtube.com/watch?v=uOjl1z7oazs", 
+                            "nombre": "Logica Funcional"
+                        }
+                    ]
                 }, 
                 {
                     "nombre": "Reglas de inferencia", 
@@ -73,7 +84,20 @@
                 }, 
                 {
                     "nombre": "Sumatoria doble y propiedades", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=T-1Cw3BJnJE", 
+                            "nombre": "Conceptos"
+                        }, 
+                        {
+                            "url": "http://https://www.youtube.com/watch?v=1_hxfsmMa3Y", 
+                            "nombre": "Ejercicio 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=EhOhjTKbSzo", 
+                            "nombre": "Ejercicio 2"
+                        }
+                    ]
                 }
             ], 
             "toggleId": [
@@ -212,19 +236,51 @@
             "modulos": [
                 {
                     "nombre": "Conceptos Básicos", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=ffrm8azbefY", 
+                            "nombre": "Conceptos Basicos"
+                        }
+                    ]
                 }, 
                 {
                     "nombre": "Línea Recta", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=63tjTQfFC_g", 
+                            "nombre": "Linea Recta"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=UR4nVN8HNuA", 
+                            "nombre": "Ejercicio 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=k6T_OmlwLwM", 
+                            "nombre": "Ejercicio 2"
+                        }
+                    ]
                 }, 
                 {
                     "nombre": "Circunferencia", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=z2qJMeJfYf8", 
+                            "nombre": "La Circunferencia"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=66sigqnLvSo", 
+                            "nombre": "Ejercicio 1"
+                        }
+                    ]
                 }, 
                 {
                     "nombre": "Parábola", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=0lixCG9qQbU", 
+                            "nombre": "La Parabola"
+                        }
+                    ]
                 }, 
                 {
                     "nombre": "Elipse", 
@@ -261,11 +317,33 @@
             "modulos": [
                 {
                     "nombre": "Grupos y propiedades", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=pCjK9zxW9aU", 
+                            "nombre": "Conceptos"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=E-SSQRkzkZM", 
+                            "nombre": "Ejemplo 1"
+                        }
+                    ]
                 }, 
                 {
                     "nombre": "Homomorfismo de Grupos", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=tBso4RdilqQ", 
+                            "nombre": "Conceptos"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=sLEarQqBE1Q", 
+                            "nombre": "Ejemplo 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=nn9rO7s1dpw", 
+                            "nombre": "Ejemplo 2"
+                        }
+                    ]
                 }, 
                 {
                     "nombre": "Anillo y propiedades", 
@@ -285,7 +363,16 @@
             "modulos": [
                 {
                     "nombre": "Forma a+bi y operatoria", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=Av3UrFDNlXw", 
+                            "nombre": "Conceptos"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=lW6bmzZ04j8", 
+                            "nombre": "Ejercicio 1"
+                        }
+                    ]
                 }, 
                 {
                     "nombre": "Forma trigonométrica y operatoria", 
@@ -293,7 +380,24 @@
                 }, 
                 {
                     "nombre": "Raices de un complejo", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=_YKzgL-WRm4", 
+                            "nombre": "Conceptos"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=a_xsblPhn5w", 
+                            "nombre": "Ejercicio 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=83qjtFOm5MI", 
+                            "nombre": "Ejercicio 2"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=NJupm0b72DE", 
+                            "nombre": "Ejercicio 3"
+                        }
+                    ]
                 }
             ], 
             "toggleId": [
@@ -317,12 +421,33 @@
                         {
                             "url": "https://www.youtube.com/watch?v=Di4PmUFuwTw", 
                             "nombre": "Ejercicio 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=_2_fTowUcQg", 
+                            "nombre": "Ejercicio 2"
                         }
                     ]
                 }, 
                 {
                     "nombre": "Ayudas para la determinación de raices", 
-                    "videos": []
+                    "videos": [
+                        {
+                            "url": "https://www.youtube.com/watch?v=fRNucB4MFEk", 
+                            "nombre": "Conceptos"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=fEwN0G5p4Ac", 
+                            "nombre": "Conceptos 2"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=FzOvsMH-tKA", 
+                            "nombre": "Ejercicio 1"
+                        }, 
+                        {
+                            "url": "https://www.youtube.com/watch?v=H5IPObjeRi8", 
+                            "nombre": "Ejercicio 2"
+                        }
+                    ]
                 }, 
                 {
                     "nombre": "Relaciones entre raices y coeficientes, fracciones parciales", 
@@ -374,4 +499,3 @@
     ], 
     "asignatura": "Álgebra I para Ingeniería"
 }
->>>>>>> 407629361641be0c758c7aadfa38fe5f6be41615
