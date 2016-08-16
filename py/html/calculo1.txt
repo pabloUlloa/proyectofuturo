@@ -59,7 +59,7 @@
 	</p>
 
 	<div class="modulo1 2" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('1435');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('7160');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -127,7 +127,7 @@
 	</p>
 
 	<div class="modulo1 4" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('2709');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('617');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -259,7 +259,7 @@
 	</p>
 
 	<div class="modulo2 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('7444');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('1624');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -278,7 +278,7 @@
 	</p>
 
 	<div class="modulo2 4" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('3517');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('4448');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -459,7 +459,7 @@
 	</p>
 
 	<div class="modulo3 4" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('5883');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('8980');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -502,7 +502,7 @@
 	</p>
 
 	<div class="modulo4 1" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('3775');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('5937');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -521,7 +521,7 @@
 	</p>
 
 	<div class="modulo4 2" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('8052');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('9959');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -540,7 +540,7 @@
 	</p>
 
 	<div class="modulo4 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('945');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('7762');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -559,7 +559,7 @@
 	</p>
 
 	<div class="modulo4 4" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('7993');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('7106');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -578,7 +578,7 @@
 	</p>
 
 	<div class="modulo4 5" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('4406');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('5420');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -597,7 +597,7 @@
 	</p>
 
 	<div class="modulo4 6" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('6996');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('2356');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -616,7 +616,7 @@
 	</p>
 
 	<div class="modulo4 7" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('5091');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('3070');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -635,7 +635,7 @@
 	</p>
 
 	<div class="modulo4 8" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('5366');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('6796');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -678,7 +678,7 @@
 	</p>
 
 	<div class="modulo5 1" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('6247');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('4495');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -737,7 +737,7 @@
 	</p>
 
 	<div class="modulo5 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('752');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('6758');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -780,7 +780,7 @@
 	</p>
 
 	<div class="modulo6 1" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('1757');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('4884');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
@@ -821,7 +821,7 @@
 	</p>
 
 	<div class="modulo6 3" style="margin-left:30px;display:none;">
-	<p class="video" onclick="colapsID('5960');" style="cursor:pointer;margin-left:30px">
+	<p class="video" onclick="colapsID('584');" style="cursor:pointer;margin-left:30px">
 	<span style="margin-left: 50px;">[Videos aún no disponibles]</span>
 	</p>
 	</div>
